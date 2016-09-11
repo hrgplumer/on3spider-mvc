@@ -1,0 +1,1 @@
+﻿This folder is the destination for uploaded spreadsheets. Do not remove from project.
