@@ -17,9 +17,11 @@
 
         @using (Html.BeginForm("Index", "Home", FormMethod.Post, new {@id = "uploadForm", @enctype = "multipart/form-data"}))
         {
-            <p>Please select a file to upload.</p>
+            <p>Please select a file and category to upload.</p>
             <input type="file" name="fileUpload"/>
             <input type="submit" id="fileUploadSubmit" value="Upload"/>
+
+            @Html.DropDownListFor(model => model.CategoryDropDownSelection, Model.CategoryDropDown);
         }
     </div>
 </div>
