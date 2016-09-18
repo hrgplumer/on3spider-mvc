@@ -1,0 +1,28 @@
+[2016-09-18 17:46:39,412] [25 ] [INFO ] - Engine is still running...
+[2016-09-18 17:46:39,411] [21 ] [INFO ] - Started [1] thread for reporting
+[2016-09-18 17:46:39,419] [21 ] [INFO ] - Started [1] thread running ISiteToCrawlProducer of type [AbotX.Parallel.SiteToCrawlProducer]
+[2016-09-18 17:46:39,422] [21 ] [INFO ] - Started [3] threads running ISiteToCrawlConsumer of type [AbotX.Parallel.SiteToCrawlConsumer]
+[2016-09-18 17:46:39,423] [13 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-09-18 17:46:39,423] [13 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-09-18 17:46:41,946] [8  ] [INFO ] - Crawl for domain [http://www.goterriers.com/sports/w-softbl/mtt/bost-w-softbl-mtt.html] completed successfully in [2.508878] seconds, crawled [1] pages
+[2016-09-18 17:46:41,947] [23 ] [INFO ] - Crawl for domain [http://www.bubearcats.com/index.php/2011_12_softball/] completed successfully in [2.5088622] seconds, crawled [1] pages
+[2016-09-18 17:47:04,818] [23 ] [INFO ] - Crawl for domain [http://www.hartfordhawks.com/roster.aspx?path=softball] completed successfully in [22.8198861] seconds, crawled [1] pages
+[2016-09-18 17:47:04,818] [8  ] [INFO ] - Crawl for domain [http://www.ualbanysports.com/SportSelect.dbml?SPID=8002&SPSID=70311] completed successfully in [22.8396063] seconds, crawled [1] pages
+[2016-09-18 17:47:04,857] [25 ] [INFO ] - Engine is still running...
+[2016-09-18 17:47:07,375] [23 ] [INFO ] - Crawl for domain [http://www.goblackbears.com/sports/w-softbl/2013-14/roster] completed successfully in [2.5002359] seconds, crawled [1] pages
+[2016-09-18 17:47:07,375] [8  ] [INFO ] - Crawl for domain [http://www.umbcretrievers.com/sports/sball/2013-14/roster] completed successfully in [2.5048168] seconds, crawled [1] pages
+[2016-09-18 17:47:09,876] [8  ] [INFO ] - Crawl for domain [http://www.gwsports.com/sports/w-softbl/archive/gewa-w-softbl-roster-2014.html] completed successfully in [2.5003677] seconds, crawled [1] pages
+[2016-09-18 17:47:09,876] [23 ] [INFO ] - Crawl for domain [http://www.fordhamsports.com/roster.aspx?path=softball] completed successfully in [2.5002427] seconds, crawled [1] pages
+[2016-09-18 17:47:09,878] [25 ] [INFO ] - Engine is still running...
+[2016-09-18 17:47:11,949] [26 ] [INFO ] - Crawl for domain [http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] completed successfully in [32.494627] seconds, crawled [122] pages
+[2016-09-18 17:47:12,378] [8  ] [INFO ] - Crawl for domain [http://www.goexplorers.com/roster.aspx?path=softball] completed successfully in [2.5008093] seconds, crawled [1] pages
+[2016-09-18 17:47:14,450] [26 ] [INFO ] - Crawl for domain [http://www.slubillikens.com/SportSelect.dbml?SPSID=640262&SPID=93207&DB_OEM_ID=27200&Q_SEASON=2013] completed successfully in [2.500551] seconds, crawled [1] pages
+[2016-09-18 17:47:14,878] [23 ] [INFO ] - Crawl for domain [http://www.sjuhawks.com/SportSelect.dbml?&DB_OEM_ID=31200&SPID=127351&SPSID=821110] completed successfully in [5.0008851] seconds, crawled [1] pages
+[2016-09-18 17:47:14,878] [25 ] [INFO ] - Engine is still running...
+[2016-09-18 17:47:14,879] [8  ] [INFO ] - Crawl for domain [http://gobonnies.sbu.edu/sports/w-softbl/2013-14/roster] completed successfully in [2.5006272] seconds, crawled [1] pages
+[2016-09-18 17:47:16,951] [26 ] [INFO ] - Crawl for domain [http://www.owlsports.com/roster.aspx?path=softball] completed successfully in [2.5005776] seconds, crawled [1] pages
+[2016-09-18 17:47:17,379] [23 ] [INFO ] - Crawl for domain [http://www.daytonflyers.com/roster.aspx?roster=9&path=softball] completed successfully in [2.5005732] seconds, crawled [1] pages
+[2016-09-18 17:47:17,380] [8  ] [INFO ] - Crawl for domain [http://www.umassathletics.com/sports/w-softbl/mtt/umas-w-softbl-mtt.html] completed successfully in [2.500501] seconds, crawled [1] pages
+[2016-09-18 17:47:17,873] [13 ] [INFO ] - Reported [16] completed site crawls
+[2016-09-18 17:47:17,873] [13 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-09-18 17:47:17,873] [13 ] [INFO ] - Retrieved [25] sites to crawl

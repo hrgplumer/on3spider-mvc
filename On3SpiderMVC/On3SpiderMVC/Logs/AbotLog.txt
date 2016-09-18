@@ -1,0 +1,1056 @@
+[2016-09-18 17:46:39,434] [23] [INFO ] - About to crawl site [http://www.bubearcats.com/index.php/2011_12_softball/]
+[2016-09-18 17:46:39,434] [8] [INFO ] - About to crawl site [http://www.goterriers.com/sports/w-softbl/mtt/bost-w-softbl-mtt.html]
+[2016-09-18 17:46:39,434] [23] [INFO ] - Configuration Values:
+[2016-09-18 17:46:39,434] [23] [INFO ] -   Abot Version: 1.0.0.0
+[2016-09-18 17:46:39,434] [8] [INFO ] - Configuration Values:
+[2016-09-18 17:46:39,435] [8] [INFO ] -   Abot Version: 1.0.0.0
+[2016-09-18 17:46:39,435] [23] [INFO ] -   MaxConcurrentSiteCrawls: 3
+[2016-09-18 17:46:39,435] [8] [INFO ] -   MaxConcurrentSiteCrawls: 3
+[2016-09-18 17:46:39,435] [23] [INFO ] -   SitesToCrawlBatchSizePerRequest: 25
+[2016-09-18 17:46:39,435] [23] [INFO ] -   MinSiteToCrawlRequestDelayInSecs: 15
+[2016-09-18 17:46:39,435] [23] [INFO ] -   IsJavascriptRenderingEnabled: False
+[2016-09-18 17:46:39,435] [23] [INFO ] -   JavascriptRenderingWaitTimeInMilliseconds: 3500
+[2016-09-18 17:46:39,435] [23] [INFO ] -   IsAutoThrottlingEnabled: False
+[2016-09-18 17:46:39,435] [23] [INFO ] -   MaxConcurrentThreads: 10
+[2016-09-18 17:46:39,435] [23] [INFO ] -   MaxPagesToCrawl: 1000
+[2016-09-18 17:46:39,435] [23] [INFO ] -   MaxPagesToCrawlPerDomain: 1
+[2016-09-18 17:46:39,435] [23] [INFO ] -   MaxPageSizeInBytes: 1048576
+[2016-09-18 17:46:39,435] [23] [INFO ] -   MaxRobotsDotTextCrawlDelayInSeconds: 5
+[2016-09-18 17:46:39,435] [23] [INFO ] -   UserAgentString: Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+[2016-09-18 17:46:39,435] [8] [INFO ] -   SitesToCrawlBatchSizePerRequest: 25
+[2016-09-18 17:46:39,435] [8] [INFO ] -   MinSiteToCrawlRequestDelayInSecs: 15
+[2016-09-18 17:46:39,435] [8] [INFO ] -   IsJavascriptRenderingEnabled: False
+[2016-09-18 17:46:39,435] [8] [INFO ] -   JavascriptRenderingWaitTimeInMilliseconds: 3500
+[2016-09-18 17:46:39,435] [8] [INFO ] -   IsAutoThrottlingEnabled: False
+[2016-09-18 17:46:39,435] [23] [INFO ] -   CrawlTimeoutSeconds: 0
+[2016-09-18 17:46:39,435] [8] [INFO ] -   MaxConcurrentThreads: 10
+[2016-09-18 17:46:39,435] [8] [INFO ] -   MaxPagesToCrawl: 1000
+[2016-09-18 17:46:39,435] [8] [INFO ] -   MaxPagesToCrawlPerDomain: 1
+[2016-09-18 17:46:39,436] [8] [INFO ] -   MaxPageSizeInBytes: 1048576
+[2016-09-18 17:46:39,436] [8] [INFO ] -   MaxRobotsDotTextCrawlDelayInSeconds: 5
+[2016-09-18 17:46:39,436] [8] [INFO ] -   UserAgentString: Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+[2016-09-18 17:46:39,436] [8] [INFO ] -   CrawlTimeoutSeconds: 0
+[2016-09-18 17:46:39,436] [8] [INFO ] -   IsUriRecrawlingEnabled: False
+[2016-09-18 17:46:39,436] [8] [INFO ] -   IsExternalPageCrawlingEnabled: False
+[2016-09-18 17:46:39,436] [8] [INFO ] -   IsExternalPageLinksCrawlingEnabled: False
+[2016-09-18 17:46:39,435] [23] [INFO ] -   IsUriRecrawlingEnabled: False
+[2016-09-18 17:46:39,436] [23] [INFO ] -   IsExternalPageCrawlingEnabled: False
+[2016-09-18 17:46:39,436] [23] [INFO ] -   IsExternalPageLinksCrawlingEnabled: False
+[2016-09-18 17:46:39,436] [8] [INFO ] -   IsRespectUrlNamedAnchorOrHashbangEnabled: False
+[2016-09-18 17:46:39,436] [23] [INFO ] -   IsRespectUrlNamedAnchorOrHashbangEnabled: False
+[2016-09-18 17:46:39,436] [8] [INFO ] -   DownloadableContentTypes: text/html
+[2016-09-18 17:46:39,436] [8] [INFO ] -   HttpServicePointConnectionLimit: 200
+[2016-09-18 17:46:39,436] [23] [INFO ] -   DownloadableContentTypes: text/html
+[2016-09-18 17:46:39,436] [23] [INFO ] -   HttpServicePointConnectionLimit: 200
+[2016-09-18 17:46:39,436] [8] [INFO ] -   HttpRequestTimeoutInSeconds: 15
+[2016-09-18 17:46:39,436] [8] [INFO ] -   HttpRequestMaxAutoRedirects: 7
+[2016-09-18 17:46:39,436] [8] [INFO ] -   IsHttpRequestAutoRedirectsEnabled: True
+[2016-09-18 17:46:39,436] [8] [INFO ] -   IsHttpRequestAutomaticDecompressionEnabled: False
+[2016-09-18 17:46:39,436] [8] [INFO ] -   IsSendingCookiesEnabled: False
+[2016-09-18 17:46:39,436] [8] [INFO ] -   IsSslCertificateValidationEnabled: True
+[2016-09-18 17:46:39,436] [8] [INFO ] -   MinAvailableMemoryRequiredInMb: 0
+[2016-09-18 17:46:39,437] [8] [INFO ] -   MaxMemoryUsageInMb: 0
+[2016-09-18 17:46:39,437] [8] [INFO ] -   MaxMemoryUsageCacheTimeInSeconds: 0
+[2016-09-18 17:46:39,437] [8] [INFO ] -   MaxCrawlDepth: 1
+[2016-09-18 17:46:39,437] [8] [INFO ] -   IsForcedLinkParsingEnabled: False
+[2016-09-18 17:46:39,437] [8] [INFO ] -   MaxRetryCount: 0
+[2016-09-18 17:46:39,437] [8] [INFO ] -   MinRetryDelayInMilliseconds: 0
+[2016-09-18 17:46:39,436] [23] [INFO ] -   HttpRequestTimeoutInSeconds: 15
+[2016-09-18 17:46:39,437] [23] [INFO ] -   HttpRequestMaxAutoRedirects: 7
+[2016-09-18 17:46:39,437] [23] [INFO ] -   IsHttpRequestAutoRedirectsEnabled: True
+[2016-09-18 17:46:39,437] [8] [INFO ] -   IsRespectRobotsDotTextEnabled: False
+[2016-09-18 17:46:39,437] [23] [INFO ] -   IsHttpRequestAutomaticDecompressionEnabled: False
+[2016-09-18 17:46:39,437] [23] [INFO ] -   IsSendingCookiesEnabled: False
+[2016-09-18 17:46:39,437] [23] [INFO ] -   IsSslCertificateValidationEnabled: True
+[2016-09-18 17:46:39,437] [23] [INFO ] -   MinAvailableMemoryRequiredInMb: 0
+[2016-09-18 17:46:39,437] [8] [INFO ] -   IsRespectMetaRobotsNoFollowEnabled: False
+[2016-09-18 17:46:39,437] [23] [INFO ] -   MaxMemoryUsageInMb: 0
+[2016-09-18 17:46:39,437] [23] [INFO ] -   MaxMemoryUsageCacheTimeInSeconds: 0
+[2016-09-18 17:46:39,437] [23] [INFO ] -   MaxCrawlDepth: 1
+[2016-09-18 17:46:39,437] [8] [INFO ] -   IsRespectHttpXRobotsTagHeaderNoFollowEnabled: False
+[2016-09-18 17:46:39,437] [23] [INFO ] -   IsForcedLinkParsingEnabled: False
+[2016-09-18 17:46:39,437] [23] [INFO ] -   MaxRetryCount: 0
+[2016-09-18 17:46:39,437] [23] [INFO ] -   MinRetryDelayInMilliseconds: 0
+[2016-09-18 17:46:39,437] [23] [INFO ] -   IsRespectRobotsDotTextEnabled: False
+[2016-09-18 17:46:39,437] [23] [INFO ] -   IsRespectMetaRobotsNoFollowEnabled: False
+[2016-09-18 17:46:39,437] [23] [INFO ] -   IsRespectHttpXRobotsTagHeaderNoFollowEnabled: False
+[2016-09-18 17:46:39,437] [23] [INFO ] -   IsRespectAnchorRelNoFollowEnabled: False
+[2016-09-18 17:46:39,437] [23] [INFO ] -   IsIgnoreRobotsDotTextIfRootDisallowedEnabled: False
+[2016-09-18 17:46:39,437] [8] [INFO ] -   IsRespectAnchorRelNoFollowEnabled: False
+[2016-09-18 17:46:39,437] [23] [INFO ] -   RobotsDotTextUserAgentString: abotagent
+[2016-09-18 17:46:39,437] [8] [INFO ] -   IsIgnoreRobotsDotTextIfRootDisallowedEnabled: False
+[2016-09-18 17:46:39,437] [8] [INFO ] -   RobotsDotTextUserAgentString: abotagent
+[2016-09-18 17:46:39,437] [23] [INFO ] -   MinCrawlDelayPerDomainMilliSeconds: 0
+[2016-09-18 17:46:39,437] [8] [INFO ] -   MinCrawlDelayPerDomainMilliSeconds: 0
+[2016-09-18 17:46:39,437] [23] [INFO ] -   IsAlwaysLogin: False
+[2016-09-18 17:46:39,437] [8] [INFO ] -   IsAlwaysLogin: False
+[2016-09-18 17:46:39,437] [23] [INFO ] -   LoginUser: 
+[2016-09-18 17:46:39,437] [8] [INFO ] -   LoginUser: 
+[2016-09-18 17:46:39,437] [23] [INFO ] -   LoginPassword: 
+[2016-09-18 17:46:39,437] [8] [INFO ] -   LoginPassword: 
+[2016-09-18 17:46:39,437] [23] [INFO ] -   key1: value1
+[2016-09-18 17:46:39,437] [8] [INFO ] -   key1: value1
+[2016-09-18 17:46:39,437] [8] [INFO ] -   key2: value2
+[2016-09-18 17:46:39,437] [23] [INFO ] -   key2: value2
+[2016-09-18 17:46:39,448] [26] [INFO ] - About to crawl site [http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html]
+[2016-09-18 17:46:39,452] [26] [INFO ] - Configuration Values:
+[2016-09-18 17:46:39,452] [26] [INFO ] -   Abot Version: 1.0.0.0
+[2016-09-18 17:46:39,452] [26] [INFO ] -   MaxConcurrentSiteCrawls: 3
+[2016-09-18 17:46:39,452] [26] [INFO ] -   SitesToCrawlBatchSizePerRequest: 25
+[2016-09-18 17:46:39,452] [26] [INFO ] -   MinSiteToCrawlRequestDelayInSecs: 15
+[2016-09-18 17:46:39,452] [26] [INFO ] -   IsJavascriptRenderingEnabled: False
+[2016-09-18 17:46:39,452] [26] [INFO ] -   JavascriptRenderingWaitTimeInMilliseconds: 3500
+[2016-09-18 17:46:39,452] [26] [INFO ] -   IsAutoThrottlingEnabled: False
+[2016-09-18 17:46:39,452] [26] [INFO ] -   MaxConcurrentThreads: 10
+[2016-09-18 17:46:39,452] [26] [INFO ] -   MaxPagesToCrawl: 1000
+[2016-09-18 17:46:39,452] [26] [INFO ] -   MaxPagesToCrawlPerDomain: 1
+[2016-09-18 17:46:39,453] [26] [INFO ] -   MaxPageSizeInBytes: 1048576
+[2016-09-18 17:46:39,453] [26] [INFO ] -   MaxRobotsDotTextCrawlDelayInSeconds: 5
+[2016-09-18 17:46:39,453] [26] [INFO ] -   UserAgentString: Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+[2016-09-18 17:46:39,453] [26] [INFO ] -   CrawlTimeoutSeconds: 0
+[2016-09-18 17:46:39,453] [26] [INFO ] -   IsUriRecrawlingEnabled: False
+[2016-09-18 17:46:39,453] [26] [INFO ] -   IsExternalPageCrawlingEnabled: False
+[2016-09-18 17:46:39,453] [26] [INFO ] -   IsExternalPageLinksCrawlingEnabled: False
+[2016-09-18 17:46:39,453] [26] [INFO ] -   IsRespectUrlNamedAnchorOrHashbangEnabled: False
+[2016-09-18 17:46:39,453] [26] [INFO ] -   DownloadableContentTypes: text/html
+[2016-09-18 17:46:39,453] [26] [INFO ] -   HttpServicePointConnectionLimit: 200
+[2016-09-18 17:46:39,453] [26] [INFO ] -   HttpRequestTimeoutInSeconds: 15
+[2016-09-18 17:46:39,453] [26] [INFO ] -   HttpRequestMaxAutoRedirects: 7
+[2016-09-18 17:46:39,453] [26] [INFO ] -   IsHttpRequestAutoRedirectsEnabled: True
+[2016-09-18 17:46:39,453] [26] [INFO ] -   IsHttpRequestAutomaticDecompressionEnabled: False
+[2016-09-18 17:46:39,453] [26] [INFO ] -   IsSendingCookiesEnabled: False
+[2016-09-18 17:46:39,453] [26] [INFO ] -   IsSslCertificateValidationEnabled: True
+[2016-09-18 17:46:39,453] [26] [INFO ] -   MinAvailableMemoryRequiredInMb: 0
+[2016-09-18 17:46:39,453] [26] [INFO ] -   MaxMemoryUsageInMb: 0
+[2016-09-18 17:46:39,453] [26] [INFO ] -   MaxMemoryUsageCacheTimeInSeconds: 0
+[2016-09-18 17:46:39,453] [26] [INFO ] -   MaxCrawlDepth: 1
+[2016-09-18 17:46:39,453] [26] [INFO ] -   IsForcedLinkParsingEnabled: False
+[2016-09-18 17:46:39,453] [26] [INFO ] -   MaxRetryCount: 0
+[2016-09-18 17:46:39,453] [26] [INFO ] -   MinRetryDelayInMilliseconds: 0
+[2016-09-18 17:46:39,453] [26] [INFO ] -   IsRespectRobotsDotTextEnabled: False
+[2016-09-18 17:46:39,453] [26] [INFO ] -   IsRespectMetaRobotsNoFollowEnabled: False
+[2016-09-18 17:46:39,453] [26] [INFO ] -   IsRespectHttpXRobotsTagHeaderNoFollowEnabled: False
+[2016-09-18 17:46:39,453] [26] [INFO ] -   IsRespectAnchorRelNoFollowEnabled: False
+[2016-09-18 17:46:39,453] [26] [INFO ] -   IsIgnoreRobotsDotTextIfRootDisallowedEnabled: False
+[2016-09-18 17:46:39,454] [26] [INFO ] -   RobotsDotTextUserAgentString: abotagent
+[2016-09-18 17:46:39,454] [26] [INFO ] -   MinCrawlDelayPerDomainMilliSeconds: 0
+[2016-09-18 17:46:39,454] [26] [INFO ] -   IsAlwaysLogin: False
+[2016-09-18 17:46:39,454] [26] [INFO ] -   LoginUser: 
+[2016-09-18 17:46:39,454] [26] [INFO ] -   LoginPassword: 
+[2016-09-18 17:46:39,454] [26] [INFO ] -   key1: value1
+[2016-09-18 17:46:39,454] [26] [INFO ] -   key2: value2
+[2016-09-18 17:46:39,998] [10] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.goterriers.com/sports/w-softbl/mtt/bost-w-softbl-mtt.html] Elapsed:[198.0268] Parent:[http://www.goterriers.com/sports/w-softbl/mtt/bost-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:46:39,998] [10] [INFO ] - The root URI [http://www.goterriers.com/sports/w-softbl/mtt/bost-w-softbl-mtt.html] was redirected to [http://www.goterriers.com/roster.aspx?path=softball]. [http://www.goterriers.com/roster.aspx?path=softball] is the new root.
+[2016-09-18 17:46:40,226] [15] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Elapsed:[494.8164] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:46:40,226] [15] [INFO ] - The root URI [http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] was redirected to [http://www.stonybrookathletics.com/roster.aspx?path=softball]. [http://www.stonybrookathletics.com/roster.aspx?path=softball] is the new root.
+[2016-09-18 17:46:40,343] [22] [INFO ] - Page crawl complete, Status:[404] Url:[http://www.bubearcats.com/index.php/2011_12_softball/] Elapsed:[883.3496] Parent:[http://www.bubearcats.com/index.php/2011_12_softball/] Retry:[0]
+[2016-09-18 17:46:40,343] [22] [INFO ] - The root URI [http://www.bubearcats.com/index.php/2011_12_softball/] was redirected to [http://www.bubearcats.com/404-1.aspx?url=/index.php/2011_12_softball/]. [http://www.bubearcats.com/404-1.aspx?url=/index.php/2011_12_softball/] is the new root.
+[2016-09-18 17:46:41,946] [8] [INFO ] - Crawl complete for site [http://www.goterriers.com/sports/w-softbl/mtt/bost-w-softbl-mtt.html]: Crawled [1] pages in [00:00:02.5088780]
+[2016-09-18 17:46:41,946] [23] [INFO ] - Crawl complete for site [http://www.bubearcats.com/index.php/2011_12_softball/]: Crawled [1] pages in [00:00:02.5088622]
+[2016-09-18 17:46:41,973] [8] [INFO ] - About to crawl site [http://www.ualbanysports.com/SportSelect.dbml?SPID=8002&SPSID=70311]
+[2016-09-18 17:46:41,973] [8] [INFO ] - Configuration Values:
+[2016-09-18 17:46:41,973] [8] [INFO ] -   Abot Version: 1.0.0.0
+[2016-09-18 17:46:41,973] [8] [INFO ] -   MaxConcurrentSiteCrawls: 3
+[2016-09-18 17:46:41,973] [8] [INFO ] -   SitesToCrawlBatchSizePerRequest: 25
+[2016-09-18 17:46:41,973] [8] [INFO ] -   MinSiteToCrawlRequestDelayInSecs: 15
+[2016-09-18 17:46:41,973] [8] [INFO ] -   IsJavascriptRenderingEnabled: False
+[2016-09-18 17:46:41,973] [8] [INFO ] -   JavascriptRenderingWaitTimeInMilliseconds: 3500
+[2016-09-18 17:46:41,973] [8] [INFO ] -   IsAutoThrottlingEnabled: False
+[2016-09-18 17:46:41,973] [8] [INFO ] -   MaxConcurrentThreads: 10
+[2016-09-18 17:46:41,974] [8] [INFO ] -   MaxPagesToCrawl: 1000
+[2016-09-18 17:46:41,974] [8] [INFO ] -   MaxPagesToCrawlPerDomain: 1
+[2016-09-18 17:46:41,974] [8] [INFO ] -   MaxPageSizeInBytes: 1048576
+[2016-09-18 17:46:41,974] [8] [INFO ] -   MaxRobotsDotTextCrawlDelayInSeconds: 5
+[2016-09-18 17:46:41,974] [8] [INFO ] -   UserAgentString: Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+[2016-09-18 17:46:41,974] [8] [INFO ] -   CrawlTimeoutSeconds: 0
+[2016-09-18 17:46:41,974] [8] [INFO ] -   IsUriRecrawlingEnabled: False
+[2016-09-18 17:46:41,974] [8] [INFO ] -   IsExternalPageCrawlingEnabled: False
+[2016-09-18 17:46:41,974] [8] [INFO ] -   IsExternalPageLinksCrawlingEnabled: False
+[2016-09-18 17:46:41,974] [8] [INFO ] -   IsRespectUrlNamedAnchorOrHashbangEnabled: False
+[2016-09-18 17:46:41,974] [8] [INFO ] -   DownloadableContentTypes: text/html
+[2016-09-18 17:46:41,974] [8] [INFO ] -   HttpServicePointConnectionLimit: 200
+[2016-09-18 17:46:41,974] [8] [INFO ] -   HttpRequestTimeoutInSeconds: 15
+[2016-09-18 17:46:41,974] [8] [INFO ] -   HttpRequestMaxAutoRedirects: 7
+[2016-09-18 17:46:41,974] [8] [INFO ] -   IsHttpRequestAutoRedirectsEnabled: True
+[2016-09-18 17:46:41,974] [8] [INFO ] -   IsHttpRequestAutomaticDecompressionEnabled: False
+[2016-09-18 17:46:41,974] [8] [INFO ] -   IsSendingCookiesEnabled: False
+[2016-09-18 17:46:41,974] [8] [INFO ] -   IsSslCertificateValidationEnabled: True
+[2016-09-18 17:46:41,974] [8] [INFO ] -   MinAvailableMemoryRequiredInMb: 0
+[2016-09-18 17:46:41,974] [8] [INFO ] -   MaxMemoryUsageInMb: 0
+[2016-09-18 17:46:41,975] [8] [INFO ] -   MaxMemoryUsageCacheTimeInSeconds: 0
+[2016-09-18 17:46:41,975] [8] [INFO ] -   MaxCrawlDepth: 1
+[2016-09-18 17:46:41,975] [8] [INFO ] -   IsForcedLinkParsingEnabled: False
+[2016-09-18 17:46:41,975] [8] [INFO ] -   MaxRetryCount: 0
+[2016-09-18 17:46:41,975] [8] [INFO ] -   MinRetryDelayInMilliseconds: 0
+[2016-09-18 17:46:41,975] [8] [INFO ] -   IsRespectRobotsDotTextEnabled: False
+[2016-09-18 17:46:41,975] [8] [INFO ] -   IsRespectMetaRobotsNoFollowEnabled: False
+[2016-09-18 17:46:41,976] [8] [INFO ] -   IsRespectHttpXRobotsTagHeaderNoFollowEnabled: False
+[2016-09-18 17:46:41,976] [8] [INFO ] -   IsRespectAnchorRelNoFollowEnabled: False
+[2016-09-18 17:46:41,978] [8] [INFO ] -   IsIgnoreRobotsDotTextIfRootDisallowedEnabled: False
+[2016-09-18 17:46:41,978] [8] [INFO ] -   RobotsDotTextUserAgentString: abotagent
+[2016-09-18 17:46:41,978] [8] [INFO ] -   MinCrawlDelayPerDomainMilliSeconds: 0
+[2016-09-18 17:46:41,978] [8] [INFO ] -   IsAlwaysLogin: False
+[2016-09-18 17:46:41,978] [8] [INFO ] -   LoginUser: 
+[2016-09-18 17:46:41,978] [8] [INFO ] -   LoginPassword: 
+[2016-09-18 17:46:41,978] [8] [INFO ] -   key1: value1
+[2016-09-18 17:46:41,978] [8] [INFO ] -   key2: value2
+[2016-09-18 17:46:41,997] [23] [INFO ] - About to crawl site [http://www.hartfordhawks.com/roster.aspx?path=softball]
+[2016-09-18 17:46:41,997] [23] [INFO ] - Configuration Values:
+[2016-09-18 17:46:41,997] [23] [INFO ] -   Abot Version: 1.0.0.0
+[2016-09-18 17:46:41,998] [23] [INFO ] -   MaxConcurrentSiteCrawls: 3
+[2016-09-18 17:46:41,998] [23] [INFO ] -   SitesToCrawlBatchSizePerRequest: 25
+[2016-09-18 17:46:41,998] [23] [INFO ] -   MinSiteToCrawlRequestDelayInSecs: 15
+[2016-09-18 17:46:41,998] [23] [INFO ] -   IsJavascriptRenderingEnabled: False
+[2016-09-18 17:46:41,998] [23] [INFO ] -   JavascriptRenderingWaitTimeInMilliseconds: 3500
+[2016-09-18 17:46:41,998] [23] [INFO ] -   IsAutoThrottlingEnabled: False
+[2016-09-18 17:46:41,998] [23] [INFO ] -   MaxConcurrentThreads: 10
+[2016-09-18 17:46:41,998] [23] [INFO ] -   MaxPagesToCrawl: 1000
+[2016-09-18 17:46:41,998] [23] [INFO ] -   MaxPagesToCrawlPerDomain: 1
+[2016-09-18 17:46:41,998] [23] [INFO ] -   MaxPageSizeInBytes: 1048576
+[2016-09-18 17:46:41,998] [23] [INFO ] -   MaxRobotsDotTextCrawlDelayInSeconds: 5
+[2016-09-18 17:46:41,998] [23] [INFO ] -   UserAgentString: Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+[2016-09-18 17:46:41,998] [23] [INFO ] -   CrawlTimeoutSeconds: 0
+[2016-09-18 17:46:41,998] [23] [INFO ] -   IsUriRecrawlingEnabled: False
+[2016-09-18 17:46:41,998] [23] [INFO ] -   IsExternalPageCrawlingEnabled: False
+[2016-09-18 17:46:41,998] [23] [INFO ] -   IsExternalPageLinksCrawlingEnabled: False
+[2016-09-18 17:46:41,998] [23] [INFO ] -   IsRespectUrlNamedAnchorOrHashbangEnabled: False
+[2016-09-18 17:46:41,998] [23] [INFO ] -   DownloadableContentTypes: text/html
+[2016-09-18 17:46:41,998] [23] [INFO ] -   HttpServicePointConnectionLimit: 200
+[2016-09-18 17:46:41,998] [23] [INFO ] -   HttpRequestTimeoutInSeconds: 15
+[2016-09-18 17:46:41,998] [23] [INFO ] -   HttpRequestMaxAutoRedirects: 7
+[2016-09-18 17:46:41,998] [23] [INFO ] -   IsHttpRequestAutoRedirectsEnabled: True
+[2016-09-18 17:46:41,998] [23] [INFO ] -   IsHttpRequestAutomaticDecompressionEnabled: False
+[2016-09-18 17:46:41,998] [23] [INFO ] -   IsSendingCookiesEnabled: False
+[2016-09-18 17:46:41,998] [23] [INFO ] -   IsSslCertificateValidationEnabled: True
+[2016-09-18 17:46:41,998] [23] [INFO ] -   MinAvailableMemoryRequiredInMb: 0
+[2016-09-18 17:46:41,998] [23] [INFO ] -   MaxMemoryUsageInMb: 0
+[2016-09-18 17:46:41,998] [23] [INFO ] -   MaxMemoryUsageCacheTimeInSeconds: 0
+[2016-09-18 17:46:41,998] [23] [INFO ] -   MaxCrawlDepth: 1
+[2016-09-18 17:46:41,998] [23] [INFO ] -   IsForcedLinkParsingEnabled: False
+[2016-09-18 17:46:41,998] [23] [INFO ] -   MaxRetryCount: 0
+[2016-09-18 17:46:41,998] [23] [INFO ] -   MinRetryDelayInMilliseconds: 0
+[2016-09-18 17:46:41,998] [23] [INFO ] -   IsRespectRobotsDotTextEnabled: False
+[2016-09-18 17:46:41,998] [23] [INFO ] -   IsRespectMetaRobotsNoFollowEnabled: False
+[2016-09-18 17:46:41,998] [23] [INFO ] -   IsRespectHttpXRobotsTagHeaderNoFollowEnabled: False
+[2016-09-18 17:46:41,998] [23] [INFO ] -   IsRespectAnchorRelNoFollowEnabled: False
+[2016-09-18 17:46:41,998] [23] [INFO ] -   IsIgnoreRobotsDotTextIfRootDisallowedEnabled: False
+[2016-09-18 17:46:41,998] [23] [INFO ] -   RobotsDotTextUserAgentString: abotagent
+[2016-09-18 17:46:41,998] [23] [INFO ] -   MinCrawlDelayPerDomainMilliSeconds: 0
+[2016-09-18 17:46:41,998] [23] [INFO ] -   IsAlwaysLogin: False
+[2016-09-18 17:46:41,998] [23] [INFO ] -   LoginUser: 
+[2016-09-18 17:46:41,998] [23] [INFO ] -   LoginPassword: 
+[2016-09-18 17:46:41,998] [23] [INFO ] -   key1: value1
+[2016-09-18 17:46:41,998] [23] [INFO ] -   key2: value2
+[2016-09-18 17:46:42,180] [22] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?path=softball] Elapsed:[118.3149] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:46:42,190] [10] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/index.aspx] Elapsed:[220.0852] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:46:42,487] [24] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/index.aspx?path=mbball] Elapsed:[202.0375] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:46:42,597] [14] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/archives.aspx?path=baseball] Elapsed:[215.0719] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:46:42,621] [6] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/archives.aspx?path=mbball] Elapsed:[180.48] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:46:42,631] [17] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?path=mbball] Elapsed:[137.3654] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:46:42,744] [19] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/schedule.aspx?path=mbball] Elapsed:[201.536] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:46:42,797] [15] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?path=baseball] Elapsed:[220.0857] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:46:42,852] [27] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/schedule.aspx?path=baseball] Elapsed:[202.5389] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:46:42,876] [30] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.ualbanysports.com/SportSelect.dbml?SPID=8002&SPSID=70311] Elapsed:[324.3628] Parent:[http://www.ualbanysports.com/SportSelect.dbml?SPID=8002&SPSID=70311] Retry:[0]
+[2016-09-18 17:46:42,924] [10] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/schedule.aspx?path=cross] Elapsed:[166.4427] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:46:42,976] [16] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/index.aspx?path=baseball] Elapsed:[324.3631] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:46:43,041] [6] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/index.aspx?path=football] Elapsed:[415.6057] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:46:43,063] [22] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/archives.aspx?path=cross] Elapsed:[169.4507] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:46:43,086] [14] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/schedule.aspx?path=football] Elapsed:[161.9308] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:46:43,146] [24] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/archives.aspx?path=football] Elapsed:[177.9732] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:46:43,146] [31] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?path=cross] Elapsed:[184.9916] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:46:43,377] [29] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.hartfordhawks.com/roster.aspx?path=softball] Elapsed:[916.9391] Parent:[http://www.hartfordhawks.com/roster.aspx?path=softball] Retry:[0]
+[2016-09-18 17:46:43,479] [6] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/archives.aspx?path=mlax] Elapsed:[118.3144] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:46:43,528] [15] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/index.aspx?path=mlax] Elapsed:[322.859] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:46:43,536] [27] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/schedule.aspx?path=mlax] Elapsed:[172.961] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:46:43,566] [16] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/index.aspx?path=msoc] Elapsed:[169.9515] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:04,815] [22] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/schedule.aspx?path=msoc] Elapsed:[227.1036] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:04,815] [21] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/schedule.aspx?path=mten] Elapsed:[21258.5387] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:04,815] [10] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?path=mlax] Elapsed:[172.9598] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:04,816] [31] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/archives.aspx?path=msoc] Elapsed:[298.2932] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:04,817] [30] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?path=msoc] Elapsed:[196.5227] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:04,818] [23] [INFO ] - Crawl complete for site [http://www.hartfordhawks.com/roster.aspx?path=softball]: Crawled [1] pages in [00:00:22.8198861]
+[2016-09-18 17:47:04,818] [8] [INFO ] - Crawl complete for site [http://www.ualbanysports.com/SportSelect.dbml?SPID=8002&SPSID=70311]: Crawled [1] pages in [00:00:22.8396063]
+[2016-09-18 17:47:04,818] [23] [INFO ] - About to crawl site [http://www.goblackbears.com/sports/w-softbl/2013-14/roster]
+[2016-09-18 17:47:04,818] [23] [INFO ] - Configuration Values:
+[2016-09-18 17:47:04,818] [23] [INFO ] -   Abot Version: 1.0.0.0
+[2016-09-18 17:47:04,818] [8] [INFO ] - About to crawl site [http://www.umbcretrievers.com/sports/sball/2013-14/roster]
+[2016-09-18 17:47:04,818] [8] [INFO ] - Configuration Values:
+[2016-09-18 17:47:04,818] [23] [INFO ] -   MaxConcurrentSiteCrawls: 3
+[2016-09-18 17:47:04,818] [23] [INFO ] -   SitesToCrawlBatchSizePerRequest: 25
+[2016-09-18 17:47:04,818] [23] [INFO ] -   MinSiteToCrawlRequestDelayInSecs: 15
+[2016-09-18 17:47:04,818] [23] [INFO ] -   IsJavascriptRenderingEnabled: False
+[2016-09-18 17:47:04,818] [8] [INFO ] -   Abot Version: 1.0.0.0
+[2016-09-18 17:47:04,818] [8] [INFO ] -   MaxConcurrentSiteCrawls: 3
+[2016-09-18 17:47:04,818] [8] [INFO ] -   SitesToCrawlBatchSizePerRequest: 25
+[2016-09-18 17:47:04,818] [8] [INFO ] -   MinSiteToCrawlRequestDelayInSecs: 15
+[2016-09-18 17:47:04,818] [8] [INFO ] -   IsJavascriptRenderingEnabled: False
+[2016-09-18 17:47:04,818] [8] [INFO ] -   JavascriptRenderingWaitTimeInMilliseconds: 3500
+[2016-09-18 17:47:04,818] [8] [INFO ] -   IsAutoThrottlingEnabled: False
+[2016-09-18 17:47:04,818] [8] [INFO ] -   MaxConcurrentThreads: 10
+[2016-09-18 17:47:04,818] [8] [INFO ] -   MaxPagesToCrawl: 1000
+[2016-09-18 17:47:04,818] [8] [INFO ] -   MaxPagesToCrawlPerDomain: 1
+[2016-09-18 17:47:04,818] [8] [INFO ] -   MaxPageSizeInBytes: 1048576
+[2016-09-18 17:47:04,818] [8] [INFO ] -   MaxRobotsDotTextCrawlDelayInSeconds: 5
+[2016-09-18 17:47:04,818] [8] [INFO ] -   UserAgentString: Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+[2016-09-18 17:47:04,818] [8] [INFO ] -   CrawlTimeoutSeconds: 0
+[2016-09-18 17:47:04,818] [8] [INFO ] -   IsUriRecrawlingEnabled: False
+[2016-09-18 17:47:04,818] [8] [INFO ] -   IsExternalPageCrawlingEnabled: False
+[2016-09-18 17:47:04,818] [8] [INFO ] -   IsExternalPageLinksCrawlingEnabled: False
+[2016-09-18 17:47:04,818] [8] [INFO ] -   IsRespectUrlNamedAnchorOrHashbangEnabled: False
+[2016-09-18 17:47:04,818] [8] [INFO ] -   DownloadableContentTypes: text/html
+[2016-09-18 17:47:04,818] [8] [INFO ] -   HttpServicePointConnectionLimit: 200
+[2016-09-18 17:47:04,818] [8] [INFO ] -   HttpRequestTimeoutInSeconds: 15
+[2016-09-18 17:47:04,818] [8] [INFO ] -   HttpRequestMaxAutoRedirects: 7
+[2016-09-18 17:47:04,818] [8] [INFO ] -   IsHttpRequestAutoRedirectsEnabled: True
+[2016-09-18 17:47:04,818] [8] [INFO ] -   IsHttpRequestAutomaticDecompressionEnabled: False
+[2016-09-18 17:47:04,818] [8] [INFO ] -   IsSendingCookiesEnabled: False
+[2016-09-18 17:47:04,818] [8] [INFO ] -   IsSslCertificateValidationEnabled: True
+[2016-09-18 17:47:04,818] [8] [INFO ] -   MinAvailableMemoryRequiredInMb: 0
+[2016-09-18 17:47:04,818] [8] [INFO ] -   MaxMemoryUsageInMb: 0
+[2016-09-18 17:47:04,818] [8] [INFO ] -   MaxMemoryUsageCacheTimeInSeconds: 0
+[2016-09-18 17:47:04,818] [8] [INFO ] -   MaxCrawlDepth: 1
+[2016-09-18 17:47:04,818] [8] [INFO ] -   IsForcedLinkParsingEnabled: False
+[2016-09-18 17:47:04,818] [8] [INFO ] -   MaxRetryCount: 0
+[2016-09-18 17:47:04,870] [8] [INFO ] -   MinRetryDelayInMilliseconds: 0
+[2016-09-18 17:47:04,870] [8] [INFO ] -   IsRespectRobotsDotTextEnabled: False
+[2016-09-18 17:47:04,870] [8] [INFO ] -   IsRespectMetaRobotsNoFollowEnabled: False
+[2016-09-18 17:47:04,870] [8] [INFO ] -   IsRespectHttpXRobotsTagHeaderNoFollowEnabled: False
+[2016-09-18 17:47:04,870] [8] [INFO ] -   IsRespectAnchorRelNoFollowEnabled: False
+[2016-09-18 17:47:04,870] [8] [INFO ] -   IsIgnoreRobotsDotTextIfRootDisallowedEnabled: False
+[2016-09-18 17:47:04,870] [8] [INFO ] -   RobotsDotTextUserAgentString: abotagent
+[2016-09-18 17:47:04,870] [8] [INFO ] -   MinCrawlDelayPerDomainMilliSeconds: 0
+[2016-09-18 17:47:04,870] [8] [INFO ] -   IsAlwaysLogin: False
+[2016-09-18 17:47:04,870] [8] [INFO ] -   LoginUser: 
+[2016-09-18 17:47:04,870] [8] [INFO ] -   LoginPassword: 
+[2016-09-18 17:47:04,870] [8] [INFO ] -   key1: value1
+[2016-09-18 17:47:04,870] [8] [INFO ] -   key2: value2
+[2016-09-18 17:47:04,818] [23] [INFO ] -   JavascriptRenderingWaitTimeInMilliseconds: 3500
+[2016-09-18 17:47:04,871] [23] [INFO ] -   IsAutoThrottlingEnabled: False
+[2016-09-18 17:47:04,871] [23] [INFO ] -   MaxConcurrentThreads: 10
+[2016-09-18 17:47:04,871] [23] [INFO ] -   MaxPagesToCrawl: 1000
+[2016-09-18 17:47:04,871] [23] [INFO ] -   MaxPagesToCrawlPerDomain: 1
+[2016-09-18 17:47:04,871] [23] [INFO ] -   MaxPageSizeInBytes: 1048576
+[2016-09-18 17:47:04,871] [23] [INFO ] -   MaxRobotsDotTextCrawlDelayInSeconds: 5
+[2016-09-18 17:47:04,871] [23] [INFO ] -   UserAgentString: Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+[2016-09-18 17:47:04,871] [23] [INFO ] -   CrawlTimeoutSeconds: 0
+[2016-09-18 17:47:04,871] [23] [INFO ] -   IsUriRecrawlingEnabled: False
+[2016-09-18 17:47:04,871] [23] [INFO ] -   IsExternalPageCrawlingEnabled: False
+[2016-09-18 17:47:04,871] [23] [INFO ] -   IsExternalPageLinksCrawlingEnabled: False
+[2016-09-18 17:47:04,871] [23] [INFO ] -   IsRespectUrlNamedAnchorOrHashbangEnabled: False
+[2016-09-18 17:47:04,871] [23] [INFO ] -   DownloadableContentTypes: text/html
+[2016-09-18 17:47:04,871] [23] [INFO ] -   HttpServicePointConnectionLimit: 200
+[2016-09-18 17:47:04,871] [23] [INFO ] -   HttpRequestTimeoutInSeconds: 15
+[2016-09-18 17:47:04,871] [23] [INFO ] -   HttpRequestMaxAutoRedirects: 7
+[2016-09-18 17:47:04,871] [23] [INFO ] -   IsHttpRequestAutoRedirectsEnabled: True
+[2016-09-18 17:47:04,871] [23] [INFO ] -   IsHttpRequestAutomaticDecompressionEnabled: False
+[2016-09-18 17:47:04,874] [23] [INFO ] -   IsSendingCookiesEnabled: False
+[2016-09-18 17:47:04,874] [23] [INFO ] -   IsSslCertificateValidationEnabled: True
+[2016-09-18 17:47:04,874] [23] [INFO ] -   MinAvailableMemoryRequiredInMb: 0
+[2016-09-18 17:47:04,874] [23] [INFO ] -   MaxMemoryUsageInMb: 0
+[2016-09-18 17:47:04,874] [23] [INFO ] -   MaxMemoryUsageCacheTimeInSeconds: 0
+[2016-09-18 17:47:04,874] [23] [INFO ] -   MaxCrawlDepth: 1
+[2016-09-18 17:47:04,874] [23] [INFO ] -   IsForcedLinkParsingEnabled: False
+[2016-09-18 17:47:04,874] [23] [INFO ] -   MaxRetryCount: 0
+[2016-09-18 17:47:04,874] [23] [INFO ] -   MinRetryDelayInMilliseconds: 0
+[2016-09-18 17:47:04,874] [23] [INFO ] -   IsRespectRobotsDotTextEnabled: False
+[2016-09-18 17:47:04,874] [23] [INFO ] -   IsRespectMetaRobotsNoFollowEnabled: False
+[2016-09-18 17:47:04,874] [23] [INFO ] -   IsRespectHttpXRobotsTagHeaderNoFollowEnabled: False
+[2016-09-18 17:47:04,874] [23] [INFO ] -   IsRespectAnchorRelNoFollowEnabled: False
+[2016-09-18 17:47:04,874] [23] [INFO ] -   IsIgnoreRobotsDotTextIfRootDisallowedEnabled: False
+[2016-09-18 17:47:04,874] [23] [INFO ] -   RobotsDotTextUserAgentString: abotagent
+[2016-09-18 17:47:04,874] [23] [INFO ] -   MinCrawlDelayPerDomainMilliSeconds: 0
+[2016-09-18 17:47:04,874] [23] [INFO ] -   IsAlwaysLogin: False
+[2016-09-18 17:47:04,874] [23] [INFO ] -   LoginUser: 
+[2016-09-18 17:47:04,874] [23] [INFO ] -   LoginPassword: 
+[2016-09-18 17:47:04,874] [23] [INFO ] -   key1: value1
+[2016-09-18 17:47:04,874] [23] [INFO ] -   key2: value2
+[2016-09-18 17:47:04,834] [6] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/index.aspx?path=mten] Elapsed:[21336.2461] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:04,841] [27] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?path=mten] Elapsed:[21253.0239] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:04,851] [24] [INFO ] - Page crawl complete, Status:[NA] Url:[http://www.stonybrookathletics.com/archives.aspx?path=mten] Elapsed:[21272.5757] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:04,856] [28] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/index.aspx?path=cross] Elapsed:[22599.1043] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:04,867] [19] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?path=football] Elapsed:[132.3523] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:05,274] [31] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/index.aspx?path=track] Elapsed:[65.173] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:05,342] [15] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/archives.aspx?path=track] Elapsed:[169.9513] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:05,370] [14] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?path=wbball] Elapsed:[185.4928] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:05,384] [6] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/index.aspx?path=wbball] Elapsed:[220.5864] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:05,399] [28] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/index.aspx?path=wlax] Elapsed:[255.6806] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:05,449] [24] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/archives.aspx?path=wbball] Elapsed:[325.8661] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:05,517] [30] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/schedule.aspx?path=track] Elapsed:[146.8902] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:05,685] [27] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/schedule.aspx?path=wbball] Elapsed:[289.7701] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:05,732] [16] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?path=track] Elapsed:[121.3218] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:05,824] [21] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/archives.aspx?path=wlax] Elapsed:[213.5683] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:05,893] [14] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/index.aspx?path=wsoc] Elapsed:[255.1782] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:05,958] [24] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/archives.aspx?path=wsoc] Elapsed:[282.7525] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:06,009] [31] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?path=wlax] Elapsed:[243.1468] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:06,072] [32] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/schedule.aspx?path=wsoc] Elapsed:[206.5491] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:06,139] [10] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/archives.aspx?path=softball] Elapsed:[227.1033] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:06,188] [29] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?path=wsoc] Elapsed:[286.2612] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:06,330] [24] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?path=wswim] Elapsed:[180.9818] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:06,367] [22] [INFO ] - Page crawl complete, Status:[404] Url:[http://www.goblackbears.com/sports/w-softbl/2013-14/roster] Elapsed:[1491.4679] Parent:[http://www.goblackbears.com/sports/w-softbl/2013-14/roster] Retry:[0]
+[2016-09-18 17:47:06,367] [22] [INFO ] - The root URI [http://www.goblackbears.com/sports/w-softbl/2013-14/roster] was redirected to [http://www.goblackbears.com/404-1.aspx?url=/sports/w-softbl/2013-14/roster]. [http://www.goblackbears.com/404-1.aspx?url=/sports/w-softbl/2013-14/roster] is the new root.
+[2016-09-18 17:47:06,425] [6] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/archives.aspx?path=wswim] Elapsed:[210.0585] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:06,434] [27] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/schedule.aspx?path=softball] Elapsed:[211.5627] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:06,513] [14] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/schedule.aspx?path=wswim] Elapsed:[618.6451] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:06,737] [29] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?path=wten] Elapsed:[262.6987] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:06,780] [38] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/schedule.aspx?path=wlax] Elapsed:[439.1674] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:06,816] [30] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/archives.aspx?path=wten] Elapsed:[239.1356] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:06,903] [10] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/schedule.aspx?path=wten] Elapsed:[328.3741] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:06,930] [19] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?path=wvball] Elapsed:[224.5976] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:07,093] [35] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/index.aspx?path=softball] Elapsed:[1341.0668] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:07,115] [15] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/schedule.aspx?path=wvball] Elapsed:[193.0129] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:07,191] [32] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/8/25/facilities.aspx] Elapsed:[149.8988] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:07,216] [17] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.umbcretrievers.com/sports/sball/2013-14/roster] Elapsed:[1071.8507] Parent:[http://www.umbcretrievers.com/sports/sball/2013-14/roster] Retry:[0]
+[2016-09-18 17:47:07,244] [31] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/archives.aspx?path=wvball] Elapsed:[234.1223] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:07,262] [6] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/index.aspx?path=wvball] Elapsed:[581.0449] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:07,268] [28] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/8/25/facilities-ston-10-dubin-html.aspx] Elapsed:[228.608] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:07,311] [34] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/8/25/facilities-ston-10-goldstein-html.aspx] Elapsed:[212.0633] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:07,346] [19] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/8/25/facilities-ston-10-pritchard-html.aspx] Elapsed:[220.5867] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:07,356] [36] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/index.aspx?path=wswim] Elapsed:[1368.1385] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:07,375] [23] [INFO ] - Crawl complete for site [http://www.goblackbears.com/sports/w-softbl/2013-14/roster]: Crawled [1] pages in [00:00:02.5002359]
+[2016-09-18 17:47:07,375] [8] [INFO ] - Crawl complete for site [http://www.umbcretrievers.com/sports/sball/2013-14/roster]: Crawled [1] pages in [00:00:02.5048168]
+[2016-09-18 17:47:07,375] [23] [INFO ] - About to crawl site [http://www.fordhamsports.com/roster.aspx?path=softball]
+[2016-09-18 17:47:07,375] [23] [INFO ] - Configuration Values:
+[2016-09-18 17:47:07,375] [23] [INFO ] -   Abot Version: 1.0.0.0
+[2016-09-18 17:47:07,375] [23] [INFO ] -   MaxConcurrentSiteCrawls: 3
+[2016-09-18 17:47:07,375] [23] [INFO ] -   SitesToCrawlBatchSizePerRequest: 25
+[2016-09-18 17:47:07,375] [8] [INFO ] - About to crawl site [http://www.gwsports.com/sports/w-softbl/archive/gewa-w-softbl-roster-2014.html]
+[2016-09-18 17:47:07,375] [23] [INFO ] -   MinSiteToCrawlRequestDelayInSecs: 15
+[2016-09-18 17:47:07,375] [8] [INFO ] - Configuration Values:
+[2016-09-18 17:47:07,375] [23] [INFO ] -   IsJavascriptRenderingEnabled: False
+[2016-09-18 17:47:07,375] [23] [INFO ] -   JavascriptRenderingWaitTimeInMilliseconds: 3500
+[2016-09-18 17:47:07,375] [8] [INFO ] -   Abot Version: 1.0.0.0
+[2016-09-18 17:47:07,375] [23] [INFO ] -   IsAutoThrottlingEnabled: False
+[2016-09-18 17:47:07,375] [8] [INFO ] -   MaxConcurrentSiteCrawls: 3
+[2016-09-18 17:47:07,375] [23] [INFO ] -   MaxConcurrentThreads: 10
+[2016-09-18 17:47:07,375] [23] [INFO ] -   MaxPagesToCrawl: 1000
+[2016-09-18 17:47:07,375] [8] [INFO ] -   SitesToCrawlBatchSizePerRequest: 25
+[2016-09-18 17:47:07,375] [23] [INFO ] -   MaxPagesToCrawlPerDomain: 1
+[2016-09-18 17:47:07,375] [8] [INFO ] -   MinSiteToCrawlRequestDelayInSecs: 15
+[2016-09-18 17:47:07,375] [23] [INFO ] -   MaxPageSizeInBytes: 1048576
+[2016-09-18 17:47:07,375] [8] [INFO ] -   IsJavascriptRenderingEnabled: False
+[2016-09-18 17:47:07,375] [23] [INFO ] -   MaxRobotsDotTextCrawlDelayInSeconds: 5
+[2016-09-18 17:47:07,375] [8] [INFO ] -   JavascriptRenderingWaitTimeInMilliseconds: 3500
+[2016-09-18 17:47:07,375] [23] [INFO ] -   UserAgentString: Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+[2016-09-18 17:47:07,375] [8] [INFO ] -   IsAutoThrottlingEnabled: False
+[2016-09-18 17:47:07,375] [23] [INFO ] -   CrawlTimeoutSeconds: 0
+[2016-09-18 17:47:07,375] [8] [INFO ] -   MaxConcurrentThreads: 10
+[2016-09-18 17:47:07,375] [23] [INFO ] -   IsUriRecrawlingEnabled: False
+[2016-09-18 17:47:07,375] [8] [INFO ] -   MaxPagesToCrawl: 1000
+[2016-09-18 17:47:07,375] [23] [INFO ] -   IsExternalPageCrawlingEnabled: False
+[2016-09-18 17:47:07,375] [8] [INFO ] -   MaxPagesToCrawlPerDomain: 1
+[2016-09-18 17:47:07,375] [23] [INFO ] -   IsExternalPageLinksCrawlingEnabled: False
+[2016-09-18 17:47:07,375] [8] [INFO ] -   MaxPageSizeInBytes: 1048576
+[2016-09-18 17:47:07,375] [23] [INFO ] -   IsRespectUrlNamedAnchorOrHashbangEnabled: False
+[2016-09-18 17:47:07,375] [8] [INFO ] -   MaxRobotsDotTextCrawlDelayInSeconds: 5
+[2016-09-18 17:47:07,375] [23] [INFO ] -   DownloadableContentTypes: text/html
+[2016-09-18 17:47:07,375] [8] [INFO ] -   UserAgentString: Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+[2016-09-18 17:47:07,375] [23] [INFO ] -   HttpServicePointConnectionLimit: 200
+[2016-09-18 17:47:07,375] [8] [INFO ] -   CrawlTimeoutSeconds: 0
+[2016-09-18 17:47:07,375] [23] [INFO ] -   HttpRequestTimeoutInSeconds: 15
+[2016-09-18 17:47:07,375] [8] [INFO ] -   IsUriRecrawlingEnabled: False
+[2016-09-18 17:47:07,375] [8] [INFO ] -   IsExternalPageCrawlingEnabled: False
+[2016-09-18 17:47:07,375] [8] [INFO ] -   IsExternalPageLinksCrawlingEnabled: False
+[2016-09-18 17:47:07,375] [8] [INFO ] -   IsRespectUrlNamedAnchorOrHashbangEnabled: False
+[2016-09-18 17:47:07,375] [8] [INFO ] -   DownloadableContentTypes: text/html
+[2016-09-18 17:47:07,375] [8] [INFO ] -   HttpServicePointConnectionLimit: 200
+[2016-09-18 17:47:07,376] [8] [INFO ] -   HttpRequestTimeoutInSeconds: 15
+[2016-09-18 17:47:07,376] [8] [INFO ] -   HttpRequestMaxAutoRedirects: 7
+[2016-09-18 17:47:07,376] [8] [INFO ] -   IsHttpRequestAutoRedirectsEnabled: True
+[2016-09-18 17:47:07,376] [8] [INFO ] -   IsHttpRequestAutomaticDecompressionEnabled: False
+[2016-09-18 17:47:07,376] [8] [INFO ] -   IsSendingCookiesEnabled: False
+[2016-09-18 17:47:07,376] [8] [INFO ] -   IsSslCertificateValidationEnabled: True
+[2016-09-18 17:47:07,376] [8] [INFO ] -   MinAvailableMemoryRequiredInMb: 0
+[2016-09-18 17:47:07,376] [8] [INFO ] -   MaxMemoryUsageInMb: 0
+[2016-09-18 17:47:07,376] [8] [INFO ] -   MaxMemoryUsageCacheTimeInSeconds: 0
+[2016-09-18 17:47:07,376] [8] [INFO ] -   MaxCrawlDepth: 1
+[2016-09-18 17:47:07,376] [8] [INFO ] -   IsForcedLinkParsingEnabled: False
+[2016-09-18 17:47:07,376] [8] [INFO ] -   MaxRetryCount: 0
+[2016-09-18 17:47:07,376] [8] [INFO ] -   MinRetryDelayInMilliseconds: 0
+[2016-09-18 17:47:07,376] [8] [INFO ] -   IsRespectRobotsDotTextEnabled: False
+[2016-09-18 17:47:07,376] [8] [INFO ] -   IsRespectMetaRobotsNoFollowEnabled: False
+[2016-09-18 17:47:07,376] [8] [INFO ] -   IsRespectHttpXRobotsTagHeaderNoFollowEnabled: False
+[2016-09-18 17:47:07,375] [23] [INFO ] -   HttpRequestMaxAutoRedirects: 7
+[2016-09-18 17:47:07,376] [8] [INFO ] -   IsRespectAnchorRelNoFollowEnabled: False
+[2016-09-18 17:47:07,376] [23] [INFO ] -   IsHttpRequestAutoRedirectsEnabled: True
+[2016-09-18 17:47:07,376] [8] [INFO ] -   IsIgnoreRobotsDotTextIfRootDisallowedEnabled: False
+[2016-09-18 17:47:07,376] [23] [INFO ] -   IsHttpRequestAutomaticDecompressionEnabled: False
+[2016-09-18 17:47:07,376] [8] [INFO ] -   RobotsDotTextUserAgentString: abotagent
+[2016-09-18 17:47:07,376] [23] [INFO ] -   IsSendingCookiesEnabled: False
+[2016-09-18 17:47:07,376] [8] [INFO ] -   MinCrawlDelayPerDomainMilliSeconds: 0
+[2016-09-18 17:47:07,376] [23] [INFO ] -   IsSslCertificateValidationEnabled: True
+[2016-09-18 17:47:07,376] [8] [INFO ] -   IsAlwaysLogin: False
+[2016-09-18 17:47:07,376] [23] [INFO ] -   MinAvailableMemoryRequiredInMb: 0
+[2016-09-18 17:47:07,376] [8] [INFO ] -   LoginUser: 
+[2016-09-18 17:47:07,376] [23] [INFO ] -   MaxMemoryUsageInMb: 0
+[2016-09-18 17:47:07,376] [8] [INFO ] -   LoginPassword: 
+[2016-09-18 17:47:07,376] [23] [INFO ] -   MaxMemoryUsageCacheTimeInSeconds: 0
+[2016-09-18 17:47:07,376] [8] [INFO ] -   key1: value1
+[2016-09-18 17:47:07,376] [23] [INFO ] -   MaxCrawlDepth: 1
+[2016-09-18 17:47:07,376] [8] [INFO ] -   key2: value2
+[2016-09-18 17:47:07,376] [23] [INFO ] -   IsForcedLinkParsingEnabled: False
+[2016-09-18 17:47:07,376] [23] [INFO ] -   MaxRetryCount: 0
+[2016-09-18 17:47:07,376] [23] [INFO ] -   MinRetryDelayInMilliseconds: 0
+[2016-09-18 17:47:07,376] [23] [INFO ] -   IsRespectRobotsDotTextEnabled: False
+[2016-09-18 17:47:07,376] [23] [INFO ] -   IsRespectMetaRobotsNoFollowEnabled: False
+[2016-09-18 17:47:07,376] [23] [INFO ] -   IsRespectHttpXRobotsTagHeaderNoFollowEnabled: False
+[2016-09-18 17:47:07,376] [23] [INFO ] -   IsRespectAnchorRelNoFollowEnabled: False
+[2016-09-18 17:47:07,376] [23] [INFO ] -   IsIgnoreRobotsDotTextIfRootDisallowedEnabled: False
+[2016-09-18 17:47:07,376] [23] [INFO ] -   RobotsDotTextUserAgentString: abotagent
+[2016-09-18 17:47:07,376] [23] [INFO ] -   MinCrawlDelayPerDomainMilliSeconds: 0
+[2016-09-18 17:47:07,376] [23] [INFO ] -   IsAlwaysLogin: False
+[2016-09-18 17:47:07,376] [23] [INFO ] -   LoginUser: 
+[2016-09-18 17:47:07,376] [23] [INFO ] -   LoginPassword: 
+[2016-09-18 17:47:07,376] [23] [INFO ] -   key1: value1
+[2016-09-18 17:47:07,376] [23] [INFO ] -   key2: value2
+[2016-09-18 17:47:07,473] [24] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/8/25/facilities-ston-10-arena-html.aspx] Elapsed:[175.4667] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:07,513] [15] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/8/25/facilities-ston-10-lavalle-html.aspx] Elapsed:[195.52] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:07,626] [16] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/8/25/facilities-ston-10-nathan-html.aspx] Elapsed:[165.44] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:07,629] [31] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/8/25/facilities-ston-10-field-html.aspx] Elapsed:[148.3947] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:07,676] [14] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/8/25/facilities-ston-10-track-html.aspx] Elapsed:[169.451] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:07,676] [29] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/9/1/seawolves-hitting-facility.aspx] Elapsed:[206.5494] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:07,690] [37] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/index.aspx?path=wten] Elapsed:[1441.3326] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:07,765] [38] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/8/25/facilities-ada-accessibility-html.aspx] Elapsed:[232.6178] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:07,771] [19] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/8/25/facilities-ston-10-pool-html.aspx] Elapsed:[236.6287] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:07,885] [33] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/8/25/facilities-ston-10-courts-html.aspx] Elapsed:[274.2292] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:07,964] [6] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/staff.aspx?staff=6] Elapsed:[178.4746] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,039] [30] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/8/25/athletic-communications.aspx] Elapsed:[162.432] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,049] [34] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/8/25/school-bio-ston-strength-conditioning-html.aspx] Elapsed:[134.3571] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,057] [10] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/8/25/sportsmedicine.aspx] Elapsed:[168.9489] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,068] [37] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/8/25/student-dev.aspx] Elapsed:[195.0188] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,068] [28] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/documents/2016/8/25/Organizationalchart2.pdf] Elapsed:[442.6775] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,080] [24] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/staff.aspx] Elapsed:[252.1705] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,123] [22] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/8/25/hallfame.aspx] Elapsed:[193.0126] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,130] [38] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/9/1/stony-brook-camps-clinics.aspx] Elapsed:[234.1225] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,284] [21] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/archives.aspx?path=general] Elapsed:[195.0185] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,430] [14] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/9/1/compliance-home.aspx] Elapsed:[82.7199] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,437] [29] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/8/25/student-dev-ston-saac-html.aspx] Elapsed:[109.2909] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,444] [27] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/documents/2016/8/29/2014_15_EADA_report.pdf] Elapsed:[477.7696] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,444] [36] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/8/25/school-bio-ston-13-advisory-group-html.aspx] Elapsed:[132.8532] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,457] [28] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/8/25/corporatesponsorship-ston-10-corporate-partners-html.aspx] Elapsed:[167.445] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,466] [16] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/8/25/mission-ston-10-mission-html.aspx] Elapsed:[247.6578] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,479] [24] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/9/1/seawolves-social-media.aspx] Elapsed:[241.6427] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,499] [22] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/calendar.aspx?vtype=list] Elapsed:[231.616] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,518] [6] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/8/25/promotions-12-promos-html.aspx] Elapsed:[259.1895] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,556] [15] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/galleries] Elapsed:[268.7147] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,562] [17] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?path=softball&print=true] Elapsed:[91.2429] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,745] [10] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/cumestats.aspx?path=softball] Elapsed:[287.7653] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,771] [14] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/9/1/the-spirit-of-stony-brook-marching-band.aspx] Elapsed:[87.7331] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,774] [31] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/9/10/seapups-kids-den.aspx?id=2128] Elapsed:[125.8349] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,912] [34] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/coaches.aspx?path=softball] Elapsed:[190.0049] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,929] [19] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?rp_id=4060] Elapsed:[116.3085] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,937] [27] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sports/2016/9/2/meet-wolfie.aspx] Elapsed:[212.565] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,948] [33] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?rp_id=4071] Elapsed:[192.0114] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:08,987] [32] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.fordhamsports.com/roster.aspx?path=softball] Elapsed:[976.5974] Parent:[http://www.fordhamsports.com/roster.aspx?path=softball] Retry:[0]
+[2016-09-18 17:47:09,037] [38] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?rp_id=4072] Elapsed:[242.6456] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:09,046] [37] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/sendlink.aspx] Elapsed:[393.5469] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:09,133] [29] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?rp_id=4061] Elapsed:[177.9731] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:09,150] [17] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?rp_id=4070] Elapsed:[275.7333] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:09,234] [31] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?rp_id=4069] Elapsed:[217.579] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:09,287] [28] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?rp_id=4062] Elapsed:[134.8586] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:09,299] [19] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?rp_id=4066] Elapsed:[157.4184] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:09,380] [24] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?rp_id=4073] Elapsed:[214.5704] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:09,436] [33] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?rp_id=4063] Elapsed:[237.632] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:09,436] [35] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.gwsports.com/sports/w-softbl/archive/gewa-w-softbl-roster-2014.html] Elapsed:[674.795] Parent:[http://www.gwsports.com/sports/w-softbl/archive/gewa-w-softbl-roster-2014.html] Retry:[0]
+[2016-09-18 17:47:09,448] [15] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?rp_id=4065] Elapsed:[202.5384] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:09,527] [37] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?rp_id=4074] Elapsed:[256.1815] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:09,596] [29] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?rp_id=4068] Elapsed:[201.0333] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:09,605] [36] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?rp_id=4075] Elapsed:[230.6131] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:09,685] [31] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?rp_id=4064] Elapsed:[214.0692] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:09,702] [27] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/coaches.aspx?rc=627&path=softball] Elapsed:[191.5082] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:09,723] [28] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?rp_id=4076] Elapsed:[251.1681] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:09,732] [24] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/coaches.aspx?rc=625&path=softball] Elapsed:[225.6006] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:09,739] [33] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/coaches.aspx?rc=626&path=softball] Elapsed:[203.5411] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:09,876] [8] [INFO ] - Crawl complete for site [http://www.gwsports.com/sports/w-softbl/archive/gewa-w-softbl-roster-2014.html]: Crawled [1] pages in [00:00:02.5003677]
+[2016-09-18 17:47:09,876] [23] [INFO ] - Crawl complete for site [http://www.fordhamsports.com/roster.aspx?path=softball]: Crawled [1] pages in [00:00:02.5002427]
+[2016-09-18 17:47:09,876] [8] [INFO ] - About to crawl site [http://www.goexplorers.com/roster.aspx?path=softball]
+[2016-09-18 17:47:09,876] [8] [INFO ] - Configuration Values:
+[2016-09-18 17:47:09,876] [8] [INFO ] -   Abot Version: 1.0.0.0
+[2016-09-18 17:47:09,876] [8] [INFO ] -   MaxConcurrentSiteCrawls: 3
+[2016-09-18 17:47:09,876] [8] [INFO ] -   SitesToCrawlBatchSizePerRequest: 25
+[2016-09-18 17:47:09,876] [8] [INFO ] -   MinSiteToCrawlRequestDelayInSecs: 15
+[2016-09-18 17:47:09,876] [8] [INFO ] -   IsJavascriptRenderingEnabled: False
+[2016-09-18 17:47:09,876] [8] [INFO ] -   JavascriptRenderingWaitTimeInMilliseconds: 3500
+[2016-09-18 17:47:09,876] [8] [INFO ] -   IsAutoThrottlingEnabled: False
+[2016-09-18 17:47:09,876] [23] [INFO ] - About to crawl site [http://www.sjuhawks.com/SportSelect.dbml?&DB_OEM_ID=31200&SPID=127351&SPSID=821110]
+[2016-09-18 17:47:09,876] [8] [INFO ] -   MaxConcurrentThreads: 10
+[2016-09-18 17:47:09,876] [23] [INFO ] - Configuration Values:
+[2016-09-18 17:47:09,876] [8] [INFO ] -   MaxPagesToCrawl: 1000
+[2016-09-18 17:47:09,876] [23] [INFO ] -   Abot Version: 1.0.0.0
+[2016-09-18 17:47:09,876] [23] [INFO ] -   MaxConcurrentSiteCrawls: 3
+[2016-09-18 17:47:09,876] [8] [INFO ] -   MaxPagesToCrawlPerDomain: 1
+[2016-09-18 17:47:09,876] [23] [INFO ] -   SitesToCrawlBatchSizePerRequest: 25
+[2016-09-18 17:47:09,876] [8] [INFO ] -   MaxPageSizeInBytes: 1048576
+[2016-09-18 17:47:09,876] [23] [INFO ] -   MinSiteToCrawlRequestDelayInSecs: 15
+[2016-09-18 17:47:09,876] [8] [INFO ] -   MaxRobotsDotTextCrawlDelayInSeconds: 5
+[2016-09-18 17:47:09,876] [23] [INFO ] -   IsJavascriptRenderingEnabled: False
+[2016-09-18 17:47:09,876] [8] [INFO ] -   UserAgentString: Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+[2016-09-18 17:47:09,876] [23] [INFO ] -   JavascriptRenderingWaitTimeInMilliseconds: 3500
+[2016-09-18 17:47:09,876] [8] [INFO ] -   CrawlTimeoutSeconds: 0
+[2016-09-18 17:47:09,876] [23] [INFO ] -   IsAutoThrottlingEnabled: False
+[2016-09-18 17:47:09,876] [8] [INFO ] -   IsUriRecrawlingEnabled: False
+[2016-09-18 17:47:09,876] [23] [INFO ] -   MaxConcurrentThreads: 10
+[2016-09-18 17:47:09,876] [8] [INFO ] -   IsExternalPageCrawlingEnabled: False
+[2016-09-18 17:47:09,876] [23] [INFO ] -   MaxPagesToCrawl: 1000
+[2016-09-18 17:47:09,876] [23] [INFO ] -   MaxPagesToCrawlPerDomain: 1
+[2016-09-18 17:47:09,876] [8] [INFO ] -   IsExternalPageLinksCrawlingEnabled: False
+[2016-09-18 17:47:09,876] [8] [INFO ] -   IsRespectUrlNamedAnchorOrHashbangEnabled: False
+[2016-09-18 17:47:09,876] [8] [INFO ] -   DownloadableContentTypes: text/html
+[2016-09-18 17:47:09,876] [8] [INFO ] -   HttpServicePointConnectionLimit: 200
+[2016-09-18 17:47:09,876] [8] [INFO ] -   HttpRequestTimeoutInSeconds: 15
+[2016-09-18 17:47:09,876] [23] [INFO ] -   MaxPageSizeInBytes: 1048576
+[2016-09-18 17:47:09,876] [8] [INFO ] -   HttpRequestMaxAutoRedirects: 7
+[2016-09-18 17:47:09,877] [23] [INFO ] -   MaxRobotsDotTextCrawlDelayInSeconds: 5
+[2016-09-18 17:47:09,877] [8] [INFO ] -   IsHttpRequestAutoRedirectsEnabled: True
+[2016-09-18 17:47:09,877] [23] [INFO ] -   UserAgentString: Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+[2016-09-18 17:47:09,877] [8] [INFO ] -   IsHttpRequestAutomaticDecompressionEnabled: False
+[2016-09-18 17:47:09,877] [23] [INFO ] -   CrawlTimeoutSeconds: 0
+[2016-09-18 17:47:09,877] [8] [INFO ] -   IsSendingCookiesEnabled: False
+[2016-09-18 17:47:09,877] [23] [INFO ] -   IsUriRecrawlingEnabled: False
+[2016-09-18 17:47:09,877] [8] [INFO ] -   IsSslCertificateValidationEnabled: True
+[2016-09-18 17:47:09,877] [23] [INFO ] -   IsExternalPageCrawlingEnabled: False
+[2016-09-18 17:47:09,877] [8] [INFO ] -   MinAvailableMemoryRequiredInMb: 0
+[2016-09-18 17:47:09,877] [23] [INFO ] -   IsExternalPageLinksCrawlingEnabled: False
+[2016-09-18 17:47:09,877] [8] [INFO ] -   MaxMemoryUsageInMb: 0
+[2016-09-18 17:47:09,877] [23] [INFO ] -   IsRespectUrlNamedAnchorOrHashbangEnabled: False
+[2016-09-18 17:47:09,877] [8] [INFO ] -   MaxMemoryUsageCacheTimeInSeconds: 0
+[2016-09-18 17:47:09,877] [23] [INFO ] -   DownloadableContentTypes: text/html
+[2016-09-18 17:47:09,877] [23] [INFO ] -   HttpServicePointConnectionLimit: 200
+[2016-09-18 17:47:09,877] [8] [INFO ] -   MaxCrawlDepth: 1
+[2016-09-18 17:47:09,877] [23] [INFO ] -   HttpRequestTimeoutInSeconds: 15
+[2016-09-18 17:47:09,877] [8] [INFO ] -   IsForcedLinkParsingEnabled: False
+[2016-09-18 17:47:09,877] [23] [INFO ] -   HttpRequestMaxAutoRedirects: 7
+[2016-09-18 17:47:09,877] [8] [INFO ] -   MaxRetryCount: 0
+[2016-09-18 17:47:09,877] [23] [INFO ] -   IsHttpRequestAutoRedirectsEnabled: True
+[2016-09-18 17:47:09,877] [8] [INFO ] -   MinRetryDelayInMilliseconds: 0
+[2016-09-18 17:47:09,877] [23] [INFO ] -   IsHttpRequestAutomaticDecompressionEnabled: False
+[2016-09-18 17:47:09,877] [8] [INFO ] -   IsRespectRobotsDotTextEnabled: False
+[2016-09-18 17:47:09,877] [23] [INFO ] -   IsSendingCookiesEnabled: False
+[2016-09-18 17:47:09,877] [8] [INFO ] -   IsRespectMetaRobotsNoFollowEnabled: False
+[2016-09-18 17:47:09,877] [8] [INFO ] -   IsRespectHttpXRobotsTagHeaderNoFollowEnabled: False
+[2016-09-18 17:47:09,877] [23] [INFO ] -   IsSslCertificateValidationEnabled: True
+[2016-09-18 17:47:09,877] [8] [INFO ] -   IsRespectAnchorRelNoFollowEnabled: False
+[2016-09-18 17:47:09,877] [8] [INFO ] -   IsIgnoreRobotsDotTextIfRootDisallowedEnabled: False
+[2016-09-18 17:47:09,877] [23] [INFO ] -   MinAvailableMemoryRequiredInMb: 0
+[2016-09-18 17:47:09,877] [8] [INFO ] -   RobotsDotTextUserAgentString: abotagent
+[2016-09-18 17:47:09,877] [23] [INFO ] -   MaxMemoryUsageInMb: 0
+[2016-09-18 17:47:09,877] [8] [INFO ] -   MinCrawlDelayPerDomainMilliSeconds: 0
+[2016-09-18 17:47:09,877] [8] [INFO ] -   IsAlwaysLogin: False
+[2016-09-18 17:47:09,877] [8] [INFO ] -   LoginUser: 
+[2016-09-18 17:47:09,877] [23] [INFO ] -   MaxMemoryUsageCacheTimeInSeconds: 0
+[2016-09-18 17:47:09,877] [8] [INFO ] -   LoginPassword: 
+[2016-09-18 17:47:09,877] [23] [INFO ] -   MaxCrawlDepth: 1
+[2016-09-18 17:47:09,877] [23] [INFO ] -   IsForcedLinkParsingEnabled: False
+[2016-09-18 17:47:09,877] [23] [INFO ] -   MaxRetryCount: 0
+[2016-09-18 17:47:09,877] [23] [INFO ] -   MinRetryDelayInMilliseconds: 0
+[2016-09-18 17:47:09,877] [23] [INFO ] -   IsRespectRobotsDotTextEnabled: False
+[2016-09-18 17:47:09,877] [8] [INFO ] -   key1: value1
+[2016-09-18 17:47:09,877] [23] [INFO ] -   IsRespectMetaRobotsNoFollowEnabled: False
+[2016-09-18 17:47:09,877] [8] [INFO ] -   key2: value2
+[2016-09-18 17:47:09,877] [23] [INFO ] -   IsRespectHttpXRobotsTagHeaderNoFollowEnabled: False
+[2016-09-18 17:47:09,877] [23] [INFO ] -   IsRespectAnchorRelNoFollowEnabled: False
+[2016-09-18 17:47:09,877] [23] [INFO ] -   IsIgnoreRobotsDotTextIfRootDisallowedEnabled: False
+[2016-09-18 17:47:09,877] [23] [INFO ] -   RobotsDotTextUserAgentString: abotagent
+[2016-09-18 17:47:09,877] [23] [INFO ] -   MinCrawlDelayPerDomainMilliSeconds: 0
+[2016-09-18 17:47:09,877] [23] [INFO ] -   IsAlwaysLogin: False
+[2016-09-18 17:47:09,877] [23] [INFO ] -   LoginUser: 
+[2016-09-18 17:47:09,877] [23] [INFO ] -   LoginPassword: 
+[2016-09-18 17:47:09,877] [23] [INFO ] -   key1: value1
+[2016-09-18 17:47:09,877] [23] [INFO ] -   key2: value2
+[2016-09-18 17:47:09,879] [30] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.stonybrookathletics.com/roster.aspx?rp_id=4067] Elapsed:[390.0376] Parent:[http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:10,735] [32] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.goexplorers.com/roster.aspx?path=softball] Elapsed:[666.2718] Parent:[http://www.goexplorers.com/roster.aspx?path=softball] Retry:[0]
+[2016-09-18 17:47:11,949] [26] [INFO ] - Crawl complete for site [http://www.goseawolves.org/sports/w-softbl/mtt/ston-w-softbl-mtt.html]: Crawled [122] pages in [00:00:32.4946270]
+[2016-09-18 17:47:11,949] [26] [INFO ] - About to crawl site [http://www.slubillikens.com/SportSelect.dbml?SPSID=640262&SPID=93207&DB_OEM_ID=27200&Q_SEASON=2013]
+[2016-09-18 17:47:11,949] [26] [INFO ] - Configuration Values:
+[2016-09-18 17:47:11,949] [26] [INFO ] -   Abot Version: 1.0.0.0
+[2016-09-18 17:47:11,949] [26] [INFO ] -   MaxConcurrentSiteCrawls: 3
+[2016-09-18 17:47:11,949] [26] [INFO ] -   SitesToCrawlBatchSizePerRequest: 25
+[2016-09-18 17:47:11,949] [26] [INFO ] -   MinSiteToCrawlRequestDelayInSecs: 15
+[2016-09-18 17:47:11,949] [26] [INFO ] -   IsJavascriptRenderingEnabled: False
+[2016-09-18 17:47:11,949] [26] [INFO ] -   JavascriptRenderingWaitTimeInMilliseconds: 3500
+[2016-09-18 17:47:11,949] [26] [INFO ] -   IsAutoThrottlingEnabled: False
+[2016-09-18 17:47:11,949] [26] [INFO ] -   MaxConcurrentThreads: 10
+[2016-09-18 17:47:11,949] [26] [INFO ] -   MaxPagesToCrawl: 1000
+[2016-09-18 17:47:11,949] [26] [INFO ] -   MaxPagesToCrawlPerDomain: 1
+[2016-09-18 17:47:11,949] [26] [INFO ] -   MaxPageSizeInBytes: 1048576
+[2016-09-18 17:47:11,949] [26] [INFO ] -   MaxRobotsDotTextCrawlDelayInSeconds: 5
+[2016-09-18 17:47:11,949] [26] [INFO ] -   UserAgentString: Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+[2016-09-18 17:47:11,949] [26] [INFO ] -   CrawlTimeoutSeconds: 0
+[2016-09-18 17:47:11,949] [26] [INFO ] -   IsUriRecrawlingEnabled: False
+[2016-09-18 17:47:11,949] [26] [INFO ] -   IsExternalPageCrawlingEnabled: False
+[2016-09-18 17:47:11,949] [26] [INFO ] -   IsExternalPageLinksCrawlingEnabled: False
+[2016-09-18 17:47:11,949] [26] [INFO ] -   IsRespectUrlNamedAnchorOrHashbangEnabled: False
+[2016-09-18 17:47:11,949] [26] [INFO ] -   DownloadableContentTypes: text/html
+[2016-09-18 17:47:11,949] [26] [INFO ] -   HttpServicePointConnectionLimit: 200
+[2016-09-18 17:47:11,949] [26] [INFO ] -   HttpRequestTimeoutInSeconds: 15
+[2016-09-18 17:47:11,949] [26] [INFO ] -   HttpRequestMaxAutoRedirects: 7
+[2016-09-18 17:47:11,949] [26] [INFO ] -   IsHttpRequestAutoRedirectsEnabled: True
+[2016-09-18 17:47:11,949] [26] [INFO ] -   IsHttpRequestAutomaticDecompressionEnabled: False
+[2016-09-18 17:47:11,949] [26] [INFO ] -   IsSendingCookiesEnabled: False
+[2016-09-18 17:47:11,949] [26] [INFO ] -   IsSslCertificateValidationEnabled: True
+[2016-09-18 17:47:11,949] [26] [INFO ] -   MinAvailableMemoryRequiredInMb: 0
+[2016-09-18 17:47:11,949] [26] [INFO ] -   MaxMemoryUsageInMb: 0
+[2016-09-18 17:47:11,949] [26] [INFO ] -   MaxMemoryUsageCacheTimeInSeconds: 0
+[2016-09-18 17:47:11,949] [26] [INFO ] -   MaxCrawlDepth: 1
+[2016-09-18 17:47:11,949] [26] [INFO ] -   IsForcedLinkParsingEnabled: False
+[2016-09-18 17:47:11,949] [26] [INFO ] -   MaxRetryCount: 0
+[2016-09-18 17:47:11,949] [26] [INFO ] -   MinRetryDelayInMilliseconds: 0
+[2016-09-18 17:47:11,949] [26] [INFO ] -   IsRespectRobotsDotTextEnabled: False
+[2016-09-18 17:47:11,949] [26] [INFO ] -   IsRespectMetaRobotsNoFollowEnabled: False
+[2016-09-18 17:47:11,949] [26] [INFO ] -   IsRespectHttpXRobotsTagHeaderNoFollowEnabled: False
+[2016-09-18 17:47:11,949] [26] [INFO ] -   IsRespectAnchorRelNoFollowEnabled: False
+[2016-09-18 17:47:11,949] [26] [INFO ] -   IsIgnoreRobotsDotTextIfRootDisallowedEnabled: False
+[2016-09-18 17:47:11,949] [26] [INFO ] -   RobotsDotTextUserAgentString: abotagent
+[2016-09-18 17:47:11,949] [26] [INFO ] -   MinCrawlDelayPerDomainMilliSeconds: 0
+[2016-09-18 17:47:11,949] [26] [INFO ] -   IsAlwaysLogin: False
+[2016-09-18 17:47:11,949] [26] [INFO ] -   LoginUser: 
+[2016-09-18 17:47:11,949] [26] [INFO ] -   LoginPassword: 
+[2016-09-18 17:47:11,949] [26] [INFO ] -   key1: value1
+[2016-09-18 17:47:11,949] [26] [INFO ] -   key2: value2
+[2016-09-18 17:47:12,378] [8] [INFO ] - Crawl complete for site [http://www.goexplorers.com/roster.aspx?path=softball]: Crawled [1] pages in [00:00:02.5008093]
+[2016-09-18 17:47:12,378] [8] [INFO ] - About to crawl site [http://gobonnies.sbu.edu/sports/w-softbl/2013-14/roster]
+[2016-09-18 17:47:12,378] [8] [INFO ] - Configuration Values:
+[2016-09-18 17:47:12,378] [8] [INFO ] -   Abot Version: 1.0.0.0
+[2016-09-18 17:47:12,378] [8] [INFO ] -   MaxConcurrentSiteCrawls: 3
+[2016-09-18 17:47:12,378] [8] [INFO ] -   SitesToCrawlBatchSizePerRequest: 25
+[2016-09-18 17:47:12,378] [8] [INFO ] -   MinSiteToCrawlRequestDelayInSecs: 15
+[2016-09-18 17:47:12,378] [8] [INFO ] -   IsJavascriptRenderingEnabled: False
+[2016-09-18 17:47:12,378] [8] [INFO ] -   JavascriptRenderingWaitTimeInMilliseconds: 3500
+[2016-09-18 17:47:12,378] [8] [INFO ] -   IsAutoThrottlingEnabled: False
+[2016-09-18 17:47:12,378] [8] [INFO ] -   MaxConcurrentThreads: 10
+[2016-09-18 17:47:12,378] [8] [INFO ] -   MaxPagesToCrawl: 1000
+[2016-09-18 17:47:12,378] [8] [INFO ] -   MaxPagesToCrawlPerDomain: 1
+[2016-09-18 17:47:12,378] [8] [INFO ] -   MaxPageSizeInBytes: 1048576
+[2016-09-18 17:47:12,378] [8] [INFO ] -   MaxRobotsDotTextCrawlDelayInSeconds: 5
+[2016-09-18 17:47:12,378] [8] [INFO ] -   UserAgentString: Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+[2016-09-18 17:47:12,378] [8] [INFO ] -   CrawlTimeoutSeconds: 0
+[2016-09-18 17:47:12,378] [8] [INFO ] -   IsUriRecrawlingEnabled: False
+[2016-09-18 17:47:12,378] [8] [INFO ] -   IsExternalPageCrawlingEnabled: False
+[2016-09-18 17:47:12,378] [8] [INFO ] -   IsExternalPageLinksCrawlingEnabled: False
+[2016-09-18 17:47:12,378] [8] [INFO ] -   IsRespectUrlNamedAnchorOrHashbangEnabled: False
+[2016-09-18 17:47:12,378] [8] [INFO ] -   DownloadableContentTypes: text/html
+[2016-09-18 17:47:12,378] [8] [INFO ] -   HttpServicePointConnectionLimit: 200
+[2016-09-18 17:47:12,378] [8] [INFO ] -   HttpRequestTimeoutInSeconds: 15
+[2016-09-18 17:47:12,378] [8] [INFO ] -   HttpRequestMaxAutoRedirects: 7
+[2016-09-18 17:47:12,378] [8] [INFO ] -   IsHttpRequestAutoRedirectsEnabled: True
+[2016-09-18 17:47:12,378] [8] [INFO ] -   IsHttpRequestAutomaticDecompressionEnabled: False
+[2016-09-18 17:47:12,378] [8] [INFO ] -   IsSendingCookiesEnabled: False
+[2016-09-18 17:47:12,378] [8] [INFO ] -   IsSslCertificateValidationEnabled: True
+[2016-09-18 17:47:12,378] [8] [INFO ] -   MinAvailableMemoryRequiredInMb: 0
+[2016-09-18 17:47:12,378] [8] [INFO ] -   MaxMemoryUsageInMb: 0
+[2016-09-18 17:47:12,378] [8] [INFO ] -   MaxMemoryUsageCacheTimeInSeconds: 0
+[2016-09-18 17:47:12,378] [8] [INFO ] -   MaxCrawlDepth: 1
+[2016-09-18 17:47:12,378] [8] [INFO ] -   IsForcedLinkParsingEnabled: False
+[2016-09-18 17:47:12,378] [8] [INFO ] -   MaxRetryCount: 0
+[2016-09-18 17:47:12,378] [8] [INFO ] -   MinRetryDelayInMilliseconds: 0
+[2016-09-18 17:47:12,378] [8] [INFO ] -   IsRespectRobotsDotTextEnabled: False
+[2016-09-18 17:47:12,378] [8] [INFO ] -   IsRespectMetaRobotsNoFollowEnabled: False
+[2016-09-18 17:47:12,378] [8] [INFO ] -   IsRespectHttpXRobotsTagHeaderNoFollowEnabled: False
+[2016-09-18 17:47:12,378] [8] [INFO ] -   IsRespectAnchorRelNoFollowEnabled: False
+[2016-09-18 17:47:12,378] [8] [INFO ] -   IsIgnoreRobotsDotTextIfRootDisallowedEnabled: False
+[2016-09-18 17:47:12,378] [8] [INFO ] -   RobotsDotTextUserAgentString: abotagent
+[2016-09-18 17:47:12,378] [8] [INFO ] -   MinCrawlDelayPerDomainMilliSeconds: 0
+[2016-09-18 17:47:12,378] [8] [INFO ] -   IsAlwaysLogin: False
+[2016-09-18 17:47:12,378] [8] [INFO ] -   LoginUser: 
+[2016-09-18 17:47:12,378] [8] [INFO ] -   LoginPassword: 
+[2016-09-18 17:47:12,378] [8] [INFO ] -   key1: value1
+[2016-09-18 17:47:12,378] [8] [INFO ] -   key2: value2
+[2016-09-18 17:47:13,193] [34] [INFO ] - Page crawl complete, Status:[200] Url:[http://gobonnies.sbu.edu/sports/w-softbl/2013-14/roster] Elapsed:[423.1256] Parent:[http://gobonnies.sbu.edu/sports/w-softbl/2013-14/roster] Retry:[0]
+[2016-09-18 17:47:13,450] [35] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.sjuhawks.com/SportSelect.dbml?&DB_OEM_ID=31200&SPID=127351&SPSID=821110] Elapsed:[3281.2265] Parent:[http://www.sjuhawks.com/SportSelect.dbml?&DB_OEM_ID=31200&SPID=127351&SPSID=821110] Retry:[0]
+[2016-09-18 17:47:13,481] [17] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.slubillikens.com/SportSelect.dbml?SPSID=640262&SPID=93207&DB_OEM_ID=27200&Q_SEASON=2013] Elapsed:[1316.0001] Parent:[http://www.slubillikens.com/SportSelect.dbml?SPSID=640262&SPID=93207&DB_OEM_ID=27200&Q_SEASON=2013] Retry:[0]
+[2016-09-18 17:47:14,450] [26] [INFO ] - Crawl complete for site [http://www.slubillikens.com/SportSelect.dbml?SPSID=640262&SPID=93207&DB_OEM_ID=27200&Q_SEASON=2013]: Crawled [1] pages in [00:00:02.5005510]
+[2016-09-18 17:47:14,450] [26] [INFO ] - About to crawl site [http://www.owlsports.com/roster.aspx?path=softball]
+[2016-09-18 17:47:14,450] [26] [INFO ] - Configuration Values:
+[2016-09-18 17:47:14,450] [26] [INFO ] -   Abot Version: 1.0.0.0
+[2016-09-18 17:47:14,450] [26] [INFO ] -   MaxConcurrentSiteCrawls: 3
+[2016-09-18 17:47:14,450] [26] [INFO ] -   SitesToCrawlBatchSizePerRequest: 25
+[2016-09-18 17:47:14,450] [26] [INFO ] -   MinSiteToCrawlRequestDelayInSecs: 15
+[2016-09-18 17:47:14,450] [26] [INFO ] -   IsJavascriptRenderingEnabled: False
+[2016-09-18 17:47:14,450] [26] [INFO ] -   JavascriptRenderingWaitTimeInMilliseconds: 3500
+[2016-09-18 17:47:14,450] [26] [INFO ] -   IsAutoThrottlingEnabled: False
+[2016-09-18 17:47:14,450] [26] [INFO ] -   MaxConcurrentThreads: 10
+[2016-09-18 17:47:14,450] [26] [INFO ] -   MaxPagesToCrawl: 1000
+[2016-09-18 17:47:14,450] [26] [INFO ] -   MaxPagesToCrawlPerDomain: 1
+[2016-09-18 17:47:14,450] [26] [INFO ] -   MaxPageSizeInBytes: 1048576
+[2016-09-18 17:47:14,450] [26] [INFO ] -   MaxRobotsDotTextCrawlDelayInSeconds: 5
+[2016-09-18 17:47:14,450] [26] [INFO ] -   UserAgentString: Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+[2016-09-18 17:47:14,450] [26] [INFO ] -   CrawlTimeoutSeconds: 0
+[2016-09-18 17:47:14,450] [26] [INFO ] -   IsUriRecrawlingEnabled: False
+[2016-09-18 17:47:14,450] [26] [INFO ] -   IsExternalPageCrawlingEnabled: False
+[2016-09-18 17:47:14,450] [26] [INFO ] -   IsExternalPageLinksCrawlingEnabled: False
+[2016-09-18 17:47:14,450] [26] [INFO ] -   IsRespectUrlNamedAnchorOrHashbangEnabled: False
+[2016-09-18 17:47:14,450] [26] [INFO ] -   DownloadableContentTypes: text/html
+[2016-09-18 17:47:14,450] [26] [INFO ] -   HttpServicePointConnectionLimit: 200
+[2016-09-18 17:47:14,450] [26] [INFO ] -   HttpRequestTimeoutInSeconds: 15
+[2016-09-18 17:47:14,450] [26] [INFO ] -   HttpRequestMaxAutoRedirects: 7
+[2016-09-18 17:47:14,450] [26] [INFO ] -   IsHttpRequestAutoRedirectsEnabled: True
+[2016-09-18 17:47:14,450] [26] [INFO ] -   IsHttpRequestAutomaticDecompressionEnabled: False
+[2016-09-18 17:47:14,450] [26] [INFO ] -   IsSendingCookiesEnabled: False
+[2016-09-18 17:47:14,450] [26] [INFO ] -   IsSslCertificateValidationEnabled: True
+[2016-09-18 17:47:14,450] [26] [INFO ] -   MinAvailableMemoryRequiredInMb: 0
+[2016-09-18 17:47:14,450] [26] [INFO ] -   MaxMemoryUsageInMb: 0
+[2016-09-18 17:47:14,450] [26] [INFO ] -   MaxMemoryUsageCacheTimeInSeconds: 0
+[2016-09-18 17:47:14,450] [26] [INFO ] -   MaxCrawlDepth: 1
+[2016-09-18 17:47:14,450] [26] [INFO ] -   IsForcedLinkParsingEnabled: False
+[2016-09-18 17:47:14,450] [26] [INFO ] -   MaxRetryCount: 0
+[2016-09-18 17:47:14,450] [26] [INFO ] -   MinRetryDelayInMilliseconds: 0
+[2016-09-18 17:47:14,450] [26] [INFO ] -   IsRespectRobotsDotTextEnabled: False
+[2016-09-18 17:47:14,450] [26] [INFO ] -   IsRespectMetaRobotsNoFollowEnabled: False
+[2016-09-18 17:47:14,450] [26] [INFO ] -   IsRespectHttpXRobotsTagHeaderNoFollowEnabled: False
+[2016-09-18 17:47:14,450] [26] [INFO ] -   IsRespectAnchorRelNoFollowEnabled: False
+[2016-09-18 17:47:14,450] [26] [INFO ] -   IsIgnoreRobotsDotTextIfRootDisallowedEnabled: False
+[2016-09-18 17:47:14,450] [26] [INFO ] -   RobotsDotTextUserAgentString: abotagent
+[2016-09-18 17:47:14,450] [26] [INFO ] -   MinCrawlDelayPerDomainMilliSeconds: 0
+[2016-09-18 17:47:14,450] [26] [INFO ] -   IsAlwaysLogin: False
+[2016-09-18 17:47:14,450] [26] [INFO ] -   LoginUser: 
+[2016-09-18 17:47:14,450] [26] [INFO ] -   LoginPassword: 
+[2016-09-18 17:47:14,450] [26] [INFO ] -   key1: value1
+[2016-09-18 17:47:14,450] [26] [INFO ] -   key2: value2
+[2016-09-18 17:47:14,878] [23] [INFO ] - Crawl complete for site [http://www.sjuhawks.com/SportSelect.dbml?&DB_OEM_ID=31200&SPID=127351&SPSID=821110]: Crawled [1] pages in [00:00:05.0008851]
+[2016-09-18 17:47:14,878] [23] [INFO ] - About to crawl site [http://www.daytonflyers.com/roster.aspx?roster=9&path=softball]
+[2016-09-18 17:47:14,878] [23] [INFO ] - Configuration Values:
+[2016-09-18 17:47:14,878] [23] [INFO ] -   Abot Version: 1.0.0.0
+[2016-09-18 17:47:14,878] [23] [INFO ] -   MaxConcurrentSiteCrawls: 3
+[2016-09-18 17:47:14,878] [23] [INFO ] -   SitesToCrawlBatchSizePerRequest: 25
+[2016-09-18 17:47:14,878] [23] [INFO ] -   MinSiteToCrawlRequestDelayInSecs: 15
+[2016-09-18 17:47:14,878] [23] [INFO ] -   IsJavascriptRenderingEnabled: False
+[2016-09-18 17:47:14,878] [23] [INFO ] -   JavascriptRenderingWaitTimeInMilliseconds: 3500
+[2016-09-18 17:47:14,878] [23] [INFO ] -   IsAutoThrottlingEnabled: False
+[2016-09-18 17:47:14,878] [23] [INFO ] -   MaxConcurrentThreads: 10
+[2016-09-18 17:47:14,878] [23] [INFO ] -   MaxPagesToCrawl: 1000
+[2016-09-18 17:47:14,878] [23] [INFO ] -   MaxPagesToCrawlPerDomain: 1
+[2016-09-18 17:47:14,878] [23] [INFO ] -   MaxPageSizeInBytes: 1048576
+[2016-09-18 17:47:14,878] [23] [INFO ] -   MaxRobotsDotTextCrawlDelayInSeconds: 5
+[2016-09-18 17:47:14,878] [23] [INFO ] -   UserAgentString: Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+[2016-09-18 17:47:14,878] [23] [INFO ] -   CrawlTimeoutSeconds: 0
+[2016-09-18 17:47:14,878] [23] [INFO ] -   IsUriRecrawlingEnabled: False
+[2016-09-18 17:47:14,878] [23] [INFO ] -   IsExternalPageCrawlingEnabled: False
+[2016-09-18 17:47:14,878] [23] [INFO ] -   IsExternalPageLinksCrawlingEnabled: False
+[2016-09-18 17:47:14,878] [23] [INFO ] -   IsRespectUrlNamedAnchorOrHashbangEnabled: False
+[2016-09-18 17:47:14,878] [23] [INFO ] -   DownloadableContentTypes: text/html
+[2016-09-18 17:47:14,878] [23] [INFO ] -   HttpServicePointConnectionLimit: 200
+[2016-09-18 17:47:14,878] [23] [INFO ] -   HttpRequestTimeoutInSeconds: 15
+[2016-09-18 17:47:14,878] [23] [INFO ] -   HttpRequestMaxAutoRedirects: 7
+[2016-09-18 17:47:14,878] [23] [INFO ] -   IsHttpRequestAutoRedirectsEnabled: True
+[2016-09-18 17:47:14,878] [23] [INFO ] -   IsHttpRequestAutomaticDecompressionEnabled: False
+[2016-09-18 17:47:14,878] [23] [INFO ] -   IsSendingCookiesEnabled: False
+[2016-09-18 17:47:14,878] [23] [INFO ] -   IsSslCertificateValidationEnabled: True
+[2016-09-18 17:47:14,878] [23] [INFO ] -   MinAvailableMemoryRequiredInMb: 0
+[2016-09-18 17:47:14,878] [23] [INFO ] -   MaxMemoryUsageInMb: 0
+[2016-09-18 17:47:14,878] [23] [INFO ] -   MaxMemoryUsageCacheTimeInSeconds: 0
+[2016-09-18 17:47:14,878] [23] [INFO ] -   MaxCrawlDepth: 1
+[2016-09-18 17:47:14,878] [23] [INFO ] -   IsForcedLinkParsingEnabled: False
+[2016-09-18 17:47:14,878] [23] [INFO ] -   MaxRetryCount: 0
+[2016-09-18 17:47:14,878] [23] [INFO ] -   MinRetryDelayInMilliseconds: 0
+[2016-09-18 17:47:14,878] [23] [INFO ] -   IsRespectRobotsDotTextEnabled: False
+[2016-09-18 17:47:14,878] [23] [INFO ] -   IsRespectMetaRobotsNoFollowEnabled: False
+[2016-09-18 17:47:14,878] [23] [INFO ] -   IsRespectHttpXRobotsTagHeaderNoFollowEnabled: False
+[2016-09-18 17:47:14,878] [23] [INFO ] -   IsRespectAnchorRelNoFollowEnabled: False
+[2016-09-18 17:47:14,878] [23] [INFO ] -   IsIgnoreRobotsDotTextIfRootDisallowedEnabled: False
+[2016-09-18 17:47:14,878] [23] [INFO ] -   RobotsDotTextUserAgentString: abotagent
+[2016-09-18 17:47:14,878] [23] [INFO ] -   MinCrawlDelayPerDomainMilliSeconds: 0
+[2016-09-18 17:47:14,878] [23] [INFO ] -   IsAlwaysLogin: False
+[2016-09-18 17:47:14,878] [23] [INFO ] -   LoginUser: 
+[2016-09-18 17:47:14,878] [23] [INFO ] -   LoginPassword: 
+[2016-09-18 17:47:14,878] [23] [INFO ] -   key1: value1
+[2016-09-18 17:47:14,878] [23] [INFO ] -   key2: value2
+[2016-09-18 17:47:14,879] [8] [INFO ] - Crawl complete for site [http://gobonnies.sbu.edu/sports/w-softbl/2013-14/roster]: Crawled [1] pages in [00:00:02.5006272]
+[2016-09-18 17:47:14,879] [8] [INFO ] - About to crawl site [http://www.umassathletics.com/sports/w-softbl/mtt/umas-w-softbl-mtt.html]
+[2016-09-18 17:47:14,879] [8] [INFO ] - Configuration Values:
+[2016-09-18 17:47:14,879] [8] [INFO ] -   Abot Version: 1.0.0.0
+[2016-09-18 17:47:14,879] [8] [INFO ] -   MaxConcurrentSiteCrawls: 3
+[2016-09-18 17:47:14,879] [8] [INFO ] -   SitesToCrawlBatchSizePerRequest: 25
+[2016-09-18 17:47:14,879] [8] [INFO ] -   MinSiteToCrawlRequestDelayInSecs: 15
+[2016-09-18 17:47:14,879] [8] [INFO ] -   IsJavascriptRenderingEnabled: False
+[2016-09-18 17:47:14,879] [8] [INFO ] -   JavascriptRenderingWaitTimeInMilliseconds: 3500
+[2016-09-18 17:47:14,879] [8] [INFO ] -   IsAutoThrottlingEnabled: False
+[2016-09-18 17:47:14,879] [8] [INFO ] -   MaxConcurrentThreads: 10
+[2016-09-18 17:47:14,879] [8] [INFO ] -   MaxPagesToCrawl: 1000
+[2016-09-18 17:47:14,879] [8] [INFO ] -   MaxPagesToCrawlPerDomain: 1
+[2016-09-18 17:47:14,879] [8] [INFO ] -   MaxPageSizeInBytes: 1048576
+[2016-09-18 17:47:14,879] [8] [INFO ] -   MaxRobotsDotTextCrawlDelayInSeconds: 5
+[2016-09-18 17:47:14,879] [8] [INFO ] -   UserAgentString: Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+[2016-09-18 17:47:14,879] [8] [INFO ] -   CrawlTimeoutSeconds: 0
+[2016-09-18 17:47:14,879] [8] [INFO ] -   IsUriRecrawlingEnabled: False
+[2016-09-18 17:47:14,879] [8] [INFO ] -   IsExternalPageCrawlingEnabled: False
+[2016-09-18 17:47:14,879] [8] [INFO ] -   IsExternalPageLinksCrawlingEnabled: False
+[2016-09-18 17:47:14,879] [8] [INFO ] -   IsRespectUrlNamedAnchorOrHashbangEnabled: False
+[2016-09-18 17:47:14,879] [8] [INFO ] -   DownloadableContentTypes: text/html
+[2016-09-18 17:47:14,879] [8] [INFO ] -   HttpServicePointConnectionLimit: 200
+[2016-09-18 17:47:14,879] [8] [INFO ] -   HttpRequestTimeoutInSeconds: 15
+[2016-09-18 17:47:14,879] [8] [INFO ] -   HttpRequestMaxAutoRedirects: 7
+[2016-09-18 17:47:14,879] [8] [INFO ] -   IsHttpRequestAutoRedirectsEnabled: True
+[2016-09-18 17:47:14,879] [8] [INFO ] -   IsHttpRequestAutomaticDecompressionEnabled: False
+[2016-09-18 17:47:14,879] [8] [INFO ] -   IsSendingCookiesEnabled: False
+[2016-09-18 17:47:14,879] [8] [INFO ] -   IsSslCertificateValidationEnabled: True
+[2016-09-18 17:47:14,879] [8] [INFO ] -   MinAvailableMemoryRequiredInMb: 0
+[2016-09-18 17:47:14,879] [8] [INFO ] -   MaxMemoryUsageInMb: 0
+[2016-09-18 17:47:14,880] [8] [INFO ] -   MaxMemoryUsageCacheTimeInSeconds: 0
+[2016-09-18 17:47:14,880] [8] [INFO ] -   MaxCrawlDepth: 1
+[2016-09-18 17:47:14,880] [8] [INFO ] -   IsForcedLinkParsingEnabled: False
+[2016-09-18 17:47:14,880] [8] [INFO ] -   MaxRetryCount: 0
+[2016-09-18 17:47:14,880] [8] [INFO ] -   MinRetryDelayInMilliseconds: 0
+[2016-09-18 17:47:14,880] [8] [INFO ] -   IsRespectRobotsDotTextEnabled: False
+[2016-09-18 17:47:14,880] [8] [INFO ] -   IsRespectMetaRobotsNoFollowEnabled: False
+[2016-09-18 17:47:14,880] [8] [INFO ] -   IsRespectHttpXRobotsTagHeaderNoFollowEnabled: False
+[2016-09-18 17:47:14,880] [8] [INFO ] -   IsRespectAnchorRelNoFollowEnabled: False
+[2016-09-18 17:47:14,880] [8] [INFO ] -   IsIgnoreRobotsDotTextIfRootDisallowedEnabled: False
+[2016-09-18 17:47:14,880] [8] [INFO ] -   RobotsDotTextUserAgentString: abotagent
+[2016-09-18 17:47:14,880] [8] [INFO ] -   MinCrawlDelayPerDomainMilliSeconds: 0
+[2016-09-18 17:47:14,880] [8] [INFO ] -   IsAlwaysLogin: False
+[2016-09-18 17:47:14,880] [8] [INFO ] -   LoginUser: 
+[2016-09-18 17:47:14,880] [8] [INFO ] -   LoginPassword: 
+[2016-09-18 17:47:14,880] [8] [INFO ] -   key1: value1
+[2016-09-18 17:47:14,880] [8] [INFO ] -   key2: value2
+[2016-09-18 17:47:14,996] [33] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.owlsports.com/roster.aspx?path=softball] Elapsed:[267.2109] Parent:[http://www.owlsports.com/roster.aspx?path=softball] Retry:[0]
+[2016-09-18 17:47:15,436] [32] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.umassathletics.com/sports/w-softbl/mtt/umas-w-softbl-mtt.html] Elapsed:[233.6213] Parent:[http://www.umassathletics.com/sports/w-softbl/mtt/umas-w-softbl-mtt.html] Retry:[0]
+[2016-09-18 17:47:15,436] [32] [INFO ] - The root URI [http://www.umassathletics.com/sports/w-softbl/mtt/umas-w-softbl-mtt.html] was redirected to [http://www.umassathletics.com/roster.aspx?path=softball]. [http://www.umassathletics.com/roster.aspx?path=softball] is the new root.
+[2016-09-18 17:47:15,977] [30] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.daytonflyers.com/roster.aspx?roster=9&path=softball] Elapsed:[796.6188] Parent:[http://www.daytonflyers.com/roster.aspx?roster=9&path=softball] Retry:[0]
+[2016-09-18 17:47:16,951] [26] [INFO ] - Crawl complete for site [http://www.owlsports.com/roster.aspx?path=softball]: Crawled [1] pages in [00:00:02.5005776]
+[2016-09-18 17:47:16,951] [26] [INFO ] - About to crawl site [http://www.charlotte49ers.com/SportSelect.dbml?SPSID=590153&SPID=44791&Q_SEASON=2013]
+[2016-09-18 17:47:16,951] [26] [INFO ] - Configuration Values:
+[2016-09-18 17:47:16,951] [26] [INFO ] -   Abot Version: 1.0.0.0
+[2016-09-18 17:47:16,951] [26] [INFO ] -   MaxConcurrentSiteCrawls: 3
+[2016-09-18 17:47:16,951] [26] [INFO ] -   SitesToCrawlBatchSizePerRequest: 25
+[2016-09-18 17:47:16,951] [26] [INFO ] -   MinSiteToCrawlRequestDelayInSecs: 15
+[2016-09-18 17:47:16,951] [26] [INFO ] -   IsJavascriptRenderingEnabled: False
+[2016-09-18 17:47:16,951] [26] [INFO ] -   JavascriptRenderingWaitTimeInMilliseconds: 3500
+[2016-09-18 17:47:16,951] [26] [INFO ] -   IsAutoThrottlingEnabled: False
+[2016-09-18 17:47:16,951] [26] [INFO ] -   MaxConcurrentThreads: 10
+[2016-09-18 17:47:16,951] [26] [INFO ] -   MaxPagesToCrawl: 1000
+[2016-09-18 17:47:16,951] [26] [INFO ] -   MaxPagesToCrawlPerDomain: 1
+[2016-09-18 17:47:16,951] [26] [INFO ] -   MaxPageSizeInBytes: 1048576
+[2016-09-18 17:47:16,951] [26] [INFO ] -   MaxRobotsDotTextCrawlDelayInSeconds: 5
+[2016-09-18 17:47:16,951] [26] [INFO ] -   UserAgentString: Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+[2016-09-18 17:47:16,951] [26] [INFO ] -   CrawlTimeoutSeconds: 0
+[2016-09-18 17:47:16,951] [26] [INFO ] -   IsUriRecrawlingEnabled: False
+[2016-09-18 17:47:16,951] [26] [INFO ] -   IsExternalPageCrawlingEnabled: False
+[2016-09-18 17:47:16,951] [26] [INFO ] -   IsExternalPageLinksCrawlingEnabled: False
+[2016-09-18 17:47:16,951] [26] [INFO ] -   IsRespectUrlNamedAnchorOrHashbangEnabled: False
+[2016-09-18 17:47:16,951] [26] [INFO ] -   DownloadableContentTypes: text/html
+[2016-09-18 17:47:16,951] [26] [INFO ] -   HttpServicePointConnectionLimit: 200
+[2016-09-18 17:47:16,951] [26] [INFO ] -   HttpRequestTimeoutInSeconds: 15
+[2016-09-18 17:47:16,951] [26] [INFO ] -   HttpRequestMaxAutoRedirects: 7
+[2016-09-18 17:47:16,951] [26] [INFO ] -   IsHttpRequestAutoRedirectsEnabled: True
+[2016-09-18 17:47:16,951] [26] [INFO ] -   IsHttpRequestAutomaticDecompressionEnabled: False
+[2016-09-18 17:47:16,951] [26] [INFO ] -   IsSendingCookiesEnabled: False
+[2016-09-18 17:47:16,951] [26] [INFO ] -   IsSslCertificateValidationEnabled: True
+[2016-09-18 17:47:16,951] [26] [INFO ] -   MinAvailableMemoryRequiredInMb: 0
+[2016-09-18 17:47:16,951] [26] [INFO ] -   MaxMemoryUsageInMb: 0
+[2016-09-18 17:47:16,951] [26] [INFO ] -   MaxMemoryUsageCacheTimeInSeconds: 0
+[2016-09-18 17:47:16,951] [26] [INFO ] -   MaxCrawlDepth: 1
+[2016-09-18 17:47:16,951] [26] [INFO ] -   IsForcedLinkParsingEnabled: False
+[2016-09-18 17:47:16,951] [26] [INFO ] -   MaxRetryCount: 0
+[2016-09-18 17:47:16,951] [26] [INFO ] -   MinRetryDelayInMilliseconds: 0
+[2016-09-18 17:47:16,951] [26] [INFO ] -   IsRespectRobotsDotTextEnabled: False
+[2016-09-18 17:47:16,951] [26] [INFO ] -   IsRespectMetaRobotsNoFollowEnabled: False
+[2016-09-18 17:47:16,951] [26] [INFO ] -   IsRespectHttpXRobotsTagHeaderNoFollowEnabled: False
+[2016-09-18 17:47:16,951] [26] [INFO ] -   IsRespectAnchorRelNoFollowEnabled: False
+[2016-09-18 17:47:16,951] [26] [INFO ] -   IsIgnoreRobotsDotTextIfRootDisallowedEnabled: False
+[2016-09-18 17:47:16,951] [26] [INFO ] -   RobotsDotTextUserAgentString: abotagent
+[2016-09-18 17:47:16,952] [26] [INFO ] -   MinCrawlDelayPerDomainMilliSeconds: 0
+[2016-09-18 17:47:16,952] [26] [INFO ] -   IsAlwaysLogin: False
+[2016-09-18 17:47:16,952] [26] [INFO ] -   LoginUser: 
+[2016-09-18 17:47:16,952] [26] [INFO ] -   LoginPassword: 
+[2016-09-18 17:47:16,952] [26] [INFO ] -   key1: value1
+[2016-09-18 17:47:16,952] [26] [INFO ] -   key2: value2
+[2016-09-18 17:47:17,379] [23] [INFO ] - Crawl complete for site [http://www.daytonflyers.com/roster.aspx?roster=9&path=softball]: Crawled [1] pages in [00:00:02.5005732]
+[2016-09-18 17:47:17,379] [23] [INFO ] - About to crawl site [http://www.gorhody.com/sports/w-softbl/2013-14/roster]
+[2016-09-18 17:47:17,379] [23] [INFO ] - Configuration Values:
+[2016-09-18 17:47:17,379] [23] [INFO ] -   Abot Version: 1.0.0.0
+[2016-09-18 17:47:17,379] [23] [INFO ] -   MaxConcurrentSiteCrawls: 3
+[2016-09-18 17:47:17,379] [23] [INFO ] -   SitesToCrawlBatchSizePerRequest: 25
+[2016-09-18 17:47:17,379] [23] [INFO ] -   MinSiteToCrawlRequestDelayInSecs: 15
+[2016-09-18 17:47:17,379] [23] [INFO ] -   IsJavascriptRenderingEnabled: False
+[2016-09-18 17:47:17,379] [23] [INFO ] -   JavascriptRenderingWaitTimeInMilliseconds: 3500
+[2016-09-18 17:47:17,379] [23] [INFO ] -   IsAutoThrottlingEnabled: False
+[2016-09-18 17:47:17,379] [23] [INFO ] -   MaxConcurrentThreads: 10
+[2016-09-18 17:47:17,379] [23] [INFO ] -   MaxPagesToCrawl: 1000
+[2016-09-18 17:47:17,379] [23] [INFO ] -   MaxPagesToCrawlPerDomain: 1
+[2016-09-18 17:47:17,379] [23] [INFO ] -   MaxPageSizeInBytes: 1048576
+[2016-09-18 17:47:17,379] [23] [INFO ] -   MaxRobotsDotTextCrawlDelayInSeconds: 5
+[2016-09-18 17:47:17,379] [23] [INFO ] -   UserAgentString: Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+[2016-09-18 17:47:17,379] [23] [INFO ] -   CrawlTimeoutSeconds: 0
+[2016-09-18 17:47:17,379] [23] [INFO ] -   IsUriRecrawlingEnabled: False
+[2016-09-18 17:47:17,379] [23] [INFO ] -   IsExternalPageCrawlingEnabled: False
+[2016-09-18 17:47:17,379] [23] [INFO ] -   IsExternalPageLinksCrawlingEnabled: False
+[2016-09-18 17:47:17,379] [23] [INFO ] -   IsRespectUrlNamedAnchorOrHashbangEnabled: False
+[2016-09-18 17:47:17,379] [23] [INFO ] -   DownloadableContentTypes: text/html
+[2016-09-18 17:47:17,379] [23] [INFO ] -   HttpServicePointConnectionLimit: 200
+[2016-09-18 17:47:17,379] [23] [INFO ] -   HttpRequestTimeoutInSeconds: 15
+[2016-09-18 17:47:17,379] [23] [INFO ] -   HttpRequestMaxAutoRedirects: 7
+[2016-09-18 17:47:17,379] [23] [INFO ] -   IsHttpRequestAutoRedirectsEnabled: True
+[2016-09-18 17:47:17,379] [23] [INFO ] -   IsHttpRequestAutomaticDecompressionEnabled: False
+[2016-09-18 17:47:17,379] [23] [INFO ] -   IsSendingCookiesEnabled: False
+[2016-09-18 17:47:17,379] [23] [INFO ] -   IsSslCertificateValidationEnabled: True
+[2016-09-18 17:47:17,379] [23] [INFO ] -   MinAvailableMemoryRequiredInMb: 0
+[2016-09-18 17:47:17,379] [23] [INFO ] -   MaxMemoryUsageInMb: 0
+[2016-09-18 17:47:17,379] [23] [INFO ] -   MaxMemoryUsageCacheTimeInSeconds: 0
+[2016-09-18 17:47:17,379] [23] [INFO ] -   MaxCrawlDepth: 1
+[2016-09-18 17:47:17,379] [23] [INFO ] -   IsForcedLinkParsingEnabled: False
+[2016-09-18 17:47:17,379] [23] [INFO ] -   MaxRetryCount: 0
+[2016-09-18 17:47:17,379] [23] [INFO ] -   MinRetryDelayInMilliseconds: 0
+[2016-09-18 17:47:17,379] [23] [INFO ] -   IsRespectRobotsDotTextEnabled: False
+[2016-09-18 17:47:17,379] [23] [INFO ] -   IsRespectMetaRobotsNoFollowEnabled: False
+[2016-09-18 17:47:17,379] [23] [INFO ] -   IsRespectHttpXRobotsTagHeaderNoFollowEnabled: False
+[2016-09-18 17:47:17,379] [23] [INFO ] -   IsRespectAnchorRelNoFollowEnabled: False
+[2016-09-18 17:47:17,379] [23] [INFO ] -   IsIgnoreRobotsDotTextIfRootDisallowedEnabled: False
+[2016-09-18 17:47:17,380] [23] [INFO ] -   RobotsDotTextUserAgentString: abotagent
+[2016-09-18 17:47:17,380] [23] [INFO ] -   MinCrawlDelayPerDomainMilliSeconds: 0
+[2016-09-18 17:47:17,380] [23] [INFO ] -   IsAlwaysLogin: False
+[2016-09-18 17:47:17,380] [23] [INFO ] -   LoginUser: 
+[2016-09-18 17:47:17,380] [23] [INFO ] -   LoginPassword: 
+[2016-09-18 17:47:17,380] [23] [INFO ] -   key1: value1
+[2016-09-18 17:47:17,380] [23] [INFO ] -   key2: value2
+[2016-09-18 17:47:17,380] [8] [INFO ] - Crawl complete for site [http://www.umassathletics.com/sports/w-softbl/mtt/umas-w-softbl-mtt.html]: Crawled [1] pages in [00:00:02.5005010]
+[2016-09-18 17:47:17,380] [8] [INFO ] - About to crawl site [http://www.bceagles.com/sports/w-softbl/archive/bc-w-softbl-mtt-14.html]
+[2016-09-18 17:47:17,380] [8] [INFO ] - Configuration Values:
+[2016-09-18 17:47:17,380] [8] [INFO ] -   Abot Version: 1.0.0.0
+[2016-09-18 17:47:17,380] [8] [INFO ] -   MaxConcurrentSiteCrawls: 3
+[2016-09-18 17:47:17,380] [8] [INFO ] -   SitesToCrawlBatchSizePerRequest: 25
+[2016-09-18 17:47:17,380] [8] [INFO ] -   MinSiteToCrawlRequestDelayInSecs: 15
+[2016-09-18 17:47:17,380] [8] [INFO ] -   IsJavascriptRenderingEnabled: False
+[2016-09-18 17:47:17,380] [8] [INFO ] -   JavascriptRenderingWaitTimeInMilliseconds: 3500
+[2016-09-18 17:47:17,380] [8] [INFO ] -   IsAutoThrottlingEnabled: False
+[2016-09-18 17:47:17,380] [8] [INFO ] -   MaxConcurrentThreads: 10
+[2016-09-18 17:47:17,380] [8] [INFO ] -   MaxPagesToCrawl: 1000
+[2016-09-18 17:47:17,380] [8] [INFO ] -   MaxPagesToCrawlPerDomain: 1
+[2016-09-18 17:47:17,380] [8] [INFO ] -   MaxPageSizeInBytes: 1048576
+[2016-09-18 17:47:17,380] [8] [INFO ] -   MaxRobotsDotTextCrawlDelayInSeconds: 5
+[2016-09-18 17:47:17,380] [8] [INFO ] -   UserAgentString: Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+[2016-09-18 17:47:17,380] [8] [INFO ] -   CrawlTimeoutSeconds: 0
+[2016-09-18 17:47:17,380] [8] [INFO ] -   IsUriRecrawlingEnabled: False
+[2016-09-18 17:47:17,380] [8] [INFO ] -   IsExternalPageCrawlingEnabled: False
+[2016-09-18 17:47:17,380] [8] [INFO ] -   IsExternalPageLinksCrawlingEnabled: False
+[2016-09-18 17:47:17,380] [8] [INFO ] -   IsRespectUrlNamedAnchorOrHashbangEnabled: False
+[2016-09-18 17:47:17,380] [8] [INFO ] -   DownloadableContentTypes: text/html
+[2016-09-18 17:47:17,380] [8] [INFO ] -   HttpServicePointConnectionLimit: 200
+[2016-09-18 17:47:17,380] [8] [INFO ] -   HttpRequestTimeoutInSeconds: 15
+[2016-09-18 17:47:17,380] [8] [INFO ] -   HttpRequestMaxAutoRedirects: 7
+[2016-09-18 17:47:17,380] [8] [INFO ] -   IsHttpRequestAutoRedirectsEnabled: True
+[2016-09-18 17:47:17,380] [8] [INFO ] -   IsHttpRequestAutomaticDecompressionEnabled: False
+[2016-09-18 17:47:17,380] [8] [INFO ] -   IsSendingCookiesEnabled: False
+[2016-09-18 17:47:17,380] [8] [INFO ] -   IsSslCertificateValidationEnabled: True
+[2016-09-18 17:47:17,380] [8] [INFO ] -   MinAvailableMemoryRequiredInMb: 0
+[2016-09-18 17:47:17,380] [8] [INFO ] -   MaxMemoryUsageInMb: 0
+[2016-09-18 17:47:17,380] [8] [INFO ] -   MaxMemoryUsageCacheTimeInSeconds: 0
+[2016-09-18 17:47:17,380] [8] [INFO ] -   MaxCrawlDepth: 1
+[2016-09-18 17:47:17,380] [8] [INFO ] -   IsForcedLinkParsingEnabled: False
+[2016-09-18 17:47:17,380] [8] [INFO ] -   MaxRetryCount: 0
+[2016-09-18 17:47:17,380] [8] [INFO ] -   MinRetryDelayInMilliseconds: 0
+[2016-09-18 17:47:17,380] [8] [INFO ] -   IsRespectRobotsDotTextEnabled: False
+[2016-09-18 17:47:17,380] [8] [INFO ] -   IsRespectMetaRobotsNoFollowEnabled: False
+[2016-09-18 17:47:17,380] [8] [INFO ] -   IsRespectHttpXRobotsTagHeaderNoFollowEnabled: False
+[2016-09-18 17:47:17,380] [8] [INFO ] -   IsRespectAnchorRelNoFollowEnabled: False
+[2016-09-18 17:47:17,380] [8] [INFO ] -   IsIgnoreRobotsDotTextIfRootDisallowedEnabled: False
+[2016-09-18 17:47:17,380] [8] [INFO ] -   RobotsDotTextUserAgentString: abotagent
+[2016-09-18 17:47:17,380] [8] [INFO ] -   MinCrawlDelayPerDomainMilliSeconds: 0
+[2016-09-18 17:47:17,380] [8] [INFO ] -   IsAlwaysLogin: False
+[2016-09-18 17:47:17,380] [8] [INFO ] -   LoginUser: 
+[2016-09-18 17:47:17,380] [8] [INFO ] -   LoginPassword: 
+[2016-09-18 17:47:17,380] [8] [INFO ] -   key1: value1
+[2016-09-18 17:47:17,380] [8] [INFO ] -   key2: value2
+[2016-09-18 17:47:17,526] [22] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.charlotte49ers.com/SportSelect.dbml?SPSID=590153&SPID=44791&Q_SEASON=2013] Elapsed:[251.6693] Parent:[http://www.charlotte49ers.com/SportSelect.dbml?SPSID=590153&SPID=44791&Q_SEASON=2013] Retry:[0]
+[2016-09-18 17:47:17,526] [22] [INFO ] - The root URI [http://www.charlotte49ers.com/SportSelect.dbml?SPSID=590153&SPID=44791&Q_SEASON=2013] was redirected to [http://www.charlotte49ers.com/index.aspx]. [http://www.charlotte49ers.com/index.aspx] is the new root.
+[2016-09-18 17:47:17,891] [38] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.bceagles.com/sports/w-softbl/archive/bc-w-softbl-mtt-14.html] Elapsed:[254.1756] Parent:[http://www.bceagles.com/sports/w-softbl/archive/bc-w-softbl-mtt-14.html] Retry:[0]
+[2016-09-18 17:47:17,891] [38] [INFO ] - The root URI [http://www.bceagles.com/sports/w-softbl/archive/bc-w-softbl-mtt-14.html] was redirected to [http://www.bceagles.com/roster.aspx?path=softball]. [http://www.bceagles.com/roster.aspx?path=softball] is the new root.
+[2016-09-18 17:47:18,124] [24] [INFO ] - Page crawl complete, Status:[200] Url:[http://www.gorhody.com/sports/w-softbl/2013-14/roster] Elapsed:[414.1013] Parent:[http://www.gorhody.com/sports/w-softbl/2013-14/roster] Retry:[0]
