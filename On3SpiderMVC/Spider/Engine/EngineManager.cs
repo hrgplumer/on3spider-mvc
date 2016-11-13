@@ -27,6 +27,9 @@ namespace Spider.Engine
         // this should be moved out to App.config
         private const int PageAnalyzeThreshold = 20;
 
+        /// <summary>
+        /// Volatile flag used by the page crawling thread to signal that it is finished processing.
+        /// </summary>
         private volatile bool _allCrawlsCompleted = false;
 
         /// <summary>
@@ -57,16 +60,22 @@ namespace Spider.Engine
         /// <summary>
         /// Starts the web crawl.
         /// </summary>
-        public async Task StartAsync()
+        public async Task<IList<ISheetRow>>  StartAsync()
         {
             _crawler.Crawl();
             using (var processTask = ProcessCrawledPagesAsync())
             {
                 await processTask;
+
+                return processTask.Result;
             }
         }
 
-        private async Task ProcessCrawledPagesAsync()
+        /// <summary>
+        /// Processes the crawled page results in a separate thread. 
+        /// </summary>
+        /// <returns>A list of results, or null if something went wrong.</returns>
+        private async Task<IList<ISheetRow>> ProcessCrawledPagesAsync()
         {
             var stack = new Stack<CrawledPage>();
             while (!_allCrawlsCompleted)
@@ -87,20 +96,29 @@ namespace Spider.Engine
                         var stackItems = stack.ToArray();
                         stack.Clear();
                         Trace.WriteLine("cleared stack");
-                        await ProcessPage(stackItems);
-                    }
+                        var results = await ProcessPage(stackItems);
 
+                        Trace.WriteLine("All crawls completed. Shutting down...");
+                        return results;
+                    }
                 }
             }
 
-            Trace.WriteLine("All crawls completed. Shutting down...");
+            // if we make it here without returning, something went wrong.
+            return null;
         }
 
-        private async Task ProcessPage(IEnumerable<CrawledPage> pages)
+        /// <summary>
+        /// Calls a PageAnalyzer on the crawled page results.
+        /// </summary>
+        /// <param name="pages"></param>
+        /// <returns></returns>
+        private async Task<IList<ISheetRow>> ProcessPage(IEnumerable<CrawledPage> pages)
         {
             var analyzer = new PageAnalyzer(pages, _category, _urlDictionary);
             var result = await analyzer.AnalyzeAsync();
-            var x = 0;
+
+            return result;
         }
 
         /// <summary>

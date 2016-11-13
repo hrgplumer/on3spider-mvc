@@ -1,0 +1,56 @@
+﻿@model On3SpiderMVC.ViewModels.Home.ResultsViewModel
+
+@{
+    ViewBag.Title = "Results";
+}
+
+@section css {
+
+}
+
+@section scripts {
+
+}
+
+<div class="row">
+    <div class="col-sm-12">
+        @if (Model.ResultsList == null || !Model.ResultsList.Any())
+        {
+            <h1>@Model.Error</h1>
+        }
+        else
+        {
+            <h1>URLs crawled: @Model.ResultsList.Count</h1>
+
+            <h3>Results</h3>
+
+            foreach (var result in Model.ResultsList)
+            {
+                <p>
+                    <a href="@result.Url" target="_blank">@result.School</a>
+                </p>
+
+
+                if (result.Results != null && result.Results.Players != null && result.Results.Players.Any())
+                {
+                    <ul>
+                        @foreach (var player in result.Results.Players)
+                        {
+                            if (player != null)
+                            {
+                                <li>
+                                    Name: @player.FirstLast<br/>
+                                    Height: @player.Height<br/>
+                                    Weight: @player.Weight<br/>
+                                    Position: @player.Position
+                                </li>
+                            }
+                        }
+                    </ul>
+
+                }
+            }
+        }
+
+    </div>
+</div>

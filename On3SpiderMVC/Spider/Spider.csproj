@@ -106,7 +106,8 @@
     <Compile Include="Engine\PageAnalyzer.cs" />
     <Compile Include="Engine\QueueManager.cs" />
     <Compile Include="Infrastructure\Constants.cs" />
-    <Compile Include="Infrastructure\ExcelReader.cs" />
+    <Compile Include="Infrastructure\Excel\ExcelReader.cs" />
+    <Compile Include="Infrastructure\Excel\ExcelWriter.cs" />
     <Compile Include="Interface\ICrawler.cs" />
     <Compile Include="Interface\IExcelSheet.cs" />
     <Compile Include="Interface\IQueueManager.cs" />

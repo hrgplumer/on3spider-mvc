@@ -127,40 +127,49 @@ namespace Spider.Engine
                     // get the player name and player URL from the appropriate
                     // columns.
 
-                    foreach (var row in dataRows)
+                    if (dataRows != null)
                     {
-                        var rowCells = row.SelectNodes("./td");
-                        if (rowCells == null || rowCells.Count != numColsInTable)
+                        foreach (var row in dataRows)
                         {
-                            continue;
-                        }
-
-                        var playerCell = rowCells[playerNameIndex];
-                        var playerUrlTag = playerCell.SelectSingleNode("a") ?? playerCell.SelectSingleNode(".//a");
-                        var playerName = playerUrlTag.InnerText.Trim();
-
-                        // check if name is listed LAST, FIRST and if so, reverse it
-                        if (playerName.Contains(","))
-                        {
-                            var nameArray = playerName.Split(',');
-                            if (nameArray.Length == 2) // if length isn't two, just leave the name alone
+                            var rowCells = row.SelectNodes("./td");
+                            if (rowCells == null || rowCells.Count != numColsInTable)
                             {
-                                playerName = String.Empty;
-                                playerName += nameArray[1] + " ";
-                                playerName += nameArray[0];
+                                continue;
                             }
-                        }
 
-                        // find out more info about player here (position? height/weight? class?)
+                            var playerCell = rowCells[playerNameIndex];
+                            var playerUrlTag = playerCell.SelectSingleNode("a") ?? playerCell.SelectSingleNode(".//a");
 
-                        /* **********
+                            if (playerUrlTag == null)
+                            {
+                                continue;
+                            }
+
+                            var playerName = playerUrlTag.InnerText.Trim();
+
+                            // check if name is listed LAST, FIRST and if so, reverse it
+                            if (playerName.Contains(","))
+                            {
+                                var nameArray = playerName.Split(',');
+                                if (nameArray.Length == 2) // if length isn't two, just leave the name alone
+                                {
+                                    playerName = String.Empty;
+                                    playerName += nameArray[1] + " ";
+                                    playerName += nameArray[0];
+                                }
+                            }
+
+                            // find out more info about player here (position? height/weight? class?)
+
+                            /* **********
 
                         */
 
-                        playerList.Add(new Player()
-                        {
-                            FirstLast = playerName
-                        });
+                            playerList.Add(new Player()
+                            {
+                                FirstLast = playerName
+                            });
+                        }
                     }
                 }
 

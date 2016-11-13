@@ -6,13 +6,14 @@ using System.Web;
 using System.Web.Mvc;
 using On3SpiderMVC.Infrastructure;
 using On3SpiderMVC.ViewModels;
-using Spider;
 using On3SpiderMVC.Repository;
 using Spider.Models;
 using Spider.Interface;
 using System.Threading.Tasks;
 using Spider.Engine;
 using Abot.Poco;
+using On3SpiderMVC.ViewModels.Home;
+using Spider.Infrastructure.Excel;
 
 namespace On3SpiderMVC.Controllers
 {
@@ -56,34 +57,48 @@ namespace On3SpiderMVC.Controllers
                         // file is uploaded to server; now open it with excel reader
                         var reader = new ExcelReader<RosterSheet>(path);
                         var urls = reader.ReadSheet().ToList();
+                        var category = model.CategoryDropDownSelection;
 
                         if (!urls.Any())
                         {
                             // no URLs in spreadsheet -- error
-                            return View(model);
+                            return View("Results", new ResultsViewModel()
+                            {
+                                Error = "No URLs found in selected spreadsheet."
+                            });
                         }
 
-                        var category = model.CategoryDropDownSelection;
                         if (String.IsNullOrWhiteSpace(category))
                         {
                             // no category selected -- error
-                            return View(model);
+                            return View("Results", new ResultsViewModel()
+                            {
+                                Error = "No Category selected."
+                            });
                         }
 
                         // Create info dictionary to propagate original info from spreadsheet thru the app
                         var urlInfoDict = urls.ToDictionary<RosterSheet, string, ISheetRow>(row => row.Url, row => row);
 
                         // Start the crawling engine on a new thread
-                        await Task.Run(() => StartCrawlingEngineAsync(urlInfoDict, category));
+                        var crawlResults = await Task.Run(() => StartCrawlingEngineAsync(urlInfoDict, category));
 
-                        // TODO change return here
-                        return View(model);
+                        return View("Results", new ResultsViewModel()
+                        {
+                            Error = "Success",
+                            ResultsList = crawlResults
+                        });
                     }
                 }
             }
 
-            return View(model);
+            // if we make it here without returning, something weird happened
+            return View("Results", new ResultsViewModel()
+            {
+                Error = "Unspecified error."
+            });
         }
+
 
         #region Privates
 
@@ -92,10 +107,12 @@ namespace On3SpiderMVC.Controllers
         /// </summary>
         /// <param name="urlDictionary">The list of urls to crawl.</param>
         /// <param name="category">The category of these urls.</param>
-        private async Task StartCrawlingEngineAsync(Dictionary<string, ISheetRow> urlDictionary, string category)
+        private async Task<IList<ISheetRow>>  StartCrawlingEngineAsync(Dictionary<string, ISheetRow> urlDictionary, string category)
         {
             var manager = new EngineManager(new Crawler(urlDictionary.Keys), category, urlDictionary, new QueueManager<CrawledPage>());
-            await manager.StartAsync();
+            var result = await manager.StartAsync();
+
+            return result;
         }
 
         #endregion
