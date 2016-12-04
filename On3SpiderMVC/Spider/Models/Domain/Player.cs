@@ -12,5 +12,7 @@ namespace Spider.Models.Domain
         public string Height { get; set; }
         public string Weight { get; set; }
         public string Position { get; set; }
+        public string Class { get; set; }
+        public string Major { get; set; }
     }
 }

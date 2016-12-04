@@ -9,7 +9,17 @@
 }
 
 @section scripts {
-
+    <script type="text/javascript">
+        function queryParams() {
+            return {
+                type: 'owner',
+                sort: 'updated',
+                direction: 'desc',
+                per_page: 100,
+                page: 1
+            };
+        }
+    </script>
 }
 
 <div class="row">
@@ -31,22 +41,37 @@
                 </p>
 
 
-                if (result.Results != null && result.Results.Players != null && result.Results.Players.Any())
+                if (result.Results?.Players != null && result.Results.Players.Any())
                 {
-                    <ul>
-                        @foreach (var player in result.Results.Players)
+                    <table data-toggle="table"
+                           data-query-params="queryParams"
+                           data-pagination="true"
+                           data-search="true"
+                           data-height="300">
+                        <thead>
+                            <tr>
+                                <th data-field="name">Name</th>
+                                <th data-field="height">Height</th>
+                                <th data-field="weight">Weight</th>
+                                <th data-field="position">Position</th>
+                                <th data-field="class">Class</th>
+                                <th data-field="major">Major</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        @foreach (var player in result.Results.Players.Where(player => player != null))
                         {
-                            if (player != null)
-                            {
-                                <li>
-                                    Name: @player.FirstLast<br/>
-                                    Height: @player.Height<br/>
-                                    Weight: @player.Weight<br/>
-                                    Position: @player.Position
-                                </li>
-                            }
+                            <tr>
+                                <td>@player.FirstLast</td>
+                                <td>@player.Height</td>
+                                <td>@player.Weight</td>
+                                <td>@player.Position</td>
+                                <td>@player.Class</td>
+                                <td>@player.Major</td>
+                            </tr>
                         }
-                    </ul>
+                        </tbody>
+                    </table>
 
                 }
             }

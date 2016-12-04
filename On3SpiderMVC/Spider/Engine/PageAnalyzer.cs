@@ -103,8 +103,21 @@ namespace Spider.Engine
                         continue;
                     }
 
+                    // Get column indices for data that we want
                     var playerNameIndex =
                         headerCells.IndexOf(headerCells.FirstOrDefault(n => RegexRepository.NameColumnRegex.IsMatch(n.InnerText)));
+
+                    var classColumnIndex =
+                        headerCells.IndexOf(
+                            headerCells.FirstOrDefault(n => RegexRepository.ClassColumnRegex.IsMatch(n.InnerText)));
+
+                    var positionColumnIndex = headerCells.IndexOf(
+                        headerCells.FirstOrDefault(n => RegexRepository.PositionColumnRegex.IsMatch(n.InnerText)));
+
+                    var majorColumnIndex =
+                        headerCells.IndexOf(
+                            headerCells.FirstOrDefault(n => RegexRepository.MajorColumnRegex.IsMatch(n.InnerText)));
+
                     var numColsInTable = headerCells.Count;
 
                     // If there was a <thead> hopefully there's a <tbody>
@@ -160,14 +173,35 @@ namespace Spider.Engine
                             }
 
                             // find out more info about player here (position? height/weight? class?)
+                            // get player year/class (freshman, sophomore, etc)
+                            var playerClass = String.Empty;
+                            if (classColumnIndex > 0)
+                            {
+                                var classCell = rowCells[classColumnIndex];
+                                playerClass = classCell.InnerText.Trim();
+                            }
 
-                            /* **********
+                            // get player position
+                            var playerPosition = String.Empty;
+                            if (positionColumnIndex > 0)
+                            {
+                                var positionCell = rowCells[positionColumnIndex];
+                                playerPosition = positionCell.InnerText.Trim();
+                            }
 
-                        */
+                            var playerMajor = String.Empty;
+                            if (majorColumnIndex > 0)
+                            {
+                                var majorCell = rowCells[majorColumnIndex];
+                                playerMajor = majorCell.InnerText.Trim();
+                            }
 
                             playerList.Add(new Player()
                             {
-                                FirstLast = playerName
+                                FirstLast = playerName,
+                                Class = playerClass,
+                                Position = playerPosition,
+                                Major = playerMajor
                             });
                         }
                     }

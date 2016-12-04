@@ -1486,3 +1486,1019 @@
 [2016-11-13 15:32:42,214] [42 ] [INFO ] - Crawl for domain [http://www.lehighsports.com/roster.aspx?path=fhockey] completed successfully in [2.5005296] seconds, crawled [1] pages
 [2016-11-13 15:32:42,214] [8  ] [INFO ] - All ISiteToCrawlConsumer threads have completed
 [2016-11-13 15:32:42,214] [8  ] [INFO ] - All crawls have completed
+[2016-11-27 16:30:53,948] [15 ] [INFO ] - Started [1] thread for reporting
+[2016-11-27 16:30:53,948] [9  ] [INFO ] - Engine is still running...
+[2016-11-27 16:30:53,956] [15 ] [INFO ] - Started [1] thread running ISiteToCrawlProducer of type [AbotX.Parallel.SiteToCrawlProducer]
+[2016-11-27 16:30:53,959] [15 ] [INFO ] - Started [3] threads running ISiteToCrawlConsumer of type [AbotX.Parallel.SiteToCrawlConsumer]
+[2016-11-27 16:30:53,959] [8  ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-11-27 16:30:53,960] [8  ] [INFO ] - Retrieved [25] sites to crawl
+[2016-11-27 16:30:56,488] [13 ] [INFO ] - Crawl for domain [http://www.goblackbears.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5091787] seconds, crawled [1] pages
+[2016-11-27 16:30:56,488] [18 ] [INFO ] - Crawl for domain [http://unhwildcats.com/sports/fh/2014-15/roster] completed successfully in [2.5099102] seconds, crawled [1] pages
+[2016-11-27 16:30:58,955] [9  ] [INFO ] - Engine is still running...
+[2016-11-27 16:30:59,011] [18 ] [INFO ] - Crawl for domain [http://www.ualbanysports.com/SportSelect.dbml?&DB_OEM_ID=15800&SPID=7986&SPSID=70216] completed successfully in [2.5004946] seconds, crawled [1] pages
+[2016-11-27 16:30:59,014] [13 ] [INFO ] - Crawl for domain [http://uvmathletics.com/roster.aspx?path=fhockey] completed successfully in [2.5029385] seconds, crawled [1] pages
+[2016-11-27 16:30:59,471] [7  ] [INFO ] - Crawl for domain [http://www.fairfieldstags.com/SportSelect.dbml?DB_OEM_ID=32500&SPID=137814&SPSID=893512] completed successfully in [5.4933578] seconds, crawled [1] pages
+[2016-11-27 16:31:01,513] [18 ] [INFO ] - Crawl for domain [http://www.goriverhawks.com/roster.aspx?path=fhockey] completed successfully in [2.500596] seconds, crawled [1] pages
+[2016-11-27 16:31:01,515] [13 ] [INFO ] - Crawl for domain [http://www.sjuhawks.com/SportSelect.dbml?DB_OEM_ID=31200&SPID=127349&SPSID=820710] completed successfully in [2.5000919] seconds, crawled [1] pages
+[2016-11-27 16:31:03,956] [9  ] [INFO ] - Engine is still running...
+[2016-11-27 16:31:04,014] [18 ] [INFO ] - Crawl for domain [http://www.umassathletics.com/sports/w-fieldh/mtt/umas-w-fieldh-mtt.html] completed successfully in [2.5001296] seconds, crawled [1] pages
+[2016-11-27 16:31:06,515] [18 ] [INFO ] - Crawl for domain [http://www.goexplorers.com/roster.aspx?path=fhockey] completed successfully in [2.5005954] seconds, crawled [1] pages
+[2016-11-27 16:31:06,536] [13 ] [INFO ] - Crawl for domain [http://www.slubillikens.com/SportSelect.dbml?&DB_OEM_ID=27200&SPID=95895&SPSID=640267] completed successfully in [5.019567] seconds, crawled [1] pages
+[2016-11-27 16:31:06,973] [7  ] [INFO ] - Crawl for domain [http://www.richmondspiders.com/SportSelect.dbml?DB_OEM_ID=26800&SPID=94295&SPSID=635148] completed successfully in [7.5009382] seconds, crawled [1] pages
+[2016-11-27 16:31:08,956] [9  ] [INFO ] - Engine is still running...
+[2016-11-27 16:31:09,037] [18 ] [INFO ] - Crawl for domain [http://www.golhu.com/roster.aspx?path=fhockey] completed successfully in [2.5003607] seconds, crawled [1] pages
+[2016-11-27 16:31:09,038] [13 ] [INFO ] - Crawl for domain [http://www.vcuathletics.com/sports/fh/2014-15/roster] completed successfully in [2.5004648] seconds, crawled [1] pages
+[2016-11-27 16:31:09,475] [7  ] [INFO ] - Crawl for domain [http://www.sfuathletics.com/roster.aspx?path=fhockey] completed successfully in [2.5002143] seconds, crawled [1] pages
+[2016-11-27 16:31:11,539] [18 ] [INFO ] - Crawl for domain [http://www.davidsonwildcats.com/roster.aspx?path=fhockey] completed successfully in [2.5005136] seconds, crawled [1] pages
+[2016-11-27 16:31:11,542] [13 ] [INFO ] - Crawl for domain [http://www.wakeforestsports.com/sports/w-fieldh/mtt/wake-w-fieldh-mtt.html] completed successfully in [2.5008192] seconds, crawled [1] pages
+[2016-11-27 16:31:11,964] [8  ] [INFO ] - Reported [16] completed site crawls
+[2016-11-27 16:31:11,964] [8  ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-11-27 16:31:11,964] [8  ] [INFO ] - Retrieved [25] sites to crawl
+[2016-11-27 16:31:11,976] [7  ] [INFO ] - Crawl for domain [http://www.virginiasports.com/sports/w-fieldh/mtt/va-w-fieldh-mtt.html] completed successfully in [2.5001705] seconds, crawled [1] pages
+[2016-11-27 16:31:13,957] [9  ] [INFO ] - Engine is still running...
+[2016-11-27 16:31:14,041] [18 ] [INFO ] - Crawl for domain [http://www.goheels.com/SportSelect.dbml?SPSID=668169&SPID=12961] completed successfully in [2.5006804] seconds, crawled [1] pages
+[2016-11-27 16:31:14,043] [13 ] [INFO ] - Crawl for domain [http://www.bceagles.com/sports/w-fieldh/mtt/bc-w-fieldh-mtt.html] completed successfully in [2.5002333] seconds, crawled [1] pages
+[2016-11-27 16:31:14,478] [7  ] [INFO ] - Crawl for domain [http://www.goduke.com/SportSelect.dbml?DB_LANG=C&DB_OEM_ID=4200&SPID=2029&SPSID=25945] completed successfully in [2.500503] seconds, crawled [1] pages
+[2016-11-27 16:31:16,543] [18 ] [INFO ] - Crawl for domain [http://cuse.com/roster.aspx?path=fhockey] completed successfully in [2.5002023] seconds, crawled [1] pages
+[2016-11-27 16:31:16,545] [13 ] [INFO ] - Crawl for domain [http://www.gocards.com/sports/w-fieldh/mtt/lou-w-fieldh-mtt.html] completed successfully in [2.5004884] seconds, crawled [1] pages
+[2016-11-27 16:31:16,979] [7  ] [INFO ] - Crawl for domain [http://www.owlsports.com/roster.aspx?path=fhockey] completed successfully in [2.5001743] seconds, crawled [1] pages
+[2016-11-27 16:31:18,957] [9  ] [INFO ] - Engine is still running...
+[2016-11-27 16:31:19,045] [18 ] [INFO ] - Crawl for domain [http://www.uconnhuskies.com/sports/w-fieldh/mtt/conn-w-fieldh-mtt.html] completed successfully in [2.5005577] seconds, crawled [1] pages
+[2016-11-27 16:31:19,047] [13 ] [INFO ] - Crawl for domain [http://www.friars.com/sports/w-fieldh/mtt/prov-w-fieldh-mtt.html] completed successfully in [2.5003031] seconds, crawled [1] pages
+[2016-11-27 16:31:19,480] [7  ] [INFO ] - Crawl for domain [http://www.villanova.com/sports/w-fieldh/mtt/nova-w-fieldh-mtt.html] completed successfully in [2.5001217] seconds, crawled [1] pages
+[2016-11-27 16:31:21,546] [18 ] [INFO ] - Crawl for domain [http://www.guhoyas.com/sports/w-fieldh/mtt/gu-w-fieldh-mtt.html] completed successfully in [2.5005705] seconds, crawled [1] pages
+[2016-11-27 16:31:21,548] [13 ] [INFO ] - Crawl for domain [http://www.odusports.com/SportSelect.dbml?DB_OEM_ID=31100&SPID=127312&SPSID=750424] completed successfully in [2.5002196] seconds, crawled [1] pages
+[2016-11-27 16:31:21,982] [7  ] [INFO ] - Crawl for domain [http://www.umterps.com/SportSelect.dbml?&DB_OEM_ID=29700&SPID=120737&SPSID=751910] completed successfully in [2.5005229] seconds, crawled [1] pages
+[2016-11-27 16:31:23,957] [9  ] [INFO ] - Engine is still running...
+[2016-11-27 16:31:24,048] [18 ] [INFO ] - Crawl for domain [http://www.scarletknights.com/fieldhockey/roster/roster.asp] completed successfully in [2.5005758] seconds, crawled [1] pages
+[2016-11-27 16:31:24,050] [13 ] [INFO ] - Crawl for domain [http://www.gopsusports.com/sports/w-fieldh/mtt/psu-w-fieldh-mtt.html] completed successfully in [2.5005995] seconds, crawled [1] pages
+[2016-11-27 16:31:24,484] [7  ] [INFO ] - Crawl for domain [http://www.nusports.com/sports/w-fieldh/mtt/nw-w-fieldh-mtt.html] completed successfully in [2.5005358] seconds, crawled [1] pages
+[2016-11-27 16:31:26,549] [18 ] [INFO ] - Crawl for domain [http://www.hawkeyesports.com/sports/w-fieldh/mtt/iowa-w-fieldh-mtt.html] completed successfully in [2.5001716] seconds, crawled [1] pages
+[2016-11-27 16:31:26,551] [13 ] [INFO ] - Crawl for domain [http://www.ohiostatebuckeyes.com/sports/w-fieldh/mtt/osu-w-fieldh-mtt.html] completed successfully in [2.5003645] seconds, crawled [1] pages
+[2016-11-27 16:31:26,985] [7  ] [INFO ] - Crawl for domain [http://www.msuspartans.com/sports/w-fieldh/mtt/msu-w-fieldh-mtt.html] completed successfully in [2.5002111] seconds, crawled [1] pages
+[2016-11-27 16:31:28,958] [9  ] [INFO ] - Engine is still running...
+[2016-11-27 16:31:29,051] [18 ] [INFO ] - Crawl for domain [http://www.mgoblue.com/sports/w-fieldh/mtt/mich-w-fieldh-mtt.html] completed successfully in [2.5006109] seconds, crawled [1] pages
+[2016-11-27 16:31:31,559] [18 ] [INFO ] - Crawl for domain [http://www.drexeldragons.com/roster.aspx?path=fhock&] completed successfully in [2.5066821] seconds, crawled [1] pages
+[2016-11-27 16:31:31,986] [7  ] [INFO ] - Crawl for domain [http://www.gonu.com/roster.aspx?path=fhockey] completed successfully in [5.0003185] seconds, crawled [1] pages
+[2016-11-27 16:31:33,958] [9  ] [INFO ] - Engine is still running...
+[2016-11-27 16:31:34,242] [18 ] [INFO ] - Crawl for domain [http://www.tribeathletics.com/SportSelect.dbml?SPID=83401&SPSID=608673] completed successfully in [2.6608679] seconds, crawled [1] pages
+[2016-11-27 16:31:35,034] [7  ] [INFO ] - Crawl for domain [http://www.gohofstra.com/SportSelect.dbml?DB_OEM_ID=22200&SPID=13581&SPSID=109570] completed successfully in [3.0466443] seconds, crawled [1] pages
+[2016-11-27 16:31:36,745] [18 ] [INFO ] - Crawl for domain [http://www.bluehens.com/SportSelect.dbml?DB_OEM_ID=29100&SPID=109910&SPSID=852614] completed successfully in [2.5002587] seconds, crawled [1] pages
+[2016-11-27 16:31:36,969] [8  ] [INFO ] - Reported [25] completed site crawls
+[2016-11-27 16:31:36,969] [8  ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-11-27 16:31:36,969] [8  ] [INFO ] - Retrieved [25] sites to crawl
+[2016-11-27 16:31:37,535] [7  ] [INFO ] - Crawl for domain [http://www.towsontigers.com/roster.aspx?path=fhockey] completed successfully in [2.5003595] seconds, crawled [1] pages
+[2016-11-27 16:31:38,958] [9  ] [INFO ] - Engine is still running...
+[2016-11-27 16:31:39,315] [18 ] [INFO ] - Crawl for domain [http://www.jmusports.com/roster.aspx?path=fhockey] completed successfully in [2.5017231] seconds, crawled [1] pages
+[2016-11-27 16:31:40,037] [7  ] [INFO ] - Crawl for domain [http://www.goprincetontigers.com/SportSelect.dbml?SPID=4274&SPSID=46912] completed successfully in [2.5005632] seconds, crawled [1] pages
+[2016-11-27 16:31:41,891] [18 ] [INFO ] - Crawl for domain [http://www.brownbears.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5752823] seconds, crawled [1] pages
+[2016-11-27 16:31:42,693] [7  ] [INFO ] - Crawl for domain [http://www.yalebulldogs.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.6544761] seconds, crawled [1] pages
+[2016-11-27 16:31:43,959] [9  ] [INFO ] - Engine is still running...
+[2016-11-27 16:31:45,185] [18 ] [INFO ] - Crawl for domain [http://www.gocrimson.com/sports/fh/2014-15/roster] completed successfully in [3.2918841] seconds, crawled [1] pages
+[2016-11-27 16:31:45,711] [7  ] [INFO ] - Crawl for domain [http://www.dartmouthsports.com/SportSelect.dbml?DB_OEM_ID=11600&SPID=4732&SPSID=48955] completed successfully in [3.0175196] seconds, crawled [1] pages
+[2016-11-27 16:31:47,687] [18 ] [INFO ] - Crawl for domain [http://www.gocolumbialions.com/SportSelect.dbml?DB_OEM_ID=9600&SPID=4050&SPSID=45285] completed successfully in [2.5005986] seconds, crawled [1] pages
+[2016-11-27 16:31:48,529] [7  ] [INFO ] - Crawl for domain [http://www.pennathletics.com/SportSelect.dbml?SPID=609&SPSID=10583] completed successfully in [2.8164524] seconds, crawled [1] pages
+[2016-11-27 16:31:48,959] [9  ] [INFO ] - Engine is still running...
+[2016-11-27 16:31:50,189] [18 ] [INFO ] - Crawl for domain [http://www.cornellbigred.com/roster.aspx?path=fhockey&] completed successfully in [2.5003739] seconds, crawled [1] pages
+[2016-11-27 16:31:51,031] [7  ] [INFO ] - Crawl for domain [http://www.gobroncs.com/SportSelect.dbml?SPID=11865&SPSID=96680] completed successfully in [2.5006477] seconds, crawled [1] pages
+[2016-11-27 16:31:52,690] [18 ] [INFO ] - Crawl for domain [http://www.quinnipiacbobcats.com/sports/fh/2014-15/roster] completed successfully in [2.5002941] seconds, crawled [1] pages
+[2016-11-27 16:31:53,533] [7  ] [INFO ] - Crawl for domain [http://www.bryantbulldogs.com/sports/fh/2014-15/roster] completed successfully in [2.5003482] seconds, crawled [1] pages
+[2016-11-27 16:31:53,959] [9  ] [INFO ] - Engine is still running...
+[2016-11-27 16:31:55,192] [18 ] [INFO ] - Crawl for domain [http://www.sienasaints.com/sports/w-fieldh/mtt/sien-w-fieldh-mtt.html] completed successfully in [2.5006971] seconds, crawled [1] pages
+[2016-11-27 16:31:56,035] [7  ] [INFO ] - Crawl for domain [http://www.monmouthhawks.com/SportSelect.dbml?SPSID=67812&SPID=7663] completed successfully in [2.5006965] seconds, crawled [1] pages
+[2016-11-27 16:31:57,694] [18 ] [INFO ] - Crawl for domain [http://sacredheartpioneers.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5001348] seconds, crawled [1] pages
+[2016-11-27 16:31:58,547] [7  ] [INFO ] - Crawl for domain [http://www.muredhawks.com/SportSelect.dbml?SPID=108398&SPSID=668518] completed successfully in [2.5001491] seconds, crawled [1] pages
+[2016-11-27 16:31:58,959] [9  ] [INFO ] - Engine is still running...
+[2016-11-27 16:32:00,195] [18 ] [INFO ] - Crawl for domain [http://www.cmuchippewas.com/sports/w-fieldh/mtt/cmu-w-fieldh-mtt.html] completed successfully in [2.500252] seconds, crawled [1] pages
+[2016-11-27 16:32:01,050] [7  ] [INFO ] - Crawl for domain [http://www.missouristatebears.com/sports/w-fieldh/mtt/mosu-w-fieldh-mtt.html] completed successfully in [2.5002564] seconds, crawled [1] pages
+[2016-11-27 16:32:02,698] [18 ] [INFO ] - Crawl for domain [http://ballstatesports.com/SportSelect.dbml?DB_OEM_ID=14200&SPID=7632&SPSID=67654] completed successfully in [2.5003844] seconds, crawled [1] pages
+[2016-11-27 16:32:03,551] [7  ] [INFO ] - Crawl for domain [http://www.ohiobobcats.com/sports/w-fieldh/mtt/ohio-w-fieldh-mtt.html] completed successfully in [2.5001147] seconds, crawled [1] pages
+[2016-11-27 16:32:03,960] [9  ] [INFO ] - Engine is still running...
+[2016-11-27 16:32:05,200] [18 ] [INFO ] - Crawl for domain [http://www.kentstatesports.com/roster.aspx?path=fhockey] completed successfully in [2.5006404] seconds, crawled [1] pages
+[2016-11-27 16:32:06,052] [7  ] [INFO ] - Crawl for domain [http://longwoodlancers.com/roster.aspx?path=fhockey] completed successfully in [2.5001716] seconds, crawled [1] pages
+[2016-11-27 16:32:07,701] [18 ] [INFO ] - Crawl for domain [http://www.gostanford.com/SportSelect.dbml?DB_OEM_ID=30600&SPID=131108&SPSID=770512] completed successfully in [2.5002082] seconds, crawled [1] pages
+[2016-11-27 16:32:08,554] [7  ] [INFO ] - Crawl for domain [http://www.calbears.com/SportSelect.dbml?DB_OEM_ID=30100&SPID=126512&SPSID=749424] completed successfully in [2.5001152] seconds, crawled [1] pages
+[2016-11-27 16:32:08,973] [9  ] [INFO ] - Engine is still running...
+[2016-11-27 16:32:08,978] [8  ] [INFO ] - Reported [25] completed site crawls
+[2016-11-27 16:32:08,978] [8  ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-11-27 16:32:08,978] [8  ] [INFO ] - Retrieved [3] sites to crawl
+[2016-11-27 16:32:08,978] [8  ] [INFO ] - ISiteToCrawlProvider [AbotX.Parallel.SiteToCrawlProvider] is reporting that it is complete. Will not make anymore requests for sites to crawl.
+[2016-11-27 16:32:09,979] [31 ] [INFO ] - All ISiteToCrawlProducer threads have completed
+[2016-11-27 16:32:10,203] [18 ] [INFO ] - Crawl for domain [http://www.ucdavisaggies.com/sports/w-fieldh/mtt/ucda-w-fieldh-mtt.html] completed successfully in [2.5006518] seconds, crawled [1] pages
+[2016-11-27 16:32:11,055] [7  ] [INFO ] - Crawl for domain [http://www.pacifictigers.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5003619] seconds, crawled [1] pages
+[2016-11-27 16:32:12,706] [18 ] [INFO ] - Crawl for domain [http://www.appstatesports.com/SportSelect.dbml?DB_OEM_ID=21500&SPID=12810&SPSID=104457] completed successfully in [2.500482] seconds, crawled [1] pages
+[2016-11-27 16:32:13,557] [7  ] [INFO ] - Crawl for domain [http://www.liberty.edu/flames/index.cfm?PID=10871&TeamID=18] completed successfully in [2.5004332] seconds, crawled [1] pages
+[2016-11-27 16:32:13,973] [9  ] [INFO ] - Engine is still running...
+[2016-12-04 14:14:48,183] [8  ] [INFO ] - Engine is still running...
+[2016-12-04 14:14:48,183] [7  ] [INFO ] - Started [1] thread for reporting
+[2016-12-04 14:14:48,193] [7  ] [INFO ] - Started [1] thread running ISiteToCrawlProducer of type [AbotX.Parallel.SiteToCrawlProducer]
+[2016-12-04 14:14:48,216] [7  ] [INFO ] - Started [3] threads running ISiteToCrawlConsumer of type [AbotX.Parallel.SiteToCrawlConsumer]
+[2016-12-04 14:14:48,216] [11 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 14:14:48,217] [11 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 14:14:50,740] [16 ] [INFO ] - Crawl for domain [http://www.fairfieldstags.com/SportSelect.dbml?DB_OEM_ID=32500&SPID=137814&SPSID=893512] completed successfully in [2.5083109] seconds, crawled [1] pages
+[2016-12-04 14:14:50,740] [15 ] [INFO ] - Crawl for domain [http://unhwildcats.com/sports/fh/2014-15/roster] completed successfully in [2.5086639] seconds, crawled [1] pages
+[2016-12-04 14:14:50,767] [14 ] [INFO ] - Crawl for domain [http://www.goblackbears.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5354691] seconds, crawled [1] pages
+[2016-12-04 14:14:53,192] [8  ] [INFO ] - Engine is still running...
+[2016-12-04 14:14:53,263] [16 ] [INFO ] - Crawl for domain [http://www.ualbanysports.com/SportSelect.dbml?&DB_OEM_ID=15800&SPID=7986&SPSID=70216] completed successfully in [2.5005359] seconds, crawled [1] pages
+[2016-12-04 14:14:53,264] [15 ] [INFO ] - Crawl for domain [http://uvmathletics.com/roster.aspx?path=fhockey] completed successfully in [2.5005765] seconds, crawled [1] pages
+[2016-12-04 14:14:53,269] [14 ] [INFO ] - Crawl for domain [http://www.goriverhawks.com/roster.aspx?path=fhockey] completed successfully in [2.5003042] seconds, crawled [1] pages
+[2016-12-04 14:14:55,765] [15 ] [INFO ] - Crawl for domain [http://www.richmondspiders.com/SportSelect.dbml?DB_OEM_ID=26800&SPID=94295&SPSID=635148] completed successfully in [2.5001306] seconds, crawled [1] pages
+[2016-12-04 14:14:55,766] [16 ] [INFO ] - Crawl for domain [http://www.sjuhawks.com/SportSelect.dbml?DB_OEM_ID=31200&SPID=127349&SPSID=820710] completed successfully in [2.5009874] seconds, crawled [1] pages
+[2016-12-04 14:14:55,770] [14 ] [INFO ] - Crawl for domain [http://www.umassathletics.com/sports/w-fieldh/mtt/umas-w-fieldh-mtt.html] completed successfully in [2.5001855] seconds, crawled [1] pages
+[2016-12-04 14:14:58,192] [8  ] [INFO ] - Engine is still running...
+[2016-12-04 14:14:58,269] [16 ] [INFO ] - Crawl for domain [http://www.goexplorers.com/roster.aspx?path=fhockey] completed successfully in [2.501178] seconds, crawled [1] pages
+[2016-12-04 14:14:58,271] [14 ] [INFO ] - Crawl for domain [http://www.golhu.com/roster.aspx?path=fhockey] completed successfully in [2.5001852] seconds, crawled [1] pages
+[2016-12-04 14:15:00,767] [15 ] [INFO ] - Crawl for domain [http://www.slubillikens.com/SportSelect.dbml?&DB_OEM_ID=27200&SPID=95895&SPSID=640267] completed successfully in [5.0005789] seconds, crawled [1] pages
+[2016-12-04 14:15:00,771] [16 ] [INFO ] - Crawl for domain [http://www.vcuathletics.com/sports/fh/2014-15/roster] completed successfully in [2.5005958] seconds, crawled [1] pages
+[2016-12-04 14:15:00,773] [14 ] [INFO ] - Crawl for domain [http://www.sfuathletics.com/roster.aspx?path=fhockey] completed successfully in [2.5005871] seconds, crawled [1] pages
+[2016-12-04 14:15:03,193] [8  ] [INFO ] - Engine is still running...
+[2016-12-04 14:15:03,269] [15 ] [INFO ] - Crawl for domain [http://www.davidsonwildcats.com/roster.aspx?path=fhockey] completed successfully in [2.5005634] seconds, crawled [1] pages
+[2016-12-04 14:15:03,272] [16 ] [INFO ] - Crawl for domain [http://www.wakeforestsports.com/sports/w-fieldh/mtt/wake-w-fieldh-mtt.html] completed successfully in [2.500298] seconds, crawled [1] pages
+[2016-12-04 14:15:03,274] [14 ] [INFO ] - Crawl for domain [http://www.virginiasports.com/sports/w-fieldh/mtt/va-w-fieldh-mtt.html] completed successfully in [2.5003021] seconds, crawled [1] pages
+[2016-12-04 14:15:04,225] [11 ] [INFO ] - Reported [17] completed site crawls
+[2016-12-04 14:15:04,225] [11 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 14:15:04,225] [11 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 14:15:05,771] [15 ] [INFO ] - Crawl for domain [http://www.goheels.com/SportSelect.dbml?SPSID=668169&SPID=12961] completed successfully in [2.5001192] seconds, crawled [1] pages
+[2016-12-04 14:15:05,773] [16 ] [INFO ] - Crawl for domain [http://www.bceagles.com/sports/w-fieldh/mtt/bc-w-fieldh-mtt.html] completed successfully in [2.500227] seconds, crawled [1] pages
+[2016-12-04 14:15:05,775] [14 ] [INFO ] - Crawl for domain [http://www.goduke.com/SportSelect.dbml?DB_LANG=C&DB_OEM_ID=4200&SPID=2029&SPSID=25945] completed successfully in [2.5001627] seconds, crawled [1] pages
+[2016-12-04 14:15:08,193] [8  ] [INFO ] - Engine is still running...
+[2016-12-04 14:15:08,272] [15 ] [INFO ] - Crawl for domain [http://cuse.com/roster.aspx?path=fhockey] completed successfully in [2.5005289] seconds, crawled [1] pages
+[2016-12-04 14:15:08,274] [16 ] [INFO ] - Crawl for domain [http://www.gocards.com/sports/w-fieldh/mtt/lou-w-fieldh-mtt.html] completed successfully in [2.5001133] seconds, crawled [1] pages
+[2016-12-04 14:15:08,276] [14 ] [INFO ] - Crawl for domain [http://www.owlsports.com/roster.aspx?path=fhockey] completed successfully in [2.5002913] seconds, crawled [1] pages
+[2016-12-04 14:15:10,773] [15 ] [INFO ] - Crawl for domain [http://www.uconnhuskies.com/sports/w-fieldh/mtt/conn-w-fieldh-mtt.html] completed successfully in [2.5001306] seconds, crawled [1] pages
+[2016-12-04 14:15:10,775] [16 ] [INFO ] - Crawl for domain [http://www.friars.com/sports/w-fieldh/mtt/prov-w-fieldh-mtt.html] completed successfully in [2.5002995] seconds, crawled [1] pages
+[2016-12-04 14:15:10,778] [14 ] [INFO ] - Crawl for domain [http://www.villanova.com/sports/w-fieldh/mtt/nova-w-fieldh-mtt.html] completed successfully in [2.5003053] seconds, crawled [1] pages
+[2016-12-04 14:15:13,193] [8  ] [INFO ] - Engine is still running...
+[2016-12-04 14:15:13,275] [15 ] [INFO ] - Crawl for domain [http://www.guhoyas.com/sports/w-fieldh/mtt/gu-w-fieldh-mtt.html] completed successfully in [2.5006528] seconds, crawled [1] pages
+[2016-12-04 14:15:13,277] [16 ] [INFO ] - Crawl for domain [http://www.odusports.com/SportSelect.dbml?DB_OEM_ID=31100&SPID=127312&SPSID=750424] completed successfully in [2.5002755] seconds, crawled [1] pages
+[2016-12-04 14:15:13,280] [14 ] [INFO ] - Crawl for domain [http://www.umterps.com/SportSelect.dbml?&DB_OEM_ID=29700&SPID=120737&SPSID=751910] completed successfully in [2.50072] seconds, crawled [1] pages
+[2016-12-04 14:15:15,776] [15 ] [INFO ] - Crawl for domain [http://www.scarletknights.com/fieldhockey/roster/roster.asp] completed successfully in [2.5002001] seconds, crawled [1] pages
+[2016-12-04 14:15:15,778] [16 ] [INFO ] - Crawl for domain [http://www.gopsusports.com/sports/w-fieldh/mtt/psu-w-fieldh-mtt.html] completed successfully in [2.5004287] seconds, crawled [1] pages
+[2016-12-04 14:15:15,781] [14 ] [INFO ] - Crawl for domain [http://www.nusports.com/sports/w-fieldh/mtt/nw-w-fieldh-mtt.html] completed successfully in [2.5002446] seconds, crawled [1] pages
+[2016-12-04 14:15:18,194] [8  ] [INFO ] - Engine is still running...
+[2016-12-04 14:15:18,278] [15 ] [INFO ] - Crawl for domain [http://www.hawkeyesports.com/sports/w-fieldh/mtt/iowa-w-fieldh-mtt.html] completed successfully in [2.5002527] seconds, crawled [1] pages
+[2016-12-04 14:15:18,279] [16 ] [INFO ] - Crawl for domain [http://www.ohiostatebuckeyes.com/sports/w-fieldh/mtt/osu-w-fieldh-mtt.html] completed successfully in [2.5002673] seconds, crawled [1] pages
+[2016-12-04 14:15:18,282] [14 ] [INFO ] - Crawl for domain [http://www.msuspartans.com/sports/w-fieldh/mtt/msu-w-fieldh-mtt.html] completed successfully in [2.5002031] seconds, crawled [1] pages
+[2016-12-04 14:15:20,779] [15 ] [INFO ] - Crawl for domain [http://www.mgoblue.com/sports/w-fieldh/mtt/mich-w-fieldh-mtt.html] completed successfully in [2.5002279] seconds, crawled [1] pages
+[2016-12-04 14:15:20,783] [14 ] [INFO ] - Crawl for domain [http://www.gonu.com/roster.aspx?path=fhockey] completed successfully in [2.5002448] seconds, crawled [1] pages
+[2016-12-04 14:15:23,194] [8  ] [INFO ] - Engine is still running...
+[2016-12-04 14:15:23,280] [15 ] [INFO ] - Crawl for domain [http://www.drexeldragons.com/roster.aspx?path=fhock&] completed successfully in [2.5002481] seconds, crawled [1] pages
+[2016-12-04 14:15:28,194] [8  ] [INFO ] - Engine is still running...
+[2016-12-04 14:15:28,410] [14 ] [INFO ] - Crawl for domain [http://www.tribeathletics.com/SportSelect.dbml?SPID=83401&SPSID=608673] completed successfully in [7.6259482] seconds, crawled [1] pages
+[2016-12-04 14:15:29,600] [15 ] [INFO ] - Crawl for domain [http://www.gohofstra.com/SportSelect.dbml?DB_OEM_ID=22200&SPID=13581&SPSID=109570] completed successfully in [6.3183542] seconds, crawled [1] pages
+[2016-12-04 14:15:33,063] [14 ] [INFO ] - Crawl for domain [http://www.bluehens.com/SportSelect.dbml?DB_OEM_ID=29100&SPID=109910&SPSID=852614] completed successfully in [4.6517124] seconds, crawled [1] pages
+[2016-12-04 14:15:33,195] [8  ] [INFO ] - Engine is still running...
+[2016-12-04 14:15:33,234] [11 ] [INFO ] - Reported [24] completed site crawls
+[2016-12-04 14:15:33,234] [11 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 14:15:33,234] [11 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 14:15:34,175] [15 ] [INFO ] - Crawl for domain [http://www.towsontigers.com/roster.aspx?path=fhockey] completed successfully in [4.5736695] seconds, crawled [1] pages
+[2016-12-04 14:15:37,946] [14 ] [INFO ] - Crawl for domain [http://www.jmusports.com/roster.aspx?path=fhockey] completed successfully in [4.8824094] seconds, crawled [1] pages
+[2016-12-04 14:15:38,195] [8  ] [INFO ] - Engine is still running...
+[2016-12-04 14:15:38,552] [15 ] [INFO ] - Crawl for domain [http://www.goprincetontigers.com/SportSelect.dbml?SPID=4274&SPSID=46912] completed successfully in [4.3757522] seconds, crawled [1] pages
+[2016-12-04 14:15:40,681] [14 ] [INFO ] - Crawl for domain [http://www.brownbears.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.7337999] seconds, crawled [1] pages
+[2016-12-04 14:15:41,825] [15 ] [INFO ] - Crawl for domain [http://www.yalebulldogs.com/sports/w-fieldh/2014-15/roster] completed successfully in [3.2727429] seconds, crawled [1] pages
+[2016-12-04 14:15:43,183] [14 ] [INFO ] - Crawl for domain [http://www.gocrimson.com/sports/fh/2014-15/roster] completed successfully in [2.5005318] seconds, crawled [1] pages
+[2016-12-04 14:15:43,196] [8  ] [INFO ] - Engine is still running...
+[2016-12-04 14:15:44,327] [15 ] [INFO ] - Crawl for domain [http://www.dartmouthsports.com/SportSelect.dbml?DB_OEM_ID=11600&SPID=4732&SPSID=48955] completed successfully in [2.5005947] seconds, crawled [1] pages
+[2016-12-04 14:15:45,684] [14 ] [INFO ] - Crawl for domain [http://www.gocolumbialions.com/SportSelect.dbml?DB_OEM_ID=9600&SPID=4050&SPSID=45285] completed successfully in [2.500694] seconds, crawled [1] pages
+[2016-12-04 14:15:46,828] [15 ] [INFO ] - Crawl for domain [http://www.pennathletics.com/SportSelect.dbml?SPID=609&SPSID=10583] completed successfully in [2.5001043] seconds, crawled [1] pages
+[2016-12-04 14:15:48,187] [14 ] [INFO ] - Crawl for domain [http://www.cornellbigred.com/roster.aspx?path=fhockey&] completed successfully in [2.5007516] seconds, crawled [1] pages
+[2016-12-04 14:15:48,196] [8  ] [INFO ] - Engine is still running...
+[2016-12-04 14:15:49,329] [15 ] [INFO ] - Crawl for domain [http://www.gobroncs.com/SportSelect.dbml?SPID=11865&SPSID=96680] completed successfully in [2.5001788] seconds, crawled [1] pages
+[2016-12-04 14:15:51,352] [14 ] [INFO ] - Crawl for domain [http://www.quinnipiacbobcats.com/sports/fh/2014-15/roster] completed successfully in [3.163451] seconds, crawled [1] pages
+[2016-12-04 14:15:51,831] [15 ] [INFO ] - Crawl for domain [http://www.bryantbulldogs.com/sports/fh/2014-15/roster] completed successfully in [2.5001981] seconds, crawled [1] pages
+[2016-12-04 14:15:53,196] [8  ] [INFO ] - Engine is still running...
+[2016-12-04 14:15:53,854] [14 ] [INFO ] - Crawl for domain [http://www.sienasaints.com/sports/w-fieldh/mtt/sien-w-fieldh-mtt.html] completed successfully in [2.500374] seconds, crawled [1] pages
+[2016-12-04 14:15:54,332] [15 ] [INFO ] - Crawl for domain [http://www.monmouthhawks.com/SportSelect.dbml?SPSID=67812&SPID=7663] completed successfully in [2.5001244] seconds, crawled [1] pages
+[2016-12-04 14:15:56,356] [14 ] [INFO ] - Crawl for domain [http://sacredheartpioneers.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5006172] seconds, crawled [1] pages
+[2016-12-04 14:15:56,833] [15 ] [INFO ] - Crawl for domain [http://www.muredhawks.com/SportSelect.dbml?SPID=108398&SPSID=668518] completed successfully in [2.5002215] seconds, crawled [1] pages
+[2016-12-04 14:15:58,197] [8  ] [INFO ] - Engine is still running...
+[2016-12-04 14:15:58,857] [14 ] [INFO ] - Crawl for domain [http://www.cmuchippewas.com/sports/w-fieldh/mtt/cmu-w-fieldh-mtt.html] completed successfully in [2.5005689] seconds, crawled [1] pages
+[2016-12-04 14:15:59,336] [15 ] [INFO ] - Crawl for domain [http://www.missouristatebears.com/sports/w-fieldh/mtt/mosu-w-fieldh-mtt.html] completed successfully in [2.5003147] seconds, crawled [1] pages
+[2016-12-04 14:16:01,359] [14 ] [INFO ] - Crawl for domain [http://ballstatesports.com/SportSelect.dbml?DB_OEM_ID=14200&SPID=7632&SPSID=67654] completed successfully in [2.5003568] seconds, crawled [1] pages
+[2016-12-04 14:16:01,837] [15 ] [INFO ] - Crawl for domain [http://www.ohiobobcats.com/sports/w-fieldh/mtt/ohio-w-fieldh-mtt.html] completed successfully in [2.5000946] seconds, crawled [1] pages
+[2016-12-04 14:16:03,197] [8  ] [INFO ] - Engine is still running...
+[2016-12-04 14:16:03,861] [14 ] [INFO ] - Crawl for domain [http://www.kentstatesports.com/roster.aspx?path=fhockey] completed successfully in [2.5006008] seconds, crawled [1] pages
+[2016-12-04 14:16:04,366] [15 ] [INFO ] - Crawl for domain [http://longwoodlancers.com/roster.aspx?path=fhockey] completed successfully in [2.5286977] seconds, crawled [1] pages
+[2016-12-04 14:16:06,363] [14 ] [INFO ] - Crawl for domain [http://www.gostanford.com/SportSelect.dbml?DB_OEM_ID=30600&SPID=131108&SPSID=770512] completed successfully in [2.5006069] seconds, crawled [1] pages
+[2016-12-04 14:16:06,868] [15 ] [INFO ] - Crawl for domain [http://www.calbears.com/SportSelect.dbml?DB_OEM_ID=30100&SPID=126512&SPSID=749424] completed successfully in [2.5001922] seconds, crawled [1] pages
+[2016-12-04 14:16:07,242] [11 ] [INFO ] - Reported [25] completed site crawls
+[2016-12-04 14:16:07,242] [11 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 14:16:07,242] [11 ] [INFO ] - Retrieved [3] sites to crawl
+[2016-12-04 14:16:07,242] [11 ] [INFO ] - ISiteToCrawlProvider [AbotX.Parallel.SiteToCrawlProvider] is reporting that it is complete. Will not make anymore requests for sites to crawl.
+[2016-12-04 14:16:08,198] [8  ] [INFO ] - Engine is still running...
+[2016-12-04 14:16:08,243] [17 ] [INFO ] - All ISiteToCrawlProducer threads have completed
+[2016-12-04 14:16:08,865] [14 ] [INFO ] - Crawl for domain [http://www.ucdavisaggies.com/sports/w-fieldh/mtt/ucda-w-fieldh-mtt.html] completed successfully in [2.5003907] seconds, crawled [1] pages
+[2016-12-04 14:16:09,369] [15 ] [INFO ] - Crawl for domain [http://www.pacifictigers.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.500602] seconds, crawled [1] pages
+[2016-12-04 14:16:11,870] [15 ] [INFO ] - Crawl for domain [http://www.liberty.edu/flames/index.cfm?PID=10871&TeamID=18] completed successfully in [2.500329] seconds, crawled [1] pages
+[2016-12-04 14:16:13,198] [8  ] [INFO ] - Engine is still running...
+[2016-12-04 14:16:13,868] [14 ] [INFO ] - Crawl for domain [http://www.appstatesports.com/SportSelect.dbml?DB_OEM_ID=21500&SPID=12810&SPSID=104457] completed successfully in [5.0017817] seconds, crawled [1] pages
+[2016-12-04 14:16:14,374] [15 ] [INFO ] - Crawl for domain [http://www.goterriers.com/sports/w-fieldh/mtt/bost-w-fieldh-mtt.html] completed successfully in [2.5004161] seconds, crawled [1] pages
+[2016-12-04 14:16:15,275] [16 ] [INFO ] - Crawl for domain [http://www.iuhoosiers.com/sports/w-fieldh/mtt/ind-w-fieldh-mtt.html] completed successfully in [56.9947633] seconds, crawled [245] pages
+[2016-12-04 14:16:16,370] [14 ] [INFO ] - Crawl for domain [http://www.goleopards.com/sports/w-fieldh/mtt/lafa-w-fieldh-mtt.html] completed successfully in [2.5005207] seconds, crawled [1] pages
+[2016-12-04 14:16:17,777] [16 ] [INFO ] - Crawl for domain [http://gocolgateraiders.com/roster.aspx?path=fhockey] completed successfully in [2.5005014] seconds, crawled [1] pages
+[2016-12-04 14:16:18,198] [8  ] [INFO ] - Engine is still running...
+[2016-12-04 14:16:18,873] [14 ] [INFO ] - Crawl for domain [http://www.goholycross.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5005082] seconds, crawled [1] pages
+[2016-12-04 14:16:19,375] [15 ] [INFO ] - Crawl for domain [http://www.bucknellbison.com/SportSelect.dbml?DB_OEM_ID=32100&SPID=137639&SPSID=848820] completed successfully in [5.000324] seconds, crawled [1] pages
+[2016-12-04 14:16:20,278] [16 ] [INFO ] - Crawl for domain [http://aueagles.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5001706] seconds, crawled [1] pages
+[2016-12-04 14:16:21,374] [14 ] [INFO ] - Crawl for domain [http://www.lehighsports.com/roster.aspx?path=fhockey] completed successfully in [2.5001633] seconds, crawled [1] pages
+[2016-12-04 14:16:21,375] [10 ] [INFO ] - All ISiteToCrawlConsumer threads have completed
+[2016-12-04 14:16:21,375] [10 ] [INFO ] - All crawls have completed
+[2016-12-04 15:33:01,132] [25 ] [INFO ] - Started [1] thread for reporting
+[2016-12-04 15:33:01,132] [14 ] [INFO ] - Engine is still running...
+[2016-12-04 15:33:01,159] [25 ] [INFO ] - Started [1] thread running ISiteToCrawlProducer of type [AbotX.Parallel.SiteToCrawlProducer]
+[2016-12-04 15:33:01,162] [19 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 15:33:01,162] [19 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 15:33:01,164] [25 ] [INFO ] - Started [3] threads running ISiteToCrawlConsumer of type [AbotX.Parallel.SiteToCrawlConsumer]
+[2016-12-04 15:33:03,686] [20 ] [INFO ] - Crawl for domain [http://www.goblackbears.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5108706] seconds, crawled [1] pages
+[2016-12-04 15:33:03,686] [21 ] [INFO ] - Crawl for domain [http://www.fairfieldstags.com/SportSelect.dbml?DB_OEM_ID=32500&SPID=137814&SPSID=893512] completed successfully in [2.5107148] seconds, crawled [1] pages
+[2016-12-04 15:33:03,708] [18 ] [INFO ] - Crawl for domain [http://unhwildcats.com/sports/fh/2014-15/roster] completed successfully in [2.532424] seconds, crawled [1] pages
+[2016-12-04 15:33:06,159] [14 ] [INFO ] - Engine is still running...
+[2016-12-04 15:33:06,250] [18 ] [INFO ] - Crawl for domain [http://www.goriverhawks.com/roster.aspx?path=fhockey] completed successfully in [2.5003714] seconds, crawled [1] pages
+[2016-12-04 15:33:06,251] [20 ] [INFO ] - Crawl for domain [http://www.ualbanysports.com/SportSelect.dbml?&DB_OEM_ID=15800&SPID=7986&SPSID=70216] completed successfully in [2.5010123] seconds, crawled [1] pages
+[2016-12-04 15:33:06,251] [21 ] [INFO ] - Crawl for domain [http://uvmathletics.com/roster.aspx?path=fhockey] completed successfully in [2.500981] seconds, crawled [1] pages
+[2016-12-04 15:33:09,425] [21 ] [INFO ] - Crawl for domain [http://www.umassathletics.com/sports/w-fieldh/mtt/umas-w-fieldh-mtt.html] completed successfully in [3.152346] seconds, crawled [1] pages
+[2016-12-04 15:33:11,159] [14 ] [INFO ] - Engine is still running...
+[2016-12-04 15:33:11,252] [18 ] [INFO ] - Crawl for domain [http://www.sjuhawks.com/SportSelect.dbml?DB_OEM_ID=31200&SPID=127349&SPSID=820710] completed successfully in [5.0006779] seconds, crawled [1] pages
+[2016-12-04 15:33:13,753] [18 ] [INFO ] - Crawl for domain [http://www.goexplorers.com/roster.aspx?path=fhockey] completed successfully in [2.5003997] seconds, crawled [1] pages
+[2016-12-04 15:33:13,774] [20 ] [INFO ] - Crawl for domain [http://www.richmondspiders.com/SportSelect.dbml?DB_OEM_ID=26800&SPID=94295&SPSID=635148] completed successfully in [7.5011996] seconds, crawled [1] pages
+[2016-12-04 15:33:14,427] [21 ] [INFO ] - Crawl for domain [http://www.slubillikens.com/SportSelect.dbml?&DB_OEM_ID=27200&SPID=95895&SPSID=640267] completed successfully in [5.0007574] seconds, crawled [1] pages
+[2016-12-04 15:33:16,160] [14 ] [INFO ] - Engine is still running...
+[2016-12-04 15:33:16,255] [18 ] [INFO ] - Crawl for domain [http://www.golhu.com/roster.aspx?path=fhockey] completed successfully in [2.5007025] seconds, crawled [1] pages
+[2016-12-04 15:33:16,275] [20 ] [INFO ] - Crawl for domain [http://www.vcuathletics.com/sports/fh/2014-15/roster] completed successfully in [2.5002253] seconds, crawled [1] pages
+[2016-12-04 15:33:16,928] [21 ] [INFO ] - Crawl for domain [http://www.sfuathletics.com/roster.aspx?path=fhockey] completed successfully in [2.5002592] seconds, crawled [1] pages
+[2016-12-04 15:33:18,757] [18 ] [INFO ] - Crawl for domain [http://www.davidsonwildcats.com/roster.aspx?path=fhockey] completed successfully in [2.500457] seconds, crawled [1] pages
+[2016-12-04 15:33:18,776] [20 ] [INFO ] - Crawl for domain [http://www.wakeforestsports.com/sports/w-fieldh/mtt/wake-w-fieldh-mtt.html] completed successfully in [2.5001148] seconds, crawled [1] pages
+[2016-12-04 15:33:19,167] [19 ] [INFO ] - Reported [16] completed site crawls
+[2016-12-04 15:33:19,167] [19 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 15:33:19,167] [19 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 15:33:19,480] [21 ] [INFO ] - Crawl for domain [http://www.virginiasports.com/sports/w-fieldh/mtt/va-w-fieldh-mtt.html] completed successfully in [2.5005394] seconds, crawled [1] pages
+[2016-12-04 15:33:21,161] [14 ] [INFO ] - Engine is still running...
+[2016-12-04 15:33:21,258] [18 ] [INFO ] - Crawl for domain [http://www.goheels.com/SportSelect.dbml?SPSID=668169&SPID=12961] completed successfully in [2.5006362] seconds, crawled [1] pages
+[2016-12-04 15:33:21,277] [20 ] [INFO ] - Crawl for domain [http://www.bceagles.com/sports/w-fieldh/mtt/bc-w-fieldh-mtt.html] completed successfully in [2.5001844] seconds, crawled [1] pages
+[2016-12-04 15:33:42,324] [21 ] [INFO ] - Crawl for domain [http://www.goduke.com/SportSelect.dbml?DB_LANG=C&DB_OEM_ID=4200&SPID=2029&SPSID=25945] completed successfully in [22.8431645] seconds, crawled [1] pages
+[2016-12-04 15:33:42,326] [20 ] [INFO ] - Crawl for domain [http://www.gocards.com/sports/w-fieldh/mtt/lou-w-fieldh-mtt.html] completed successfully in [21.0478351] seconds, crawled [1] pages
+[2016-12-04 15:33:42,326] [18 ] [INFO ] - Crawl for domain [http://cuse.com/roster.aspx?path=fhockey] completed successfully in [21.0670854] seconds, crawled [1] pages
+[2016-12-04 15:33:42,327] [14 ] [INFO ] - Engine is still running...
+[2016-12-04 15:33:44,828] [21 ] [INFO ] - Crawl for domain [http://www.owlsports.com/roster.aspx?path=fhockey] completed successfully in [2.5024296] seconds, crawled [1] pages
+[2016-12-04 15:33:44,828] [18 ] [INFO ] - Crawl for domain [http://www.friars.com/sports/w-fieldh/mtt/prov-w-fieldh-mtt.html] completed successfully in [2.5011438] seconds, crawled [1] pages
+[2016-12-04 15:33:44,830] [20 ] [INFO ] - Crawl for domain [http://www.uconnhuskies.com/sports/w-fieldh/mtt/conn-w-fieldh-mtt.html] completed successfully in [2.5029767] seconds, crawled [1] pages
+[2016-12-04 15:33:47,328] [14 ] [INFO ] - Engine is still running...
+[2016-12-04 15:33:47,330] [18 ] [INFO ] - Crawl for domain [http://www.guhoyas.com/sports/w-fieldh/mtt/gu-w-fieldh-mtt.html] completed successfully in [2.5002507] seconds, crawled [1] pages
+[2016-12-04 15:33:47,330] [21 ] [INFO ] - Crawl for domain [http://www.villanova.com/sports/w-fieldh/mtt/nova-w-fieldh-mtt.html] completed successfully in [2.5007434] seconds, crawled [1] pages
+[2016-12-04 15:33:47,332] [20 ] [INFO ] - Crawl for domain [http://www.odusports.com/SportSelect.dbml?DB_OEM_ID=31100&SPID=127312&SPSID=750424] completed successfully in [2.5004713] seconds, crawled [1] pages
+[2016-12-04 15:33:49,831] [18 ] [INFO ] - Crawl for domain [http://www.umterps.com/SportSelect.dbml?&DB_OEM_ID=29700&SPID=120737&SPSID=751910] completed successfully in [2.5006113] seconds, crawled [1] pages
+[2016-12-04 15:33:49,831] [21 ] [INFO ] - Crawl for domain [http://www.scarletknights.com/fieldhockey/roster/roster.asp] completed successfully in [2.5001405] seconds, crawled [1] pages
+[2016-12-04 15:33:49,832] [20 ] [INFO ] - Crawl for domain [http://www.gopsusports.com/sports/w-fieldh/mtt/psu-w-fieldh-mtt.html] completed successfully in [2.5001832] seconds, crawled [1] pages
+[2016-12-04 15:33:52,328] [14 ] [INFO ] - Engine is still running...
+[2016-12-04 15:33:52,332] [21 ] [INFO ] - Crawl for domain [http://www.hawkeyesports.com/sports/w-fieldh/mtt/iowa-w-fieldh-mtt.html] completed successfully in [2.5005046] seconds, crawled [1] pages
+[2016-12-04 15:33:52,332] [18 ] [INFO ] - Crawl for domain [http://www.nusports.com/sports/w-fieldh/mtt/nw-w-fieldh-mtt.html] completed successfully in [2.5003752] seconds, crawled [1] pages
+[2016-12-04 15:33:52,333] [20 ] [INFO ] - Crawl for domain [http://www.ohiostatebuckeyes.com/sports/w-fieldh/mtt/osu-w-fieldh-mtt.html] completed successfully in [2.5001806] seconds, crawled [1] pages
+[2016-12-04 15:33:54,833] [21 ] [INFO ] - Crawl for domain [http://www.msuspartans.com/sports/w-fieldh/mtt/msu-w-fieldh-mtt.html] completed successfully in [2.5001554] seconds, crawled [1] pages
+[2016-12-04 15:33:54,833] [18 ] [INFO ] - Crawl for domain [http://www.mgoblue.com/sports/w-fieldh/mtt/mich-w-fieldh-mtt.html] completed successfully in [2.5001496] seconds, crawled [1] pages
+[2016-12-04 15:33:57,328] [14 ] [INFO ] - Engine is still running...
+[2016-12-04 15:33:57,334] [21 ] [INFO ] - Crawl for domain [http://www.gonu.com/roster.aspx?path=fhockey] completed successfully in [2.5004944] seconds, crawled [1] pages
+[2016-12-04 15:33:57,335] [18 ] [INFO ] - Crawl for domain [http://www.drexeldragons.com/roster.aspx?path=fhock&] completed successfully in [2.5009173] seconds, crawled [1] pages
+[2016-12-04 15:33:59,835] [21 ] [INFO ] - Crawl for domain [http://www.tribeathletics.com/SportSelect.dbml?SPID=83401&SPSID=608673] completed successfully in [2.5005418] seconds, crawled [1] pages
+[2016-12-04 15:33:59,835] [18 ] [INFO ] - Crawl for domain [http://www.gohofstra.com/SportSelect.dbml?DB_OEM_ID=22200&SPID=13581&SPSID=109570] completed successfully in [2.5000932] seconds, crawled [1] pages
+[2016-12-04 15:34:02,328] [14 ] [INFO ] - Engine is still running...
+[2016-12-04 15:34:02,336] [18 ] [INFO ] - Crawl for domain [http://www.towsontigers.com/roster.aspx?path=fhockey] completed successfully in [2.5000797] seconds, crawled [1] pages
+[2016-12-04 15:34:02,336] [21 ] [INFO ] - Crawl for domain [http://www.bluehens.com/SportSelect.dbml?DB_OEM_ID=29100&SPID=109910&SPSID=852614] completed successfully in [2.5004956] seconds, crawled [1] pages
+[2016-12-04 15:34:03,331] [19 ] [INFO ] - Reported [26] completed site crawls
+[2016-12-04 15:34:03,331] [19 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 15:34:03,331] [19 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 15:34:04,837] [21 ] [INFO ] - Crawl for domain [http://www.goprincetontigers.com/SportSelect.dbml?SPID=4274&SPSID=46912] completed successfully in [2.5003761] seconds, crawled [1] pages
+[2016-12-04 15:34:04,837] [18 ] [INFO ] - Crawl for domain [http://www.jmusports.com/roster.aspx?path=fhockey] completed successfully in [2.5003351] seconds, crawled [1] pages
+[2016-12-04 15:34:07,329] [14 ] [INFO ] - Engine is still running...
+[2016-12-04 15:34:07,338] [21 ] [INFO ] - Crawl for domain [http://www.brownbears.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5003711] seconds, crawled [1] pages
+[2016-12-04 15:34:07,339] [18 ] [INFO ] - Crawl for domain [http://www.yalebulldogs.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5003626] seconds, crawled [1] pages
+[2016-12-04 15:34:09,839] [21 ] [INFO ] - Crawl for domain [http://www.gocrimson.com/sports/fh/2014-15/roster] completed successfully in [2.5004728] seconds, crawled [1] pages
+[2016-12-04 15:34:09,840] [18 ] [INFO ] - Crawl for domain [http://www.dartmouthsports.com/SportSelect.dbml?DB_OEM_ID=11600&SPID=4732&SPSID=48955] completed successfully in [2.500988] seconds, crawled [1] pages
+[2016-12-04 15:34:12,329] [14 ] [INFO ] - Engine is still running...
+[2016-12-04 15:34:12,341] [21 ] [INFO ] - Crawl for domain [http://www.gocolumbialions.com/SportSelect.dbml?DB_OEM_ID=9600&SPID=4050&SPSID=45285] completed successfully in [2.5009819] seconds, crawled [1] pages
+[2016-12-04 15:34:12,342] [18 ] [INFO ] - Crawl for domain [http://www.pennathletics.com/SportSelect.dbml?SPID=609&SPSID=10583] completed successfully in [2.5002647] seconds, crawled [1] pages
+[2016-12-04 15:34:14,842] [21 ] [INFO ] - Crawl for domain [http://www.cornellbigred.com/roster.aspx?path=fhockey&] completed successfully in [2.5005494] seconds, crawled [1] pages
+[2016-12-04 15:34:14,843] [18 ] [INFO ] - Crawl for domain [http://www.gobroncs.com/SportSelect.dbml?SPID=11865&SPSID=96680] completed successfully in [2.5003372] seconds, crawled [1] pages
+[2016-12-04 15:34:17,329] [14 ] [INFO ] - Engine is still running...
+[2016-12-04 15:34:17,344] [18 ] [INFO ] - Crawl for domain [http://www.bryantbulldogs.com/sports/fh/2014-15/roster] completed successfully in [2.5006654] seconds, crawled [1] pages
+[2016-12-04 15:34:17,344] [21 ] [INFO ] - Crawl for domain [http://www.quinnipiacbobcats.com/sports/fh/2014-15/roster] completed successfully in [2.5003486] seconds, crawled [1] pages
+[2016-12-04 15:34:19,846] [21 ] [INFO ] - Crawl for domain [http://www.monmouthhawks.com/SportSelect.dbml?SPSID=67812&SPID=7663] completed successfully in [2.5003726] seconds, crawled [1] pages
+[2016-12-04 15:34:19,846] [18 ] [INFO ] - Crawl for domain [http://www.sienasaints.com/sports/w-fieldh/mtt/sien-w-fieldh-mtt.html] completed successfully in [2.5005105] seconds, crawled [1] pages
+[2016-12-04 15:34:22,350] [14 ] [INFO ] - Engine is still running...
+[2016-12-04 15:34:22,350] [21 ] [INFO ] - Crawl for domain [http://sacredheartpioneers.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5038946] seconds, crawled [1] pages
+[2016-12-04 15:34:22,350] [18 ] [INFO ] - Crawl for domain [http://www.muredhawks.com/SportSelect.dbml?SPID=108398&SPSID=668518] completed successfully in [2.5035045] seconds, crawled [1] pages
+[2016-12-04 15:35:32,562] [25 ] [INFO ] - Started [1] thread for reporting
+[2016-12-04 15:35:32,562] [39 ] [INFO ] - Engine is still running...
+[2016-12-04 15:35:32,589] [25 ] [INFO ] - Started [1] thread running ISiteToCrawlProducer of type [AbotX.Parallel.SiteToCrawlProducer]
+[2016-12-04 15:35:32,613] [25 ] [INFO ] - Started [3] threads running ISiteToCrawlConsumer of type [AbotX.Parallel.SiteToCrawlConsumer]
+[2016-12-04 15:35:32,613] [40 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 15:35:32,613] [40 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 15:35:35,133] [41 ] [INFO ] - Crawl for domain [http://unhwildcats.com/sports/fh/2014-15/roster] completed successfully in [2.5085374] seconds, crawled [1] pages
+[2016-12-04 15:35:35,137] [43 ] [INFO ] - Crawl for domain [http://www.fairfieldstags.com/SportSelect.dbml?DB_OEM_ID=32500&SPID=137814&SPSID=893512] completed successfully in [2.5133643] seconds, crawled [1] pages
+[2016-12-04 15:35:35,137] [42 ] [INFO ] - Crawl for domain [http://www.goblackbears.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5116433] seconds, crawled [1] pages
+[2016-12-04 15:35:37,590] [39 ] [INFO ] - Engine is still running...
+[2016-12-04 15:35:37,635] [41 ] [INFO ] - Crawl for domain [http://www.ualbanysports.com/SportSelect.dbml?&DB_OEM_ID=15800&SPID=7986&SPSID=70216] completed successfully in [2.5002355] seconds, crawled [1] pages
+[2016-12-04 15:35:37,660] [43 ] [INFO ] - Crawl for domain [http://uvmathletics.com/roster.aspx?path=fhockey] completed successfully in [2.5008822] seconds, crawled [1] pages
+[2016-12-04 15:35:37,660] [42 ] [INFO ] - Crawl for domain [http://www.goriverhawks.com/roster.aspx?path=fhockey] completed successfully in [2.5006072] seconds, crawled [1] pages
+[2016-12-04 15:35:40,137] [41 ] [INFO ] - Crawl for domain [http://www.sjuhawks.com/SportSelect.dbml?DB_OEM_ID=31200&SPID=127349&SPSID=820710] completed successfully in [2.5005529] seconds, crawled [1] pages
+[2016-12-04 15:35:40,182] [42 ] [INFO ] - Crawl for domain [http://www.umassathletics.com/sports/w-fieldh/mtt/umas-w-fieldh-mtt.html] completed successfully in [2.5008249] seconds, crawled [1] pages
+[2016-12-04 15:35:40,183] [43 ] [INFO ] - Crawl for domain [http://www.richmondspiders.com/SportSelect.dbml?DB_OEM_ID=26800&SPID=94295&SPSID=635148] completed successfully in [2.5012285] seconds, crawled [1] pages
+[2016-12-04 15:35:42,591] [39 ] [INFO ] - Engine is still running...
+[2016-12-04 15:35:42,639] [41 ] [INFO ] - Crawl for domain [http://www.slubillikens.com/SportSelect.dbml?&DB_OEM_ID=27200&SPID=95895&SPSID=640267] completed successfully in [2.5010526] seconds, crawled [1] pages
+[2016-12-04 15:35:42,684] [42 ] [INFO ] - Crawl for domain [http://www.goexplorers.com/roster.aspx?path=fhockey] completed successfully in [2.5003299] seconds, crawled [1] pages
+[2016-12-04 15:35:42,684] [43 ] [INFO ] - Crawl for domain [http://www.golhu.com/roster.aspx?path=fhockey] completed successfully in [2.5000876] seconds, crawled [1] pages
+[2016-12-04 15:35:45,141] [41 ] [INFO ] - Crawl for domain [http://www.vcuathletics.com/sports/fh/2014-15/roster] completed successfully in [2.5010885] seconds, crawled [1] pages
+[2016-12-04 15:35:45,206] [42 ] [INFO ] - Crawl for domain [http://www.sfuathletics.com/roster.aspx?path=fhockey] completed successfully in [2.5005111] seconds, crawled [1] pages
+[2016-12-04 15:35:45,207] [43 ] [INFO ] - Crawl for domain [http://www.davidsonwildcats.com/roster.aspx?path=fhockey] completed successfully in [2.5007256] seconds, crawled [1] pages
+[2016-12-04 15:35:47,591] [39 ] [INFO ] - Engine is still running...
+[2016-12-04 15:35:47,643] [41 ] [INFO ] - Crawl for domain [http://www.wakeforestsports.com/sports/w-fieldh/mtt/wake-w-fieldh-mtt.html] completed successfully in [2.5006134] seconds, crawled [1] pages
+[2016-12-04 15:35:47,708] [42 ] [INFO ] - Crawl for domain [http://www.virginiasports.com/sports/w-fieldh/mtt/va-w-fieldh-mtt.html] completed successfully in [2.500128] seconds, crawled [1] pages
+[2016-12-04 15:35:47,728] [43 ] [INFO ] - Crawl for domain [http://www.goheels.com/SportSelect.dbml?SPSID=668169&SPID=12961] completed successfully in [2.5200609] seconds, crawled [1] pages
+[2016-12-04 15:35:48,628] [40 ] [INFO ] - Reported [18] completed site crawls
+[2016-12-04 15:35:48,628] [40 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 15:35:48,628] [40 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 15:35:50,145] [41 ] [INFO ] - Crawl for domain [http://www.bceagles.com/sports/w-fieldh/mtt/bc-w-fieldh-mtt.html] completed successfully in [2.5005581] seconds, crawled [1] pages
+[2016-12-04 15:35:50,229] [42 ] [INFO ] - Crawl for domain [http://www.goduke.com/SportSelect.dbml?DB_LANG=C&DB_OEM_ID=4200&SPID=2029&SPSID=25945] completed successfully in [2.5006098] seconds, crawled [1] pages
+[2016-12-04 15:35:50,230] [43 ] [INFO ] - Crawl for domain [http://cuse.com/roster.aspx?path=fhockey] completed successfully in [2.5011642] seconds, crawled [1] pages
+[2016-12-04 15:35:52,591] [39 ] [INFO ] - Engine is still running...
+[2016-12-04 15:35:52,646] [41 ] [INFO ] - Crawl for domain [http://www.gocards.com/sports/w-fieldh/mtt/lou-w-fieldh-mtt.html] completed successfully in [2.5005435] seconds, crawled [1] pages
+[2016-12-04 15:35:52,732] [42 ] [INFO ] - Crawl for domain [http://www.owlsports.com/roster.aspx?path=fhockey] completed successfully in [2.5004222] seconds, crawled [1] pages
+[2016-12-04 15:35:52,732] [43 ] [INFO ] - Crawl for domain [http://www.uconnhuskies.com/sports/w-fieldh/mtt/conn-w-fieldh-mtt.html] completed successfully in [2.5004743] seconds, crawled [1] pages
+[2016-12-04 15:35:55,148] [41 ] [INFO ] - Crawl for domain [http://www.friars.com/sports/w-fieldh/mtt/prov-w-fieldh-mtt.html] completed successfully in [2.5001543] seconds, crawled [1] pages
+[2016-12-04 15:35:55,234] [42 ] [INFO ] - Crawl for domain [http://www.villanova.com/sports/w-fieldh/mtt/nova-w-fieldh-mtt.html] completed successfully in [2.5005134] seconds, crawled [1] pages
+[2016-12-04 15:35:55,234] [43 ] [INFO ] - Crawl for domain [http://www.guhoyas.com/sports/w-fieldh/mtt/gu-w-fieldh-mtt.html] completed successfully in [2.5005286] seconds, crawled [1] pages
+[2016-12-04 15:35:57,592] [39 ] [INFO ] - Engine is still running...
+[2016-12-04 15:35:57,649] [41 ] [INFO ] - Crawl for domain [http://www.odusports.com/SportSelect.dbml?DB_OEM_ID=31100&SPID=127312&SPSID=750424] completed successfully in [2.5006473] seconds, crawled [1] pages
+[2016-12-04 15:35:57,755] [43 ] [INFO ] - Crawl for domain [http://www.scarletknights.com/fieldhockey/roster/roster.asp] completed successfully in [2.5005152] seconds, crawled [1] pages
+[2016-12-04 15:35:57,755] [42 ] [INFO ] - Crawl for domain [http://www.umterps.com/SportSelect.dbml?&DB_OEM_ID=29700&SPID=120737&SPSID=751910] completed successfully in [2.5003387] seconds, crawled [1] pages
+[2016-12-04 15:36:00,151] [41 ] [INFO ] - Crawl for domain [http://www.gopsusports.com/sports/w-fieldh/mtt/psu-w-fieldh-mtt.html] completed successfully in [2.5011671] seconds, crawled [1] pages
+[2016-12-04 15:36:00,277] [42 ] [INFO ] - Crawl for domain [http://www.hawkeyesports.com/sports/w-fieldh/mtt/iowa-w-fieldh-mtt.html] completed successfully in [2.5000958] seconds, crawled [1] pages
+[2016-12-04 15:36:00,277] [43 ] [INFO ] - Crawl for domain [http://www.nusports.com/sports/w-fieldh/mtt/nw-w-fieldh-mtt.html] completed successfully in [2.5003977] seconds, crawled [1] pages
+[2016-12-04 15:36:02,592] [39 ] [INFO ] - Engine is still running...
+[2016-12-04 15:36:02,653] [41 ] [INFO ] - Crawl for domain [http://www.ohiostatebuckeyes.com/sports/w-fieldh/mtt/osu-w-fieldh-mtt.html] completed successfully in [2.5003772] seconds, crawled [1] pages
+[2016-12-04 15:36:02,778] [43 ] [INFO ] - Crawl for domain [http://www.mgoblue.com/sports/w-fieldh/mtt/mich-w-fieldh-mtt.html] completed successfully in [2.5001955] seconds, crawled [1] pages
+[2016-12-04 15:36:02,779] [42 ] [INFO ] - Crawl for domain [http://www.msuspartans.com/sports/w-fieldh/mtt/msu-w-fieldh-mtt.html] completed successfully in [2.5005762] seconds, crawled [1] pages
+[2016-12-04 15:36:05,281] [43 ] [INFO ] - Crawl for domain [http://www.gonu.com/roster.aspx?path=fhockey] completed successfully in [2.5012864] seconds, crawled [1] pages
+[2016-12-04 15:36:05,282] [42 ] [INFO ] - Crawl for domain [http://www.drexeldragons.com/roster.aspx?path=fhock&] completed successfully in [2.501732] seconds, crawled [1] pages
+[2016-12-04 15:36:07,592] [39 ] [INFO ] - Engine is still running...
+[2016-12-04 15:36:07,785] [43 ] [INFO ] - Crawl for domain [http://www.tribeathletics.com/SportSelect.dbml?SPID=83401&SPSID=608673] completed successfully in [2.5002574] seconds, crawled [1] pages
+[2016-12-04 15:36:08,241] [42 ] [INFO ] - Crawl for domain [http://www.gohofstra.com/SportSelect.dbml?DB_OEM_ID=22200&SPID=13581&SPSID=109570] completed successfully in [2.9553759] seconds, crawled [1] pages
+[2016-12-04 15:36:10,286] [43 ] [INFO ] - Crawl for domain [http://www.bluehens.com/SportSelect.dbml?DB_OEM_ID=29100&SPID=109910&SPSID=852614] completed successfully in [2.5002437] seconds, crawled [1] pages
+[2016-12-04 15:36:10,743] [42 ] [INFO ] - Crawl for domain [http://www.towsontigers.com/roster.aspx?path=fhockey] completed successfully in [2.5005613] seconds, crawled [1] pages
+[2016-12-04 15:36:10,745] [40 ] [INFO ] - Reported [24] completed site crawls
+[2016-12-04 15:36:10,745] [40 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 15:36:10,745] [40 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 15:36:12,592] [39 ] [INFO ] - Engine is still running...
+[2016-12-04 15:36:12,787] [43 ] [INFO ] - Crawl for domain [http://www.jmusports.com/roster.aspx?path=fhockey] completed successfully in [2.5004652] seconds, crawled [1] pages
+[2016-12-04 15:36:13,244] [42 ] [INFO ] - Crawl for domain [http://www.goprincetontigers.com/SportSelect.dbml?SPID=4274&SPSID=46912] completed successfully in [2.5010257] seconds, crawled [1] pages
+[2016-12-04 15:36:15,290] [43 ] [INFO ] - Crawl for domain [http://www.brownbears.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5008962] seconds, crawled [1] pages
+[2016-12-04 15:36:15,745] [42 ] [INFO ] - Crawl for domain [http://www.yalebulldogs.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5003696] seconds, crawled [1] pages
+[2016-12-04 15:36:17,593] [39 ] [INFO ] - Engine is still running...
+[2016-12-04 15:36:17,791] [43 ] [INFO ] - Crawl for domain [http://www.gocrimson.com/sports/fh/2014-15/roster] completed successfully in [2.5004865] seconds, crawled [1] pages
+[2016-12-04 15:36:18,247] [42 ] [INFO ] - Crawl for domain [http://www.dartmouthsports.com/SportSelect.dbml?DB_OEM_ID=11600&SPID=4732&SPSID=48955] completed successfully in [2.5005844] seconds, crawled [1] pages
+[2016-12-04 15:36:20,292] [43 ] [INFO ] - Crawl for domain [http://www.gocolumbialions.com/SportSelect.dbml?DB_OEM_ID=9600&SPID=4050&SPSID=45285] completed successfully in [2.5005575] seconds, crawled [1] pages
+[2016-12-04 15:36:20,747] [42 ] [INFO ] - Crawl for domain [http://www.pennathletics.com/SportSelect.dbml?SPID=609&SPSID=10583] completed successfully in [2.500097] seconds, crawled [1] pages
+[2016-12-04 15:36:22,593] [39 ] [INFO ] - Engine is still running...
+[2016-12-04 15:36:22,793] [43 ] [INFO ] - Crawl for domain [http://www.cornellbigred.com/roster.aspx?path=fhockey&] completed successfully in [2.5006142] seconds, crawled [1] pages
+[2016-12-04 15:36:23,248] [42 ] [INFO ] - Crawl for domain [http://www.gobroncs.com/SportSelect.dbml?SPID=11865&SPSID=96680] completed successfully in [2.5005505] seconds, crawled [1] pages
+[2016-12-04 15:36:25,295] [43 ] [INFO ] - Crawl for domain [http://www.quinnipiacbobcats.com/sports/fh/2014-15/roster] completed successfully in [2.5011987] seconds, crawled [1] pages
+[2016-12-04 15:36:25,750] [42 ] [INFO ] - Crawl for domain [http://www.bryantbulldogs.com/sports/fh/2014-15/roster] completed successfully in [2.5011254] seconds, crawled [1] pages
+[2016-12-04 15:36:27,593] [39 ] [INFO ] - Engine is still running...
+[2016-12-04 15:36:27,797] [43 ] [INFO ] - Crawl for domain [http://www.sienasaints.com/sports/w-fieldh/mtt/sien-w-fieldh-mtt.html] completed successfully in [2.5004877] seconds, crawled [1] pages
+[2016-12-04 15:36:28,252] [42 ] [INFO ] - Crawl for domain [http://www.monmouthhawks.com/SportSelect.dbml?SPSID=67812&SPID=7663] completed successfully in [2.5003197] seconds, crawled [1] pages
+[2016-12-04 15:36:30,299] [43 ] [INFO ] - Crawl for domain [http://sacredheartpioneers.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5005947] seconds, crawled [1] pages
+[2016-12-04 15:36:30,754] [42 ] [INFO ] - Crawl for domain [http://www.muredhawks.com/SportSelect.dbml?SPID=108398&SPSID=668518] completed successfully in [2.5004927] seconds, crawled [1] pages
+[2016-12-04 15:36:32,594] [39 ] [INFO ] - Engine is still running...
+[2016-12-04 15:36:32,800] [43 ] [INFO ] - Crawl for domain [http://www.cmuchippewas.com/sports/w-fieldh/mtt/cmu-w-fieldh-mtt.html] completed successfully in [2.5001396] seconds, crawled [1] pages
+[2016-12-04 15:36:33,258] [42 ] [INFO ] - Crawl for domain [http://www.missouristatebears.com/sports/w-fieldh/mtt/mosu-w-fieldh-mtt.html] completed successfully in [2.5008445] seconds, crawled [1] pages
+[2016-12-04 15:36:34,921] [37 ] [INFO ] - Started [1] thread for reporting
+[2016-12-04 15:36:34,927] [26 ] [INFO ] - Engine is still running...
+[2016-12-04 15:36:34,930] [37 ] [INFO ] - Started [1] thread running ISiteToCrawlProducer of type [AbotX.Parallel.SiteToCrawlProducer]
+[2016-12-04 15:36:34,931] [24 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 15:36:34,931] [24 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 15:36:34,935] [37 ] [INFO ] - Started [3] threads running ISiteToCrawlConsumer of type [AbotX.Parallel.SiteToCrawlConsumer]
+[2016-12-04 15:36:35,301] [43 ] [INFO ] - Crawl for domain [http://ballstatesports.com/SportSelect.dbml?DB_OEM_ID=14200&SPID=7632&SPSID=67654] completed successfully in [2.5004404] seconds, crawled [1] pages
+[2016-12-04 15:36:35,760] [42 ] [INFO ] - Crawl for domain [http://www.ohiobobcats.com/sports/w-fieldh/mtt/ohio-w-fieldh-mtt.html] completed successfully in [2.5005815] seconds, crawled [1] pages
+[2016-12-04 15:36:37,454] [20 ] [INFO ] - Crawl for domain [http://www.goblackbears.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5182803] seconds, crawled [1] pages
+[2016-12-04 15:36:37,454] [18 ] [INFO ] - Crawl for domain [http://www.fairfieldstags.com/SportSelect.dbml?DB_OEM_ID=32500&SPID=137814&SPSID=893512] completed successfully in [2.5173159] seconds, crawled [1] pages
+[2016-12-04 15:36:37,455] [21 ] [INFO ] - Crawl for domain [http://unhwildcats.com/sports/fh/2014-15/roster] completed successfully in [2.5200217] seconds, crawled [1] pages
+[2016-12-04 15:36:37,594] [39 ] [INFO ] - Engine is still running...
+[2016-12-04 15:36:37,803] [43 ] [INFO ] - Crawl for domain [http://www.kentstatesports.com/roster.aspx?path=fhockey] completed successfully in [2.5004301] seconds, crawled [1] pages
+[2016-12-04 15:36:38,262] [42 ] [INFO ] - Crawl for domain [http://longwoodlancers.com/roster.aspx?path=fhockey] completed successfully in [2.5003749] seconds, crawled [1] pages
+[2016-12-04 15:36:39,928] [26 ] [INFO ] - Engine is still running...
+[2016-12-04 15:36:39,970] [20 ] [INFO ] - Crawl for domain [http://www.ualbanysports.com/SportSelect.dbml?&DB_OEM_ID=15800&SPID=7986&SPSID=70216] completed successfully in [2.500215] seconds, crawled [1] pages
+[2016-12-04 15:36:39,971] [21 ] [INFO ] - Crawl for domain [http://uvmathletics.com/roster.aspx?path=fhockey] completed successfully in [2.5001475] seconds, crawled [1] pages
+[2016-12-04 15:36:39,991] [18 ] [INFO ] - Crawl for domain [http://www.goriverhawks.com/roster.aspx?path=fhockey] completed successfully in [2.519268] seconds, crawled [1] pages
+[2016-12-04 15:36:40,315] [43 ] [INFO ] - Crawl for domain [http://www.gostanford.com/SportSelect.dbml?DB_OEM_ID=30600&SPID=131108&SPSID=770512] completed successfully in [2.5107002] seconds, crawled [1] pages
+[2016-12-04 15:36:40,764] [42 ] [INFO ] - Crawl for domain [http://www.calbears.com/SportSelect.dbml?DB_OEM_ID=30100&SPID=126512&SPSID=749424] completed successfully in [2.500343] seconds, crawled [1] pages
+[2016-12-04 15:36:41,237] [40 ] [INFO ] - Reported [24] completed site crawls
+[2016-12-04 15:36:41,237] [40 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 15:36:41,237] [40 ] [INFO ] - Retrieved [3] sites to crawl
+[2016-12-04 15:36:41,237] [40 ] [INFO ] - ISiteToCrawlProvider [AbotX.Parallel.SiteToCrawlProvider] is reporting that it is complete. Will not make anymore requests for sites to crawl.
+[2016-12-04 15:36:42,237] [28 ] [INFO ] - All ISiteToCrawlProducer threads have completed
+[2016-12-04 15:36:42,498] [20 ] [INFO ] - Crawl for domain [http://www.sjuhawks.com/SportSelect.dbml?DB_OEM_ID=31200&SPID=127349&SPSID=820710] completed successfully in [2.5024629] seconds, crawled [1] pages
+[2016-12-04 15:36:42,516] [21 ] [INFO ] - Crawl for domain [http://www.richmondspiders.com/SportSelect.dbml?DB_OEM_ID=26800&SPID=94295&SPSID=635148] completed successfully in [2.5004798] seconds, crawled [1] pages
+[2016-12-04 15:36:42,517] [18 ] [INFO ] - Crawl for domain [http://www.umassathletics.com/sports/w-fieldh/mtt/umas-w-fieldh-mtt.html] completed successfully in [2.5013267] seconds, crawled [1] pages
+[2016-12-04 15:36:42,594] [39 ] [INFO ] - Engine is still running...
+[2016-12-04 15:36:42,818] [43 ] [INFO ] - Crawl for domain [http://www.ucdavisaggies.com/sports/w-fieldh/mtt/ucda-w-fieldh-mtt.html] completed successfully in [2.5010301] seconds, crawled [1] pages
+[2016-12-04 15:36:43,266] [42 ] [INFO ] - Crawl for domain [http://www.pacifictigers.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5001092] seconds, crawled [1] pages
+[2016-12-04 15:36:44,928] [26 ] [INFO ] - Engine is still running...
+[2016-12-04 15:36:45,000] [20 ] [INFO ] - Crawl for domain [http://www.slubillikens.com/SportSelect.dbml?&DB_OEM_ID=27200&SPID=95895&SPSID=640267] completed successfully in [2.5001385] seconds, crawled [1] pages
+[2016-12-04 15:36:45,049] [21 ] [INFO ] - Crawl for domain [http://www.goexplorers.com/roster.aspx?path=fhockey] completed successfully in [2.5006379] seconds, crawled [1] pages
+[2016-12-04 15:36:45,070] [18 ] [INFO ] - Crawl for domain [http://www.golhu.com/roster.aspx?path=fhockey] completed successfully in [2.5027256] seconds, crawled [1] pages
+[2016-12-04 15:36:45,320] [43 ] [INFO ] - Crawl for domain [http://www.appstatesports.com/SportSelect.dbml?DB_OEM_ID=21500&SPID=12810&SPSID=104457] completed successfully in [2.5010222] seconds, crawled [1] pages
+[2016-12-04 15:36:47,501] [20 ] [INFO ] - Crawl for domain [http://www.vcuathletics.com/sports/fh/2014-15/roster] completed successfully in [2.5005143] seconds, crawled [1] pages
+[2016-12-04 15:36:47,593] [21 ] [INFO ] - Crawl for domain [http://www.sfuathletics.com/roster.aspx?path=fhockey] completed successfully in [2.5223725] seconds, crawled [1] pages
+[2016-12-04 15:36:47,594] [18 ] [INFO ] - Crawl for domain [http://www.davidsonwildcats.com/roster.aspx?path=fhockey] completed successfully in [2.5020401] seconds, crawled [1] pages
+[2016-12-04 15:36:47,595] [39 ] [INFO ] - Engine is still running...
+[2016-12-04 15:36:47,878] [43 ] [INFO ] - Crawl for domain [http://www.goterriers.com/sports/w-fieldh/mtt/bost-w-fieldh-mtt.html] completed successfully in [2.5009187] seconds, crawled [1] pages
+[2016-12-04 15:36:48,271] [42 ] [INFO ] - Crawl for domain [http://www.liberty.edu/flames/index.cfm?PID=10871&TeamID=18] completed successfully in [5.0037169] seconds, crawled [1] pages
+[2016-12-04 15:36:49,929] [26 ] [INFO ] - Engine is still running...
+[2016-12-04 15:36:50,004] [20 ] [INFO ] - Crawl for domain [http://www.wakeforestsports.com/sports/w-fieldh/mtt/wake-w-fieldh-mtt.html] completed successfully in [2.5005961] seconds, crawled [1] pages
+[2016-12-04 15:36:50,094] [21 ] [INFO ] - Crawl for domain [http://www.virginiasports.com/sports/w-fieldh/mtt/va-w-fieldh-mtt.html] completed successfully in [2.5004243] seconds, crawled [1] pages
+[2016-12-04 15:36:50,118] [18 ] [INFO ] - Crawl for domain [http://www.goheels.com/SportSelect.dbml?SPSID=668169&SPID=12961] completed successfully in [2.5026736] seconds, crawled [1] pages
+[2016-12-04 15:36:50,403] [43 ] [INFO ] - Crawl for domain [http://www.goleopards.com/sports/w-fieldh/mtt/lafa-w-fieldh-mtt.html] completed successfully in [2.5004725] seconds, crawled [1] pages
+[2016-12-04 15:36:50,936] [24 ] [INFO ] - Reported [18] completed site crawls
+[2016-12-04 15:36:50,936] [24 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 15:36:50,936] [24 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 15:36:52,512] [20 ] [INFO ] - Crawl for domain [http://www.bceagles.com/sports/w-fieldh/mtt/bc-w-fieldh-mtt.html] completed successfully in [2.5003211] seconds, crawled [1] pages
+[2016-12-04 15:36:52,595] [39 ] [INFO ] - Engine is still running...
+[2016-12-04 15:36:52,608] [21 ] [INFO ] - Crawl for domain [http://www.goduke.com/SportSelect.dbml?DB_LANG=C&DB_OEM_ID=4200&SPID=2029&SPSID=25945] completed successfully in [2.500132] seconds, crawled [1] pages
+[2016-12-04 15:36:52,634] [18 ] [INFO ] - Crawl for domain [http://cuse.com/roster.aspx?path=fhockey] completed successfully in [2.5024498] seconds, crawled [1] pages
+[2016-12-04 15:36:52,909] [43 ] [INFO ] - Crawl for domain [http://gocolgateraiders.com/roster.aspx?path=fhockey] completed successfully in [2.5009576] seconds, crawled [1] pages
+[2016-12-04 15:36:53,332] [42 ] [INFO ] - Crawl for domain [http://www.bucknellbison.com/SportSelect.dbml?DB_OEM_ID=32100&SPID=137639&SPSID=848820] completed successfully in [5.0010473] seconds, crawled [1] pages
+[2016-12-04 15:36:54,929] [26 ] [INFO ] - Engine is still running...
+[2016-12-04 15:36:55,013] [20 ] [INFO ] - Crawl for domain [http://www.gocards.com/sports/w-fieldh/mtt/lou-w-fieldh-mtt.html] completed successfully in [2.5004669] seconds, crawled [1] pages
+[2016-12-04 15:36:55,110] [21 ] [INFO ] - Crawl for domain [http://www.owlsports.com/roster.aspx?path=fhockey] completed successfully in [2.5005087] seconds, crawled [1] pages
+[2016-12-04 15:36:55,136] [18 ] [INFO ] - Crawl for domain [http://www.uconnhuskies.com/sports/w-fieldh/mtt/conn-w-fieldh-mtt.html] completed successfully in [2.5005634] seconds, crawled [1] pages
+[2016-12-04 15:36:55,411] [43 ] [INFO ] - Crawl for domain [http://www.goholycross.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.500246] seconds, crawled [1] pages
+[2016-12-04 15:36:55,834] [42 ] [INFO ] - Crawl for domain [http://aueagles.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5004442] seconds, crawled [1] pages
+[2016-12-04 15:36:56,078] [41 ] [INFO ] - Crawl for domain [http://www.iuhoosiers.com/sports/w-fieldh/mtt/ind-w-fieldh-mtt.html] completed successfully in [53.4236295] seconds, crawled [245] pages
+[2016-12-04 15:36:57,517] [20 ] [INFO ] - Crawl for domain [http://www.friars.com/sports/w-fieldh/mtt/prov-w-fieldh-mtt.html] completed successfully in [2.5028671] seconds, crawled [1] pages
+[2016-12-04 15:36:57,595] [39 ] [INFO ] - Engine is still running...
+[2016-12-04 15:36:57,611] [21 ] [INFO ] - Crawl for domain [http://www.villanova.com/sports/w-fieldh/mtt/nova-w-fieldh-mtt.html] completed successfully in [2.5008314] seconds, crawled [1] pages
+[2016-12-04 15:36:57,638] [18 ] [INFO ] - Crawl for domain [http://www.guhoyas.com/sports/w-fieldh/mtt/gu-w-fieldh-mtt.html] completed successfully in [2.5004085] seconds, crawled [1] pages
+[2016-12-04 15:36:57,913] [43 ] [INFO ] - Crawl for domain [http://www.lehighsports.com/roster.aspx?path=fhockey] completed successfully in [2.5006645] seconds, crawled [1] pages
+[2016-12-04 15:36:57,914] [8  ] [INFO ] - All ISiteToCrawlConsumer threads have completed
+[2016-12-04 15:36:57,914] [8  ] [INFO ] - All crawls have completed
+[2016-12-04 15:36:59,929] [26 ] [INFO ] - Engine is still running...
+[2016-12-04 15:37:00,019] [20 ] [INFO ] - Crawl for domain [http://www.odusports.com/SportSelect.dbml?DB_OEM_ID=31100&SPID=127312&SPSID=750424] completed successfully in [2.500348] seconds, crawled [1] pages
+[2016-12-04 15:37:00,115] [21 ] [INFO ] - Crawl for domain [http://www.umterps.com/SportSelect.dbml?&DB_OEM_ID=29700&SPID=120737&SPSID=751910] completed successfully in [2.500144] seconds, crawled [1] pages
+[2016-12-04 15:37:00,139] [18 ] [INFO ] - Crawl for domain [http://www.scarletknights.com/fieldhockey/roster/roster.asp] completed successfully in [2.5005093] seconds, crawled [1] pages
+[2016-12-04 15:37:02,532] [20 ] [INFO ] - Crawl for domain [http://www.gopsusports.com/sports/w-fieldh/mtt/psu-w-fieldh-mtt.html] completed successfully in [2.5092317] seconds, crawled [1] pages
+[2016-12-04 15:37:03,416] [21 ] [INFO ] - Crawl for domain [http://www.nusports.com/sports/w-fieldh/mtt/nw-w-fieldh-mtt.html] completed successfully in [3.2992328] seconds, crawled [1] pages
+[2016-12-04 15:37:03,464] [18 ] [INFO ] - Crawl for domain [http://www.hawkeyesports.com/sports/w-fieldh/mtt/iowa-w-fieldh-mtt.html] completed successfully in [3.3233617] seconds, crawled [1] pages
+[2016-12-04 15:37:05,946] [26 ] [INFO ] - Engine is still running...
+[2016-12-04 15:37:06,084] [20 ] [INFO ] - Crawl for domain [http://www.ohiostatebuckeyes.com/sports/w-fieldh/mtt/osu-w-fieldh-mtt.html] completed successfully in [2.5052804] seconds, crawled [1] pages
+[2016-12-04 15:37:06,114] [18 ] [INFO ] - Crawl for domain [http://www.mgoblue.com/sports/w-fieldh/mtt/mich-w-fieldh-mtt.html] completed successfully in [2.502977] seconds, crawled [1] pages
+[2016-12-04 15:37:06,115] [21 ] [INFO ] - Crawl for domain [http://www.msuspartans.com/sports/w-fieldh/mtt/msu-w-fieldh-mtt.html] completed successfully in [2.5062363] seconds, crawled [1] pages
+[2016-12-04 15:37:08,617] [21 ] [INFO ] - Crawl for domain [http://www.drexeldragons.com/roster.aspx?path=fhock&] completed successfully in [2.5009307] seconds, crawled [1] pages
+[2016-12-04 15:37:08,619] [18 ] [INFO ] - Crawl for domain [http://www.gonu.com/roster.aspx?path=fhockey] completed successfully in [2.501789] seconds, crawled [1] pages
+[2016-12-04 15:37:10,947] [26 ] [INFO ] - Engine is still running...
+[2016-12-04 15:37:11,121] [21 ] [INFO ] - Crawl for domain [http://www.tribeathletics.com/SportSelect.dbml?SPID=83401&SPSID=608673] completed successfully in [2.5014305] seconds, crawled [1] pages
+[2016-12-04 15:37:11,122] [18 ] [INFO ] - Crawl for domain [http://www.gohofstra.com/SportSelect.dbml?DB_OEM_ID=22200&SPID=13581&SPSID=109570] completed successfully in [2.5010029] seconds, crawled [1] pages
+[2016-12-04 15:37:13,623] [21 ] [INFO ] - Crawl for domain [http://www.bluehens.com/SportSelect.dbml?DB_OEM_ID=29100&SPID=109910&SPSID=852614] completed successfully in [2.5005543] seconds, crawled [1] pages
+[2016-12-04 15:37:13,623] [18 ] [INFO ] - Crawl for domain [http://www.towsontigers.com/roster.aspx?path=fhockey] completed successfully in [2.5008124] seconds, crawled [1] pages
+[2016-12-04 15:37:14,059] [24 ] [INFO ] - Reported [24] completed site crawls
+[2016-12-04 15:37:14,059] [24 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 15:37:14,059] [24 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 15:37:15,947] [26 ] [INFO ] - Engine is still running...
+[2016-12-04 15:37:16,126] [21 ] [INFO ] - Crawl for domain [http://www.jmusports.com/roster.aspx?path=fhockey] completed successfully in [2.5005909] seconds, crawled [1] pages
+[2016-12-04 15:37:16,127] [18 ] [INFO ] - Crawl for domain [http://www.goprincetontigers.com/SportSelect.dbml?SPID=4274&SPSID=46912] completed successfully in [2.5001966] seconds, crawled [1] pages
+[2016-12-04 15:37:18,628] [21 ] [INFO ] - Crawl for domain [http://www.brownbears.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5006768] seconds, crawled [1] pages
+[2016-12-04 15:37:18,629] [18 ] [INFO ] - Crawl for domain [http://www.yalebulldogs.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5006239] seconds, crawled [1] pages
+[2016-12-04 15:37:20,948] [26 ] [INFO ] - Engine is still running...
+[2016-12-04 15:37:21,130] [21 ] [INFO ] - Crawl for domain [http://www.gocrimson.com/sports/fh/2014-15/roster] completed successfully in [2.5007907] seconds, crawled [1] pages
+[2016-12-04 15:37:21,131] [18 ] [INFO ] - Crawl for domain [http://www.dartmouthsports.com/SportSelect.dbml?DB_OEM_ID=11600&SPID=4732&SPSID=48955] completed successfully in [2.5005476] seconds, crawled [1] pages
+[2016-12-04 15:37:23,632] [18 ] [INFO ] - Crawl for domain [http://www.pennathletics.com/SportSelect.dbml?SPID=609&SPSID=10583] completed successfully in [2.5006511] seconds, crawled [1] pages
+[2016-12-04 15:37:23,632] [21 ] [INFO ] - Crawl for domain [http://www.gocolumbialions.com/SportSelect.dbml?DB_OEM_ID=9600&SPID=4050&SPSID=45285] completed successfully in [2.5004564] seconds, crawled [1] pages
+[2016-12-04 15:37:25,113] [20 ] [INFO ] - Crawl for domain [http://www.iuhoosiers.com/sports/w-fieldh/mtt/ind-w-fieldh-mtt.html] completed successfully in [19.0245166] seconds, crawled [245] pages
+[2016-12-04 15:37:25,948] [26 ] [INFO ] - Engine is still running...
+[2016-12-04 15:37:26,133] [18 ] [INFO ] - Crawl for domain [http://www.cornellbigred.com/roster.aspx?path=fhockey&] completed successfully in [2.5006557] seconds, crawled [1] pages
+[2016-12-04 15:37:26,138] [21 ] [INFO ] - Crawl for domain [http://www.gobroncs.com/SportSelect.dbml?SPID=11865&SPSID=96680] completed successfully in [2.5036868] seconds, crawled [1] pages
+[2016-12-04 15:37:27,615] [20 ] [INFO ] - Crawl for domain [http://www.quinnipiacbobcats.com/sports/fh/2014-15/roster] completed successfully in [2.5004643] seconds, crawled [1] pages
+[2016-12-04 15:37:28,635] [18 ] [INFO ] - Crawl for domain [http://www.bryantbulldogs.com/sports/fh/2014-15/roster] completed successfully in [2.5008282] seconds, crawled [1] pages
+[2016-12-04 15:37:28,639] [21 ] [INFO ] - Crawl for domain [http://www.sienasaints.com/sports/w-fieldh/mtt/sien-w-fieldh-mtt.html] completed successfully in [2.501066] seconds, crawled [1] pages
+[2016-12-04 15:37:30,117] [20 ] [INFO ] - Crawl for domain [http://www.monmouthhawks.com/SportSelect.dbml?SPSID=67812&SPID=7663] completed successfully in [2.5004775] seconds, crawled [1] pages
+[2016-12-04 15:37:30,948] [26 ] [INFO ] - Engine is still running...
+[2016-12-04 15:37:31,136] [18 ] [INFO ] - Crawl for domain [http://sacredheartpioneers.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5005961] seconds, crawled [1] pages
+[2016-12-04 15:37:31,141] [21 ] [INFO ] - Crawl for domain [http://www.muredhawks.com/SportSelect.dbml?SPID=108398&SPSID=668518] completed successfully in [2.5004529] seconds, crawled [1] pages
+[2016-12-04 15:37:32,618] [20 ] [INFO ] - Crawl for domain [http://www.cmuchippewas.com/sports/w-fieldh/mtt/cmu-w-fieldh-mtt.html] completed successfully in [2.5008533] seconds, crawled [1] pages
+[2016-12-04 15:37:33,638] [18 ] [INFO ] - Crawl for domain [http://www.missouristatebears.com/sports/w-fieldh/mtt/mosu-w-fieldh-mtt.html] completed successfully in [2.5004062] seconds, crawled [1] pages
+[2016-12-04 15:37:33,643] [21 ] [INFO ] - Crawl for domain [http://ballstatesports.com/SportSelect.dbml?DB_OEM_ID=14200&SPID=7632&SPSID=67654] completed successfully in [2.5004141] seconds, crawled [1] pages
+[2016-12-04 15:37:35,119] [20 ] [INFO ] - Crawl for domain [http://www.ohiobobcats.com/sports/w-fieldh/mtt/ohio-w-fieldh-mtt.html] completed successfully in [2.5003661] seconds, crawled [1] pages
+[2016-12-04 15:37:35,949] [26 ] [INFO ] - Engine is still running...
+[2016-12-04 15:37:36,139] [18 ] [INFO ] - Crawl for domain [http://www.kentstatesports.com/roster.aspx?path=fhockey] completed successfully in [2.5003582] seconds, crawled [1] pages
+[2016-12-04 15:37:36,148] [21 ] [INFO ] - Crawl for domain [http://longwoodlancers.com/roster.aspx?path=fhockey] completed successfully in [2.5024387] seconds, crawled [1] pages
+[2016-12-04 15:37:37,621] [20 ] [INFO ] - Crawl for domain [http://www.gostanford.com/SportSelect.dbml?DB_OEM_ID=30600&SPID=131108&SPSID=770512] completed successfully in [2.5004675] seconds, crawled [1] pages
+[2016-12-04 15:37:38,065] [24 ] [INFO ] - Reported [24] completed site crawls
+[2016-12-04 15:37:38,065] [24 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 15:37:38,065] [24 ] [INFO ] - Retrieved [3] sites to crawl
+[2016-12-04 15:37:38,065] [24 ] [INFO ] - ISiteToCrawlProvider [AbotX.Parallel.SiteToCrawlProvider] is reporting that it is complete. Will not make anymore requests for sites to crawl.
+[2016-12-04 15:37:38,640] [18 ] [INFO ] - Crawl for domain [http://www.calbears.com/SportSelect.dbml?DB_OEM_ID=30100&SPID=126512&SPSID=749424] completed successfully in [2.5003191] seconds, crawled [1] pages
+[2016-12-04 15:37:38,651] [21 ] [INFO ] - Crawl for domain [http://www.ucdavisaggies.com/sports/w-fieldh/mtt/ucda-w-fieldh-mtt.html] completed successfully in [2.5006657] seconds, crawled [1] pages
+[2016-12-04 15:37:39,066] [35 ] [INFO ] - All ISiteToCrawlProducer threads have completed
+[2016-12-04 15:37:40,122] [20 ] [INFO ] - Crawl for domain [http://www.pacifictigers.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5004757] seconds, crawled [1] pages
+[2016-12-04 15:37:40,949] [26 ] [INFO ] - Engine is still running...
+[2016-12-04 15:37:41,141] [18 ] [INFO ] - Crawl for domain [http://www.appstatesports.com/SportSelect.dbml?DB_OEM_ID=21500&SPID=12810&SPSID=104457] completed successfully in [2.5002913] seconds, crawled [1] pages
+[2016-12-04 15:37:41,152] [21 ] [INFO ] - Crawl for domain [http://www.liberty.edu/flames/index.cfm?PID=10871&TeamID=18] completed successfully in [2.5002288] seconds, crawled [1] pages
+[2016-12-04 15:37:42,623] [20 ] [INFO ] - Crawl for domain [http://www.goterriers.com/sports/w-fieldh/mtt/bost-w-fieldh-mtt.html] completed successfully in [2.5005079] seconds, crawled [1] pages
+[2016-12-04 15:37:43,643] [18 ] [INFO ] - Crawl for domain [http://www.goleopards.com/sports/w-fieldh/mtt/lafa-w-fieldh-mtt.html] completed successfully in [2.5007241] seconds, crawled [1] pages
+[2016-12-04 15:37:43,653] [21 ] [INFO ] - Crawl for domain [http://www.bucknellbison.com/SportSelect.dbml?DB_OEM_ID=32100&SPID=137639&SPSID=848820] completed successfully in [2.5004588] seconds, crawled [1] pages
+[2016-12-04 15:37:45,129] [20 ] [INFO ] - Crawl for domain [http://gocolgateraiders.com/roster.aspx?path=fhockey] completed successfully in [2.5042295] seconds, crawled [1] pages
+[2016-12-04 15:37:45,950] [26 ] [INFO ] - Engine is still running...
+[2016-12-04 15:37:46,147] [18 ] [INFO ] - Crawl for domain [http://www.goholycross.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5005561] seconds, crawled [1] pages
+[2016-12-04 15:37:46,158] [21 ] [INFO ] - Crawl for domain [http://aueagles.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5017876] seconds, crawled [1] pages
+[2016-12-04 15:37:47,636] [20 ] [INFO ] - Crawl for domain [http://www.lehighsports.com/roster.aspx?path=fhockey] completed successfully in [2.5012072] seconds, crawled [1] pages
+[2016-12-04 15:37:47,637] [30 ] [INFO ] - All ISiteToCrawlConsumer threads have completed
+[2016-12-04 15:37:47,637] [30 ] [INFO ] - All crawls have completed
+[2016-12-04 16:26:37,998] [35 ] [INFO ] - Started [1] thread for reporting
+[2016-12-04 16:26:37,998] [27 ] [INFO ] - Engine is still running...
+[2016-12-04 16:26:37,998] [35 ] [INFO ] - Started [1] thread running ISiteToCrawlProducer of type [AbotX.Parallel.SiteToCrawlProducer]
+[2016-12-04 16:26:37,999] [33 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 16:26:37,999] [33 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 16:26:38,008] [35 ] [INFO ] - Started [3] threads running ISiteToCrawlConsumer of type [AbotX.Parallel.SiteToCrawlConsumer]
+[2016-12-04 16:26:40,503] [7  ] [INFO ] - Crawl for domain [http://unhwildcats.com/sports/fh/2014-15/roster] completed successfully in [2.5009819] seconds, crawled [1] pages
+[2016-12-04 16:26:40,507] [10 ] [INFO ] - Crawl for domain [http://www.goblackbears.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5012706] seconds, crawled [1] pages
+[2016-12-04 16:26:40,510] [32 ] [INFO ] - Crawl for domain [http://www.fairfieldstags.com/SportSelect.dbml?DB_OEM_ID=32500&SPID=137814&SPSID=893512] completed successfully in [2.5009298] seconds, crawled [1] pages
+[2016-12-04 16:26:42,999] [27 ] [INFO ] - Engine is still running...
+[2016-12-04 16:26:43,006] [7  ] [INFO ] - Crawl for domain [http://www.ualbanysports.com/SportSelect.dbml?&DB_OEM_ID=15800&SPID=7986&SPSID=70216] completed successfully in [2.5003766] seconds, crawled [1] pages
+[2016-12-04 16:26:43,009] [10 ] [INFO ] - Crawl for domain [http://uvmathletics.com/roster.aspx?path=fhockey] completed successfully in [2.5001475] seconds, crawled [1] pages
+[2016-12-04 16:26:43,012] [32 ] [INFO ] - Crawl for domain [http://www.goriverhawks.com/roster.aspx?path=fhockey] completed successfully in [2.5001882] seconds, crawled [1] pages
+[2016-12-04 16:26:45,507] [7  ] [INFO ] - Crawl for domain [http://www.sjuhawks.com/SportSelect.dbml?DB_OEM_ID=31200&SPID=127349&SPSID=820710] completed successfully in [2.5001341] seconds, crawled [1] pages
+[2016-12-04 16:26:45,510] [10 ] [INFO ] - Crawl for domain [http://www.richmondspiders.com/SportSelect.dbml?DB_OEM_ID=26800&SPID=94295&SPSID=635148] completed successfully in [2.5002355] seconds, crawled [1] pages
+[2016-12-04 16:26:45,513] [32 ] [INFO ] - Crawl for domain [http://www.umassathletics.com/sports/w-fieldh/mtt/umas-w-fieldh-mtt.html] completed successfully in [2.5002288] seconds, crawled [1] pages
+[2016-12-04 16:26:47,999] [27 ] [INFO ] - Engine is still running...
+[2016-12-04 16:26:48,011] [10 ] [INFO ] - Crawl for domain [http://www.goexplorers.com/roster.aspx?path=fhockey] completed successfully in [2.5002711] seconds, crawled [1] pages
+[2016-12-04 16:26:48,014] [32 ] [INFO ] - Crawl for domain [http://www.golhu.com/roster.aspx?path=fhockey] completed successfully in [2.5003629] seconds, crawled [1] pages
+[2016-12-04 16:26:50,513] [10 ] [INFO ] - Crawl for domain [http://www.vcuathletics.com/sports/fh/2014-15/roster] completed successfully in [2.5005985] seconds, crawled [1] pages
+[2016-12-04 16:26:50,516] [32 ] [INFO ] - Crawl for domain [http://www.sfuathletics.com/roster.aspx?path=fhockey] completed successfully in [2.5006692] seconds, crawled [1] pages
+[2016-12-04 16:26:52,999] [27 ] [INFO ] - Engine is still running...
+[2016-12-04 16:26:53,009] [7  ] [INFO ] - Crawl for domain [http://www.slubillikens.com/SportSelect.dbml?&DB_OEM_ID=27200&SPID=95895&SPSID=640267] completed successfully in [7.5007755] seconds, crawled [1] pages
+[2016-12-04 16:26:53,014] [10 ] [INFO ] - Crawl for domain [http://www.davidsonwildcats.com/roster.aspx?path=fhockey] completed successfully in [2.5005453] seconds, crawled [1] pages
+[2016-12-04 16:26:53,018] [32 ] [INFO ] - Crawl for domain [http://www.wakeforestsports.com/sports/w-fieldh/mtt/wake-w-fieldh-mtt.html] completed successfully in [2.5007522] seconds, crawled [1] pages
+[2016-12-04 16:26:54,002] [33 ] [INFO ] - Reported [16] completed site crawls
+[2016-12-04 16:26:54,002] [33 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 16:26:54,002] [33 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 16:26:55,510] [7  ] [INFO ] - Crawl for domain [http://www.virginiasports.com/sports/w-fieldh/mtt/va-w-fieldh-mtt.html] completed successfully in [2.5001399] seconds, crawled [1] pages
+[2016-12-04 16:26:55,516] [10 ] [INFO ] - Crawl for domain [http://www.goheels.com/SportSelect.dbml?SPSID=668169&SPID=12961] completed successfully in [2.5004997] seconds, crawled [1] pages
+[2016-12-04 16:26:55,519] [32 ] [INFO ] - Crawl for domain [http://www.bceagles.com/sports/w-fieldh/mtt/bc-w-fieldh-mtt.html] completed successfully in [2.5002752] seconds, crawled [1] pages
+[2016-12-04 16:26:58,000] [27 ] [INFO ] - Engine is still running...
+[2016-12-04 16:26:58,012] [7  ] [INFO ] - Crawl for domain [http://www.goduke.com/SportSelect.dbml?DB_LANG=C&DB_OEM_ID=4200&SPID=2029&SPSID=25945] completed successfully in [2.5003521] seconds, crawled [1] pages
+[2016-12-04 16:26:58,017] [10 ] [INFO ] - Crawl for domain [http://cuse.com/roster.aspx?path=fhockey] completed successfully in [2.5001724] seconds, crawled [1] pages
+[2016-12-04 16:26:58,021] [32 ] [INFO ] - Crawl for domain [http://www.gocards.com/sports/w-fieldh/mtt/lou-w-fieldh-mtt.html] completed successfully in [2.5007434] seconds, crawled [1] pages
+[2016-12-04 16:27:00,514] [7  ] [INFO ] - Crawl for domain [http://www.owlsports.com/roster.aspx?path=fhockey] completed successfully in [2.5002942] seconds, crawled [1] pages
+[2016-12-04 16:27:00,519] [10 ] [INFO ] - Crawl for domain [http://www.uconnhuskies.com/sports/w-fieldh/mtt/conn-w-fieldh-mtt.html] completed successfully in [2.5007872] seconds, crawled [1] pages
+[2016-12-04 16:27:00,522] [32 ] [INFO ] - Crawl for domain [http://www.friars.com/sports/w-fieldh/mtt/prov-w-fieldh-mtt.html] completed successfully in [2.5006975] seconds, crawled [1] pages
+[2016-12-04 16:27:03,000] [27 ] [INFO ] - Engine is still running...
+[2016-12-04 16:27:03,015] [7  ] [INFO ] - Crawl for domain [http://www.villanova.com/sports/w-fieldh/mtt/nova-w-fieldh-mtt.html] completed successfully in [2.5001227] seconds, crawled [1] pages
+[2016-12-04 16:27:03,021] [10 ] [INFO ] - Crawl for domain [http://www.guhoyas.com/sports/w-fieldh/mtt/gu-w-fieldh-mtt.html] completed successfully in [2.5004678] seconds, crawled [1] pages
+[2016-12-04 16:27:03,026] [32 ] [INFO ] - Crawl for domain [http://www.odusports.com/SportSelect.dbml?DB_OEM_ID=31100&SPID=127312&SPSID=750424] completed successfully in [2.5004769] seconds, crawled [1] pages
+[2016-12-04 16:27:05,516] [7  ] [INFO ] - Crawl for domain [http://www.umterps.com/SportSelect.dbml?&DB_OEM_ID=29700&SPID=120737&SPSID=751910] completed successfully in [2.5001633] seconds, crawled [1] pages
+[2016-12-04 16:27:05,522] [10 ] [INFO ] - Crawl for domain [http://www.scarletknights.com/fieldhockey/roster/roster.asp] completed successfully in [2.5001911] seconds, crawled [1] pages
+[2016-12-04 16:27:05,528] [32 ] [INFO ] - Crawl for domain [http://www.gopsusports.com/sports/w-fieldh/mtt/psu-w-fieldh-mtt.html] completed successfully in [2.5001116] seconds, crawled [1] pages
+[2016-12-04 16:27:08,000] [27 ] [INFO ] - Engine is still running...
+[2016-12-04 16:27:08,017] [7  ] [INFO ] - Crawl for domain [http://www.nusports.com/sports/w-fieldh/mtt/nw-w-fieldh-mtt.html] completed successfully in [2.5001116] seconds, crawled [1] pages
+[2016-12-04 16:27:08,024] [10 ] [INFO ] - Crawl for domain [http://www.hawkeyesports.com/sports/w-fieldh/mtt/iowa-w-fieldh-mtt.html] completed successfully in [2.5004763] seconds, crawled [1] pages
+[2016-12-04 16:27:08,029] [32 ] [INFO ] - Crawl for domain [http://www.ohiostatebuckeyes.com/sports/w-fieldh/mtt/osu-w-fieldh-mtt.html] completed successfully in [2.5002051] seconds, crawled [1] pages
+[2016-12-04 16:27:10,518] [7  ] [INFO ] - Crawl for domain [http://www.msuspartans.com/sports/w-fieldh/mtt/msu-w-fieldh-mtt.html] completed successfully in [2.500177] seconds, crawled [1] pages
+[2016-12-04 16:27:10,525] [10 ] [INFO ] - Crawl for domain [http://www.mgoblue.com/sports/w-fieldh/mtt/mich-w-fieldh-mtt.html] completed successfully in [2.5000996] seconds, crawled [1] pages
+[2016-12-04 16:27:13,000] [27 ] [INFO ] - Engine is still running...
+[2016-12-04 16:27:13,020] [7  ] [INFO ] - Crawl for domain [http://www.gonu.com/roster.aspx?path=fhockey] completed successfully in [2.5005786] seconds, crawled [1] pages
+[2016-12-04 16:27:13,026] [10 ] [INFO ] - Crawl for domain [http://www.drexeldragons.com/roster.aspx?path=fhock&] completed successfully in [2.50017] seconds, crawled [1] pages
+[2016-12-04 16:27:15,522] [7  ] [INFO ] - Crawl for domain [http://www.tribeathletics.com/SportSelect.dbml?SPID=83401&SPSID=608673] completed successfully in [2.5005982] seconds, crawled [1] pages
+[2016-12-04 16:27:15,533] [10 ] [INFO ] - Crawl for domain [http://www.gohofstra.com/SportSelect.dbml?DB_OEM_ID=22200&SPID=13581&SPSID=109570] completed successfully in [2.5005789] seconds, crawled [1] pages
+[2016-12-04 16:27:18,001] [27 ] [INFO ] - Engine is still running...
+[2016-12-04 16:27:18,026] [7  ] [INFO ] - Crawl for domain [http://www.bluehens.com/SportSelect.dbml?DB_OEM_ID=29100&SPID=109910&SPSID=852614] completed successfully in [2.5003936] seconds, crawled [1] pages
+[2016-12-04 16:27:18,034] [10 ] [INFO ] - Crawl for domain [http://www.towsontigers.com/roster.aspx?path=fhockey] completed successfully in [2.5006414] seconds, crawled [1] pages
+[2016-12-04 16:27:19,008] [33 ] [INFO ] - Reported [26] completed site crawls
+[2016-12-04 16:27:19,008] [33 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 16:27:19,008] [33 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 16:27:20,527] [7  ] [INFO ] - Crawl for domain [http://www.jmusports.com/roster.aspx?path=fhockey] completed successfully in [2.5001163] seconds, crawled [1] pages
+[2016-12-04 16:27:20,536] [10 ] [INFO ] - Crawl for domain [http://www.goprincetontigers.com/SportSelect.dbml?SPID=4274&SPSID=46912] completed successfully in [2.5009541] seconds, crawled [1] pages
+[2016-12-04 16:27:23,001] [27 ] [INFO ] - Engine is still running...
+[2016-12-04 16:27:23,028] [7  ] [INFO ] - Crawl for domain [http://www.brownbears.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5001361] seconds, crawled [1] pages
+[2016-12-04 16:27:23,038] [10 ] [INFO ] - Crawl for domain [http://www.yalebulldogs.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5002299] seconds, crawled [1] pages
+[2016-12-04 16:27:25,530] [7  ] [INFO ] - Crawl for domain [http://www.gocrimson.com/sports/fh/2014-15/roster] completed successfully in [2.5005733] seconds, crawled [1] pages
+[2016-12-04 16:27:25,540] [10 ] [INFO ] - Crawl for domain [http://www.dartmouthsports.com/SportSelect.dbml?DB_OEM_ID=11600&SPID=4732&SPSID=48955] completed successfully in [2.5002653] seconds, crawled [1] pages
+[2016-12-04 16:27:28,001] [27 ] [INFO ] - Engine is still running...
+[2016-12-04 16:27:28,031] [7  ] [INFO ] - Crawl for domain [http://www.gocolumbialions.com/SportSelect.dbml?DB_OEM_ID=9600&SPID=4050&SPSID=45285] completed successfully in [2.5005742] seconds, crawled [1] pages
+[2016-12-04 16:27:28,041] [10 ] [INFO ] - Crawl for domain [http://www.pennathletics.com/SportSelect.dbml?SPID=609&SPSID=10583] completed successfully in [2.5006268] seconds, crawled [1] pages
+[2016-12-04 16:27:30,533] [7  ] [INFO ] - Crawl for domain [http://www.cornellbigred.com/roster.aspx?path=fhockey&] completed successfully in [2.5002633] seconds, crawled [1] pages
+[2016-12-04 16:27:30,543] [10 ] [INFO ] - Crawl for domain [http://www.gobroncs.com/SportSelect.dbml?SPID=11865&SPSID=96680] completed successfully in [2.5001204] seconds, crawled [1] pages
+[2016-12-04 16:27:33,002] [27 ] [INFO ] - Engine is still running...
+[2016-12-04 16:27:33,035] [7  ] [INFO ] - Crawl for domain [http://www.quinnipiacbobcats.com/sports/fh/2014-15/roster] completed successfully in [2.5005891] seconds, crawled [1] pages
+[2016-12-04 16:27:33,045] [10 ] [INFO ] - Crawl for domain [http://www.bryantbulldogs.com/sports/fh/2014-15/roster] completed successfully in [2.5009062] seconds, crawled [1] pages
+[2016-12-04 16:27:35,536] [7  ] [INFO ] - Crawl for domain [http://www.sienasaints.com/sports/w-fieldh/mtt/sien-w-fieldh-mtt.html] completed successfully in [2.5005625] seconds, crawled [1] pages
+[2016-12-04 16:27:35,547] [10 ] [INFO ] - Crawl for domain [http://www.monmouthhawks.com/SportSelect.dbml?SPSID=67812&SPID=7663] completed successfully in [2.5006309] seconds, crawled [1] pages
+[2016-12-04 16:27:38,002] [27 ] [INFO ] - Engine is still running...
+[2016-12-04 16:27:38,038] [7  ] [INFO ] - Crawl for domain [http://sacredheartpioneers.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5001174] seconds, crawled [1] pages
+[2016-12-04 16:27:38,049] [10 ] [INFO ] - Crawl for domain [http://www.muredhawks.com/SportSelect.dbml?SPID=108398&SPSID=668518] completed successfully in [2.5005195] seconds, crawled [1] pages
+[2016-12-04 16:27:40,539] [7  ] [INFO ] - Crawl for domain [http://www.cmuchippewas.com/sports/w-fieldh/mtt/cmu-w-fieldh-mtt.html] completed successfully in [2.5001548] seconds, crawled [1] pages
+[2016-12-04 16:27:40,550] [10 ] [INFO ] - Crawl for domain [http://www.missouristatebears.com/sports/w-fieldh/mtt/mosu-w-fieldh-mtt.html] completed successfully in [2.5006253] seconds, crawled [1] pages
+[2016-12-04 16:27:43,002] [27 ] [INFO ] - Engine is still running...
+[2016-12-04 16:27:43,040] [7  ] [INFO ] - Crawl for domain [http://ballstatesports.com/SportSelect.dbml?DB_OEM_ID=14200&SPID=7632&SPSID=67654] completed successfully in [2.5001008] seconds, crawled [1] pages
+[2016-12-04 16:27:43,052] [10 ] [INFO ] - Crawl for domain [http://www.ohiobobcats.com/sports/w-fieldh/mtt/ohio-w-fieldh-mtt.html] completed successfully in [2.5007075] seconds, crawled [1] pages
+[2016-12-04 16:27:45,542] [7  ] [INFO ] - Crawl for domain [http://www.kentstatesports.com/roster.aspx?path=fhockey] completed successfully in [2.5004564] seconds, crawled [1] pages
+[2016-12-04 16:27:45,554] [10 ] [INFO ] - Crawl for domain [http://longwoodlancers.com/roster.aspx?path=fhockey] completed successfully in [2.5002115] seconds, crawled [1] pages
+[2016-12-04 16:27:48,003] [27 ] [INFO ] - Engine is still running...
+[2016-12-04 16:27:48,045] [7  ] [INFO ] - Crawl for domain [http://www.gostanford.com/SportSelect.dbml?DB_OEM_ID=30600&SPID=131108&SPSID=770512] completed successfully in [2.5005377] seconds, crawled [1] pages
+[2016-12-04 16:27:48,055] [10 ] [INFO ] - Crawl for domain [http://www.calbears.com/SportSelect.dbml?DB_OEM_ID=30100&SPID=126512&SPSID=749424] completed successfully in [2.5001385] seconds, crawled [1] pages
+[2016-12-04 16:27:49,014] [33 ] [INFO ] - Reported [24] completed site crawls
+[2016-12-04 16:27:49,014] [33 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 16:27:49,014] [33 ] [INFO ] - Retrieved [3] sites to crawl
+[2016-12-04 16:27:49,014] [33 ] [INFO ] - ISiteToCrawlProvider [AbotX.Parallel.SiteToCrawlProvider] is reporting that it is complete. Will not make anymore requests for sites to crawl.
+[2016-12-04 16:27:50,014] [44 ] [INFO ] - All ISiteToCrawlProducer threads have completed
+[2016-12-04 16:27:50,546] [7  ] [INFO ] - Crawl for domain [http://www.ucdavisaggies.com/sports/w-fieldh/mtt/ucda-w-fieldh-mtt.html] completed successfully in [2.5005578] seconds, crawled [1] pages
+[2016-12-04 16:27:50,556] [10 ] [INFO ] - Crawl for domain [http://www.pacifictigers.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5001405] seconds, crawled [1] pages
+[2016-12-04 16:27:51,382] [32 ] [INFO ] - Crawl for domain [http://www.iuhoosiers.com/sports/w-fieldh/mtt/ind-w-fieldh-mtt.html] completed successfully in [43.3524665] seconds, crawled [245] pages
+[2016-12-04 16:27:53,003] [27 ] [INFO ] - Engine is still running...
+[2016-12-04 16:27:53,047] [7  ] [INFO ] - Crawl for domain [http://www.appstatesports.com/SportSelect.dbml?DB_OEM_ID=21500&SPID=12810&SPSID=104457] completed successfully in [2.5001443] seconds, crawled [1] pages
+[2016-12-04 16:27:53,057] [10 ] [INFO ] - Crawl for domain [http://www.liberty.edu/flames/index.cfm?PID=10871&TeamID=18] completed successfully in [2.5001195] seconds, crawled [1] pages
+[2016-12-04 16:27:53,883] [32 ] [INFO ] - Crawl for domain [http://www.goterriers.com/sports/w-fieldh/mtt/bost-w-fieldh-mtt.html] completed successfully in [2.5001537] seconds, crawled [1] pages
+[2016-12-04 16:27:55,549] [7  ] [INFO ] - Crawl for domain [http://www.goleopards.com/sports/w-fieldh/mtt/lafa-w-fieldh-mtt.html] completed successfully in [2.5005681] seconds, crawled [1] pages
+[2016-12-04 16:27:56,384] [32 ] [INFO ] - Crawl for domain [http://gocolgateraiders.com/roster.aspx?path=fhockey] completed successfully in [2.5001472] seconds, crawled [1] pages
+[2016-12-04 16:27:58,004] [27 ] [INFO ] - Engine is still running...
+[2016-12-04 16:27:58,051] [7  ] [INFO ] - Crawl for domain [http://www.goholycross.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5006405] seconds, crawled [1] pages
+[2016-12-04 16:27:58,059] [10 ] [INFO ] - Crawl for domain [http://www.bucknellbison.com/SportSelect.dbml?DB_OEM_ID=32100&SPID=137639&SPSID=848820] completed successfully in [5.0007545] seconds, crawled [1] pages
+[2016-12-04 16:27:58,886] [32 ] [INFO ] - Crawl for domain [http://aueagles.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.500576] seconds, crawled [1] pages
+[2016-12-04 16:28:00,553] [7  ] [INFO ] - Crawl for domain [http://www.lehighsports.com/roster.aspx?path=fhockey] completed successfully in [2.5010777] seconds, crawled [1] pages
+[2016-12-04 16:28:00,554] [35 ] [INFO ] - All ISiteToCrawlConsumer threads have completed
+[2016-12-04 16:28:00,554] [35 ] [INFO ] - All crawls have completed
+[2016-12-04 16:29:12,323] [39 ] [INFO ] - Started [1] thread for reporting
+[2016-12-04 16:29:12,323] [38 ] [INFO ] - Engine is still running...
+[2016-12-04 16:29:12,351] [39 ] [INFO ] - Started [1] thread running ISiteToCrawlProducer of type [AbotX.Parallel.SiteToCrawlProducer]
+[2016-12-04 16:29:12,354] [18 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 16:29:12,355] [18 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 16:29:12,357] [39 ] [INFO ] - Started [3] threads running ISiteToCrawlConsumer of type [AbotX.Parallel.SiteToCrawlConsumer]
+[2016-12-04 16:29:14,885] [20 ] [INFO ] - Crawl for domain [http://unhwildcats.com/sports/fh/2014-15/roster] completed successfully in [2.5140566] seconds, crawled [1] pages
+[2016-12-04 16:29:14,906] [21 ] [INFO ] - Crawl for domain [http://www.goblackbears.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.535927] seconds, crawled [1] pages
+[2016-12-04 16:29:14,980] [24 ] [INFO ] - Crawl for domain [http://www.fairfieldstags.com/SportSelect.dbml?DB_OEM_ID=32500&SPID=137814&SPSID=893512] completed successfully in [2.5913186] seconds, crawled [1] pages
+[2016-12-04 16:29:17,351] [38 ] [INFO ] - Engine is still running...
+[2016-12-04 16:29:17,409] [20 ] [INFO ] - Crawl for domain [http://www.ualbanysports.com/SportSelect.dbml?&DB_OEM_ID=15800&SPID=7986&SPSID=70216] completed successfully in [2.5004272] seconds, crawled [1] pages
+[2016-12-04 16:29:17,409] [21 ] [INFO ] - Crawl for domain [http://uvmathletics.com/roster.aspx?path=fhockey] completed successfully in [2.5004488] seconds, crawled [1] pages
+[2016-12-04 16:29:17,482] [24 ] [INFO ] - Crawl for domain [http://www.goriverhawks.com/roster.aspx?path=fhockey] completed successfully in [2.5005935] seconds, crawled [1] pages
+[2016-12-04 16:29:19,910] [20 ] [INFO ] - Crawl for domain [http://www.sjuhawks.com/SportSelect.dbml?DB_OEM_ID=31200&SPID=127349&SPSID=820710] completed successfully in [2.500291] seconds, crawled [1] pages
+[2016-12-04 16:29:19,911] [21 ] [INFO ] - Crawl for domain [http://www.richmondspiders.com/SportSelect.dbml?DB_OEM_ID=26800&SPID=94295&SPSID=635148] completed successfully in [2.5001689] seconds, crawled [1] pages
+[2016-12-04 16:29:19,983] [24 ] [INFO ] - Crawl for domain [http://www.umassathletics.com/sports/w-fieldh/mtt/umas-w-fieldh-mtt.html] completed successfully in [2.500602] seconds, crawled [1] pages
+[2016-12-04 16:29:22,351] [38 ] [INFO ] - Engine is still running...
+[2016-12-04 16:29:22,412] [20 ] [INFO ] - Crawl for domain [http://www.slubillikens.com/SportSelect.dbml?&DB_OEM_ID=27200&SPID=95895&SPSID=640267] completed successfully in [2.5002355] seconds, crawled [1] pages
+[2016-12-04 16:29:22,413] [21 ] [INFO ] - Crawl for domain [http://www.goexplorers.com/roster.aspx?path=fhockey] completed successfully in [2.5004757] seconds, crawled [1] pages
+[2016-12-04 16:29:22,484] [24 ] [INFO ] - Crawl for domain [http://www.golhu.com/roster.aspx?path=fhockey] completed successfully in [2.5001166] seconds, crawled [1] pages
+[2016-12-04 16:29:24,914] [20 ] [INFO ] - Crawl for domain [http://www.vcuathletics.com/sports/fh/2014-15/roster] completed successfully in [2.5002536] seconds, crawled [1] pages
+[2016-12-04 16:29:24,915] [21 ] [INFO ] - Crawl for domain [http://www.sfuathletics.com/roster.aspx?path=fhockey] completed successfully in [2.5007665] seconds, crawled [1] pages
+[2016-12-04 16:29:24,985] [24 ] [INFO ] - Crawl for domain [http://www.davidsonwildcats.com/roster.aspx?path=fhockey] completed successfully in [2.5001998] seconds, crawled [1] pages
+[2016-12-04 16:29:27,352] [38 ] [INFO ] - Engine is still running...
+[2016-12-04 16:29:27,415] [20 ] [INFO ] - Crawl for domain [http://www.wakeforestsports.com/sports/w-fieldh/mtt/wake-w-fieldh-mtt.html] completed successfully in [2.5006233] seconds, crawled [1] pages
+[2016-12-04 16:29:27,416] [21 ] [INFO ] - Crawl for domain [http://www.virginiasports.com/sports/w-fieldh/mtt/va-w-fieldh-mtt.html] completed successfully in [2.5005076] seconds, crawled [1] pages
+[2016-12-04 16:29:27,487] [24 ] [INFO ] - Crawl for domain [http://www.goheels.com/SportSelect.dbml?SPSID=668169&SPID=12961] completed successfully in [2.5001458] seconds, crawled [1] pages
+[2016-12-04 16:29:28,360] [18 ] [INFO ] - Reported [18] completed site crawls
+[2016-12-04 16:29:28,360] [18 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 16:29:28,360] [18 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 16:29:29,917] [20 ] [INFO ] - Crawl for domain [http://www.bceagles.com/sports/w-fieldh/mtt/bc-w-fieldh-mtt.html] completed successfully in [2.500701] seconds, crawled [1] pages
+[2016-12-04 16:29:29,918] [21 ] [INFO ] - Crawl for domain [http://www.goduke.com/SportSelect.dbml?DB_LANG=C&DB_OEM_ID=4200&SPID=2029&SPSID=25945] completed successfully in [2.5002939] seconds, crawled [1] pages
+[2016-12-04 16:29:29,988] [24 ] [INFO ] - Crawl for domain [http://cuse.com/roster.aspx?path=fhockey] completed successfully in [2.5002136] seconds, crawled [1] pages
+[2016-12-04 16:29:45,510] [21 ] [INFO ] - Crawl for domain [http://www.owlsports.com/roster.aspx?path=fhockey] completed successfully in [15.5904104] seconds, crawled [1] pages
+[2016-12-04 16:29:45,512] [38 ] [INFO ] - Engine is still running...
+[2016-12-04 16:29:48,006] [24 ] [INFO ] - Crawl for domain [http://www.uconnhuskies.com/sports/w-fieldh/mtt/conn-w-fieldh-mtt.html] completed successfully in [18.0153895] seconds, crawled [1] pages
+[2016-12-04 16:29:48,013] [20 ] [INFO ] - Crawl for domain [http://www.gocards.com/sports/w-fieldh/mtt/lou-w-fieldh-mtt.html] completed successfully in [18.0943886] seconds, crawled [1] pages
+[2016-12-04 16:29:48,034] [21 ] [INFO ] - Crawl for domain [http://www.friars.com/sports/w-fieldh/mtt/prov-w-fieldh-mtt.html] completed successfully in [2.5028393] seconds, crawled [1] pages
+[2016-12-04 16:29:50,508] [24 ] [INFO ] - Crawl for domain [http://www.villanova.com/sports/w-fieldh/mtt/nova-w-fieldh-mtt.html] completed successfully in [2.500675] seconds, crawled [1] pages
+[2016-12-04 16:29:50,512] [38 ] [INFO ] - Engine is still running...
+[2016-12-04 16:29:50,514] [20 ] [INFO ] - Crawl for domain [http://www.guhoyas.com/sports/w-fieldh/mtt/gu-w-fieldh-mtt.html] completed successfully in [2.500213] seconds, crawled [1] pages
+[2016-12-04 16:29:50,536] [21 ] [INFO ] - Crawl for domain [http://www.odusports.com/SportSelect.dbml?DB_OEM_ID=31100&SPID=127312&SPSID=750424] completed successfully in [2.5001317] seconds, crawled [1] pages
+[2016-12-04 16:37:25,035] [6  ] [INFO ] - Started [1] thread for reporting
+[2016-12-04 16:37:25,035] [10 ] [INFO ] - Engine is still running...
+[2016-12-04 16:37:25,062] [6  ] [INFO ] - Started [1] thread running ISiteToCrawlProducer of type [AbotX.Parallel.SiteToCrawlProducer]
+[2016-12-04 16:37:25,066] [6  ] [INFO ] - Started [3] threads running ISiteToCrawlConsumer of type [AbotX.Parallel.SiteToCrawlConsumer]
+[2016-12-04 16:37:25,067] [11 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 16:37:25,067] [11 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 16:37:27,595] [12 ] [INFO ] - Crawl for domain [http://unhwildcats.com/sports/fh/2014-15/roster] completed successfully in [2.5115182] seconds, crawled [1] pages
+[2016-12-04 16:37:27,595] [13 ] [INFO ] - Crawl for domain [http://www.goblackbears.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5113288] seconds, crawled [1] pages
+[2016-12-04 16:37:27,999] [14 ] [INFO ] - Crawl for domain [http://www.fairfieldstags.com/SportSelect.dbml?DB_OEM_ID=32500&SPID=137814&SPSID=893512] completed successfully in [2.915894] seconds, crawled [1] pages
+[2016-12-04 16:37:30,063] [10 ] [INFO ] - Engine is still running...
+[2016-12-04 16:37:30,117] [13 ] [INFO ] - Crawl for domain [http://uvmathletics.com/roster.aspx?path=fhockey] completed successfully in [2.5004775] seconds, crawled [1] pages
+[2016-12-04 16:37:30,118] [12 ] [INFO ] - Crawl for domain [http://www.ualbanysports.com/SportSelect.dbml?&DB_OEM_ID=15800&SPID=7986&SPSID=70216] completed successfully in [2.5007194] seconds, crawled [1] pages
+[2016-12-04 16:37:30,501] [14 ] [INFO ] - Crawl for domain [http://www.goriverhawks.com/roster.aspx?path=fhockey] completed successfully in [2.5010479] seconds, crawled [1] pages
+[2016-12-04 16:37:32,620] [13 ] [INFO ] - Crawl for domain [http://www.sjuhawks.com/SportSelect.dbml?DB_OEM_ID=31200&SPID=127349&SPSID=820710] completed successfully in [2.5003477] seconds, crawled [1] pages
+[2016-12-04 16:37:32,621] [12 ] [INFO ] - Crawl for domain [http://www.richmondspiders.com/SportSelect.dbml?DB_OEM_ID=26800&SPID=94295&SPSID=635148] completed successfully in [2.5001829] seconds, crawled [1] pages
+[2016-12-04 16:37:33,003] [14 ] [INFO ] - Crawl for domain [http://www.umassathletics.com/sports/w-fieldh/mtt/umas-w-fieldh-mtt.html] completed successfully in [2.5001826] seconds, crawled [1] pages
+[2016-12-04 16:37:35,064] [10 ] [INFO ] - Engine is still running...
+[2016-12-04 16:37:35,143] [13 ] [INFO ] - Crawl for domain [http://www.slubillikens.com/SportSelect.dbml?&DB_OEM_ID=27200&SPID=95895&SPSID=640267] completed successfully in [2.5004596] seconds, crawled [1] pages
+[2016-12-04 16:37:35,144] [12 ] [INFO ] - Crawl for domain [http://www.goexplorers.com/roster.aspx?path=fhockey] completed successfully in [2.5007007] seconds, crawled [1] pages
+[2016-12-04 16:37:35,504] [14 ] [INFO ] - Crawl for domain [http://www.golhu.com/roster.aspx?path=fhockey] completed successfully in [2.5006718] seconds, crawled [1] pages
+[2016-12-04 16:37:37,666] [13 ] [INFO ] - Crawl for domain [http://www.vcuathletics.com/sports/fh/2014-15/roster] completed successfully in [2.500208] seconds, crawled [1] pages
+[2016-12-04 16:37:37,687] [12 ] [INFO ] - Crawl for domain [http://www.sfuathletics.com/roster.aspx?path=fhockey] completed successfully in [2.5198274] seconds, crawled [1] pages
+[2016-12-04 16:37:38,005] [14 ] [INFO ] - Crawl for domain [http://www.davidsonwildcats.com/roster.aspx?path=fhockey] completed successfully in [2.5001581] seconds, crawled [1] pages
+[2016-12-04 16:37:40,064] [10 ] [INFO ] - Engine is still running...
+[2016-12-04 16:37:40,191] [12 ] [INFO ] - Crawl for domain [http://www.virginiasports.com/sports/w-fieldh/mtt/va-w-fieldh-mtt.html] completed successfully in [2.5004818] seconds, crawled [1] pages
+[2016-12-04 16:37:40,192] [13 ] [INFO ] - Crawl for domain [http://www.wakeforestsports.com/sports/w-fieldh/mtt/wake-w-fieldh-mtt.html] completed successfully in [2.5005947] seconds, crawled [1] pages
+[2016-12-04 16:37:40,509] [14 ] [INFO ] - Crawl for domain [http://www.goheels.com/SportSelect.dbml?SPSID=668169&SPID=12961] completed successfully in [2.5006589] seconds, crawled [1] pages
+[2016-12-04 16:37:41,076] [11 ] [INFO ] - Reported [18] completed site crawls
+[2016-12-04 16:37:41,076] [11 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 16:37:41,076] [11 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 16:37:42,693] [12 ] [INFO ] - Crawl for domain [http://www.bceagles.com/sports/w-fieldh/mtt/bc-w-fieldh-mtt.html] completed successfully in [2.5009258] seconds, crawled [1] pages
+[2016-12-04 16:37:42,714] [13 ] [INFO ] - Crawl for domain [http://www.goduke.com/SportSelect.dbml?DB_LANG=C&DB_OEM_ID=4200&SPID=2029&SPSID=25945] completed successfully in [2.5003708] seconds, crawled [1] pages
+[2016-12-04 16:37:43,010] [14 ] [INFO ] - Crawl for domain [http://cuse.com/roster.aspx?path=fhockey] completed successfully in [2.5001855] seconds, crawled [1] pages
+[2016-12-04 16:37:45,064] [10 ] [INFO ] - Engine is still running...
+[2016-12-04 16:37:45,194] [12 ] [INFO ] - Crawl for domain [http://www.gocards.com/sports/w-fieldh/mtt/lou-w-fieldh-mtt.html] completed successfully in [2.5006212] seconds, crawled [1] pages
+[2016-12-04 16:37:45,216] [13 ] [INFO ] - Crawl for domain [http://www.owlsports.com/roster.aspx?path=fhockey] completed successfully in [2.5009506] seconds, crawled [1] pages
+[2016-12-04 16:37:45,511] [14 ] [INFO ] - Crawl for domain [http://www.uconnhuskies.com/sports/w-fieldh/mtt/conn-w-fieldh-mtt.html] completed successfully in [2.5001715] seconds, crawled [1] pages
+[2016-12-04 16:37:47,713] [12 ] [INFO ] - Crawl for domain [http://www.friars.com/sports/w-fieldh/mtt/prov-w-fieldh-mtt.html] completed successfully in [2.5171558] seconds, crawled [1] pages
+[2016-12-04 16:37:47,721] [13 ] [INFO ] - Crawl for domain [http://www.villanova.com/sports/w-fieldh/mtt/nova-w-fieldh-mtt.html] completed successfully in [2.504276] seconds, crawled [1] pages
+[2016-12-04 16:37:48,012] [14 ] [INFO ] - Crawl for domain [http://www.guhoyas.com/sports/w-fieldh/mtt/gu-w-fieldh-mtt.html] completed successfully in [2.5001583] seconds, crawled [1] pages
+[2016-12-04 16:37:50,064] [10 ] [INFO ] - Engine is still running...
+[2016-12-04 16:37:50,246] [12 ] [INFO ] - Crawl for domain [http://www.odusports.com/SportSelect.dbml?DB_OEM_ID=31100&SPID=127312&SPSID=750424] completed successfully in [2.5005853] seconds, crawled [1] pages
+[2016-12-04 16:37:50,248] [13 ] [INFO ] - Crawl for domain [http://www.umterps.com/SportSelect.dbml?&DB_OEM_ID=29700&SPID=120737&SPSID=751910] completed successfully in [2.5016809] seconds, crawled [1] pages
+[2016-12-04 16:37:50,513] [14 ] [INFO ] - Crawl for domain [http://www.scarletknights.com/fieldhockey/roster/roster.asp] completed successfully in [2.5001694] seconds, crawled [1] pages
+[2016-12-04 16:37:52,747] [12 ] [INFO ] - Crawl for domain [http://www.gopsusports.com/sports/w-fieldh/mtt/psu-w-fieldh-mtt.html] completed successfully in [2.50026] seconds, crawled [1] pages
+[2016-12-04 16:37:52,758] [13 ] [INFO ] - Crawl for domain [http://www.nusports.com/sports/w-fieldh/mtt/nw-w-fieldh-mtt.html] completed successfully in [2.5011943] seconds, crawled [1] pages
+[2016-12-04 16:37:53,014] [14 ] [INFO ] - Crawl for domain [http://www.hawkeyesports.com/sports/w-fieldh/mtt/iowa-w-fieldh-mtt.html] completed successfully in [2.5001277] seconds, crawled [1] pages
+[2016-12-04 16:37:55,065] [10 ] [INFO ] - Engine is still running...
+[2016-12-04 16:37:55,251] [12 ] [INFO ] - Crawl for domain [http://www.ohiostatebuckeyes.com/sports/w-fieldh/mtt/osu-w-fieldh-mtt.html] completed successfully in [2.5006566] seconds, crawled [1] pages
+[2016-12-04 16:37:55,259] [13 ] [INFO ] - Crawl for domain [http://www.msuspartans.com/sports/w-fieldh/mtt/msu-w-fieldh-mtt.html] completed successfully in [2.5002285] seconds, crawled [1] pages
+[2016-12-04 16:37:55,515] [14 ] [INFO ] - Crawl for domain [http://www.mgoblue.com/sports/w-fieldh/mtt/mich-w-fieldh-mtt.html] completed successfully in [2.5002127] seconds, crawled [1] pages
+[2016-12-04 16:37:57,760] [13 ] [INFO ] - Crawl for domain [http://www.gonu.com/roster.aspx?path=fhockey] completed successfully in [2.50018] seconds, crawled [1] pages
+[2016-12-04 16:37:58,018] [14 ] [INFO ] - Crawl for domain [http://www.drexeldragons.com/roster.aspx?path=fhock&] completed successfully in [2.5001887] seconds, crawled [1] pages
+[2016-12-04 16:38:00,065] [10 ] [INFO ] - Engine is still running...
+[2016-12-04 16:38:01,863] [13 ] [INFO ] - Crawl for domain [http://www.tribeathletics.com/SportSelect.dbml?SPID=83401&SPSID=608673] completed successfully in [4.1015881] seconds, crawled [1] pages
+[2016-12-04 16:38:02,205] [14 ] [INFO ] - Crawl for domain [http://www.gohofstra.com/SportSelect.dbml?DB_OEM_ID=22200&SPID=13581&SPSID=109570] completed successfully in [4.1859162] seconds, crawled [1] pages
+[2016-12-04 16:38:05,065] [10 ] [INFO ] - Engine is still running...
+[2016-12-04 16:38:05,429] [13 ] [INFO ] - Crawl for domain [http://www.bluehens.com/SportSelect.dbml?DB_OEM_ID=29100&SPID=109910&SPSID=852614] completed successfully in [3.5643357] seconds, crawled [1] pages
+[2016-12-04 16:38:05,451] [14 ] [INFO ] - Crawl for domain [http://www.towsontigers.com/roster.aspx?path=fhockey] completed successfully in [3.2440726] seconds, crawled [1] pages
+[2016-12-04 16:38:06,081] [11 ] [INFO ] - Reported [24] completed site crawls
+[2016-12-04 16:38:06,081] [11 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 16:38:06,081] [11 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 16:38:08,585] [13 ] [INFO ] - Crawl for domain [http://www.jmusports.com/roster.aspx?path=fhockey] completed successfully in [3.1551611] seconds, crawled [1] pages
+[2016-12-04 16:38:09,020] [14 ] [INFO ] - Crawl for domain [http://www.goprincetontigers.com/SportSelect.dbml?SPID=4274&SPSID=46912] completed successfully in [3.5677991] seconds, crawled [1] pages
+[2016-12-04 16:38:10,066] [10 ] [INFO ] - Engine is still running...
+[2016-12-04 16:38:12,288] [13 ] [INFO ] - Crawl for domain [http://www.brownbears.com/sports/w-fieldh/2014-15/roster] completed successfully in [3.7014177] seconds, crawled [1] pages
+[2016-12-04 16:38:12,291] [14 ] [INFO ] - Crawl for domain [http://www.yalebulldogs.com/sports/w-fieldh/2014-15/roster] completed successfully in [3.2703939] seconds, crawled [1] pages
+[2016-12-04 16:38:14,805] [13 ] [INFO ] - Crawl for domain [http://www.gocrimson.com/sports/fh/2014-15/roster] completed successfully in [2.500348] seconds, crawled [1] pages
+[2016-12-04 16:38:14,813] [14 ] [INFO ] - Crawl for domain [http://www.dartmouthsports.com/SportSelect.dbml?DB_OEM_ID=11600&SPID=4732&SPSID=48955] completed successfully in [2.5061627] seconds, crawled [1] pages
+[2016-12-04 16:38:15,066] [10 ] [INFO ] - Engine is still running...
+[2016-12-04 16:38:17,306] [13 ] [INFO ] - Crawl for domain [http://www.gocolumbialions.com/SportSelect.dbml?DB_OEM_ID=9600&SPID=4050&SPSID=45285] completed successfully in [2.5005327] seconds, crawled [1] pages
+[2016-12-04 16:38:17,315] [14 ] [INFO ] - Crawl for domain [http://www.pennathletics.com/SportSelect.dbml?SPID=609&SPSID=10583] completed successfully in [2.5004912] seconds, crawled [1] pages
+[2016-12-04 16:38:19,808] [13 ] [INFO ] - Crawl for domain [http://www.cornellbigred.com/roster.aspx?path=fhockey&] completed successfully in [2.5003313] seconds, crawled [1] pages
+[2016-12-04 16:38:19,817] [14 ] [INFO ] - Crawl for domain [http://www.gobroncs.com/SportSelect.dbml?SPID=11865&SPSID=96680] completed successfully in [2.5005532] seconds, crawled [1] pages
+[2016-12-04 16:38:20,066] [10 ] [INFO ] - Engine is still running...
+[2016-12-04 16:38:22,311] [13 ] [INFO ] - Crawl for domain [http://www.quinnipiacbobcats.com/sports/fh/2014-15/roster] completed successfully in [2.5011312] seconds, crawled [1] pages
+[2016-12-04 16:38:22,339] [14 ] [INFO ] - Crawl for domain [http://www.bryantbulldogs.com/sports/fh/2014-15/roster] completed successfully in [2.5215902] seconds, crawled [1] pages
+[2016-12-04 16:38:24,208] [12 ] [INFO ] - Crawl for domain [http://www.iuhoosiers.com/sports/w-fieldh/mtt/ind-w-fieldh-mtt.html] completed successfully in [28.9555594] seconds, crawled [245] pages
+[2016-12-04 16:38:24,812] [13 ] [INFO ] - Crawl for domain [http://www.sienasaints.com/sports/w-fieldh/mtt/sien-w-fieldh-mtt.html] completed successfully in [2.500125] seconds, crawled [1] pages
+[2016-12-04 16:38:24,841] [14 ] [INFO ] - Crawl for domain [http://www.monmouthhawks.com/SportSelect.dbml?SPSID=67812&SPID=7663] completed successfully in [2.5005511] seconds, crawled [1] pages
+[2016-12-04 16:38:25,067] [10 ] [INFO ] - Engine is still running...
+[2016-12-04 16:38:26,709] [12 ] [INFO ] - Crawl for domain [http://sacredheartpioneers.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5005856] seconds, crawled [1] pages
+[2016-12-04 16:38:27,314] [13 ] [INFO ] - Crawl for domain [http://www.muredhawks.com/SportSelect.dbml?SPID=108398&SPSID=668518] completed successfully in [2.5005438] seconds, crawled [1] pages
+[2016-12-04 16:38:27,344] [14 ] [INFO ] - Crawl for domain [http://www.cmuchippewas.com/sports/w-fieldh/mtt/cmu-w-fieldh-mtt.html] completed successfully in [2.5012192] seconds, crawled [1] pages
+[2016-12-04 16:38:29,212] [12 ] [INFO ] - Crawl for domain [http://www.missouristatebears.com/sports/w-fieldh/mtt/mosu-w-fieldh-mtt.html] completed successfully in [2.5010503] seconds, crawled [1] pages
+[2016-12-04 16:38:29,815] [13 ] [INFO ] - Crawl for domain [http://ballstatesports.com/SportSelect.dbml?DB_OEM_ID=14200&SPID=7632&SPSID=67654] completed successfully in [2.500106] seconds, crawled [1] pages
+[2016-12-04 16:38:29,845] [14 ] [INFO ] - Crawl for domain [http://www.ohiobobcats.com/sports/w-fieldh/mtt/ohio-w-fieldh-mtt.html] completed successfully in [2.5001104] seconds, crawled [1] pages
+[2016-12-04 16:38:30,067] [10 ] [INFO ] - Engine is still running...
+[2016-12-04 16:38:31,714] [12 ] [INFO ] - Crawl for domain [http://www.kentstatesports.com/roster.aspx?path=fhockey] completed successfully in [2.5002872] seconds, crawled [1] pages
+[2016-12-04 16:38:32,317] [13 ] [INFO ] - Crawl for domain [http://longwoodlancers.com/roster.aspx?path=fhockey] completed successfully in [2.5005149] seconds, crawled [1] pages
+[2016-12-04 16:38:32,346] [14 ] [INFO ] - Crawl for domain [http://www.gostanford.com/SportSelect.dbml?DB_OEM_ID=30600&SPID=131108&SPSID=770512] completed successfully in [2.5005847] seconds, crawled [1] pages
+[2016-12-04 16:38:33,089] [11 ] [INFO ] - Reported [24] completed site crawls
+[2016-12-04 16:38:33,089] [11 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 16:38:33,089] [11 ] [INFO ] - Retrieved [3] sites to crawl
+[2016-12-04 16:38:33,089] [11 ] [INFO ] - ISiteToCrawlProvider [AbotX.Parallel.SiteToCrawlProvider] is reporting that it is complete. Will not make anymore requests for sites to crawl.
+[2016-12-04 16:38:34,090] [26 ] [INFO ] - All ISiteToCrawlProducer threads have completed
+[2016-12-04 16:38:34,215] [12 ] [INFO ] - Crawl for domain [http://www.calbears.com/SportSelect.dbml?DB_OEM_ID=30100&SPID=126512&SPSID=749424] completed successfully in [2.5006288] seconds, crawled [1] pages
+[2016-12-04 16:38:34,819] [13 ] [INFO ] - Crawl for domain [http://www.ucdavisaggies.com/sports/w-fieldh/mtt/ucda-w-fieldh-mtt.html] completed successfully in [2.501052] seconds, crawled [1] pages
+[2016-12-04 16:38:34,849] [14 ] [INFO ] - Crawl for domain [http://www.pacifictigers.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5010763] seconds, crawled [1] pages
+[2016-12-04 16:38:35,067] [10 ] [INFO ] - Engine is still running...
+[2016-12-04 16:38:36,717] [12 ] [INFO ] - Crawl for domain [http://www.appstatesports.com/SportSelect.dbml?DB_OEM_ID=21500&SPID=12810&SPSID=104457] completed successfully in [2.5001054] seconds, crawled [1] pages
+[2016-12-04 16:38:37,321] [13 ] [INFO ] - Crawl for domain [http://www.liberty.edu/flames/index.cfm?PID=10871&TeamID=18] completed successfully in [2.5006078] seconds, crawled [1] pages
+[2016-12-04 16:38:37,350] [14 ] [INFO ] - Crawl for domain [http://www.goterriers.com/sports/w-fieldh/mtt/bost-w-fieldh-mtt.html] completed successfully in [2.5006131] seconds, crawled [1] pages
+[2016-12-04 16:38:39,218] [12 ] [INFO ] - Crawl for domain [http://www.goleopards.com/sports/w-fieldh/mtt/lafa-w-fieldh-mtt.html] completed successfully in [2.500113] seconds, crawled [1] pages
+[2016-12-04 16:38:39,822] [13 ] [INFO ] - Crawl for domain [http://www.bucknellbison.com/SportSelect.dbml?DB_OEM_ID=32100&SPID=137639&SPSID=848820] completed successfully in [2.5001469] seconds, crawled [1] pages
+[2016-12-04 16:38:39,852] [14 ] [INFO ] - Crawl for domain [http://gocolgateraiders.com/roster.aspx?path=fhockey] completed successfully in [2.5002171] seconds, crawled [1] pages
+[2016-12-04 16:38:40,067] [10 ] [INFO ] - Engine is still running...
+[2016-12-04 16:38:41,719] [12 ] [INFO ] - Crawl for domain [http://www.goholycross.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5006429] seconds, crawled [1] pages
+[2016-12-04 16:38:42,324] [13 ] [INFO ] - Crawl for domain [http://aueagles.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5002662] seconds, crawled [1] pages
+[2016-12-04 16:38:42,354] [14 ] [INFO ] - Crawl for domain [http://www.lehighsports.com/roster.aspx?path=fhockey] completed successfully in [2.5005228] seconds, crawled [1] pages
+[2016-12-04 16:38:42,355] [7  ] [INFO ] - All ISiteToCrawlConsumer threads have completed
+[2016-12-04 16:38:42,355] [7  ] [INFO ] - All crawls have completed
+[2016-12-04 17:14:42,312] [7  ] [INFO ] - Started [1] thread for reporting
+[2016-12-04 17:14:42,312] [24 ] [INFO ] - Engine is still running...
+[2016-12-04 17:14:42,338] [7  ] [INFO ] - Started [1] thread running ISiteToCrawlProducer of type [AbotX.Parallel.SiteToCrawlProducer]
+[2016-12-04 17:14:42,341] [36 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 17:14:42,341] [36 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 17:14:42,343] [7  ] [INFO ] - Started [3] threads running ISiteToCrawlConsumer of type [AbotX.Parallel.SiteToCrawlConsumer]
+[2016-12-04 17:14:44,867] [21 ] [INFO ] - Crawl for domain [http://www.fairfieldstags.com/SportSelect.dbml?DB_OEM_ID=32500&SPID=137814&SPSID=893512] completed successfully in [2.5120258] seconds, crawled [1] pages
+[2016-12-04 17:14:44,867] [35 ] [INFO ] - Crawl for domain [http://unhwildcats.com/sports/fh/2014-15/roster] completed successfully in [2.5120846] seconds, crawled [1] pages
+[2016-12-04 17:14:44,888] [22 ] [INFO ] - Crawl for domain [http://www.goblackbears.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5337098] seconds, crawled [1] pages
+[2016-12-04 17:14:47,339] [24 ] [INFO ] - Engine is still running...
+[2016-12-04 17:14:47,390] [21 ] [INFO ] - Crawl for domain [http://www.ualbanysports.com/SportSelect.dbml?&DB_OEM_ID=15800&SPID=7986&SPSID=70216] completed successfully in [2.5005771] seconds, crawled [1] pages
+[2016-12-04 17:14:47,390] [22 ] [INFO ] - Crawl for domain [http://uvmathletics.com/roster.aspx?path=fhockey] completed successfully in [2.5002229] seconds, crawled [1] pages
+[2016-12-04 17:14:47,392] [35 ] [INFO ] - Crawl for domain [http://www.goriverhawks.com/roster.aspx?path=fhockey] completed successfully in [2.5010093] seconds, crawled [1] pages
+[2016-12-04 17:14:49,894] [35 ] [INFO ] - Crawl for domain [http://www.umassathletics.com/sports/w-fieldh/mtt/umas-w-fieldh-mtt.html] completed successfully in [2.5005631] seconds, crawled [1] pages
+[2016-12-04 17:14:52,339] [24 ] [INFO ] - Engine is still running...
+[2016-12-04 17:14:52,392] [22 ] [INFO ] - Crawl for domain [http://www.richmondspiders.com/SportSelect.dbml?DB_OEM_ID=26800&SPID=94295&SPSID=635148] completed successfully in [5.0004325] seconds, crawled [1] pages
+[2016-12-04 17:14:52,392] [21 ] [INFO ] - Crawl for domain [http://www.sjuhawks.com/SportSelect.dbml?DB_OEM_ID=31200&SPID=127349&SPSID=820710] completed successfully in [5.0005193] seconds, crawled [1] pages
+[2016-12-04 17:14:52,413] [35 ] [INFO ] - Crawl for domain [http://www.slubillikens.com/SportSelect.dbml?&DB_OEM_ID=27200&SPID=95895&SPSID=640267] completed successfully in [2.5180617] seconds, crawled [1] pages
+[2016-12-04 17:14:54,914] [22 ] [INFO ] - Crawl for domain [http://www.goexplorers.com/roster.aspx?path=fhockey] completed successfully in [2.5002384] seconds, crawled [1] pages
+[2016-12-04 17:14:54,918] [35 ] [INFO ] - Crawl for domain [http://www.golhu.com/roster.aspx?path=fhockey] completed successfully in [2.5022402] seconds, crawled [1] pages
+[2016-12-04 17:14:54,938] [21 ] [INFO ] - Crawl for domain [http://www.vcuathletics.com/sports/fh/2014-15/roster] completed successfully in [2.5187093] seconds, crawled [1] pages
+[2016-12-04 17:14:57,340] [24 ] [INFO ] - Engine is still running...
+[2016-12-04 17:14:57,417] [22 ] [INFO ] - Crawl for domain [http://www.sfuathletics.com/roster.aspx?path=fhockey] completed successfully in [2.5005134] seconds, crawled [1] pages
+[2016-12-04 17:14:57,440] [21 ] [INFO ] - Crawl for domain [http://www.wakeforestsports.com/sports/w-fieldh/mtt/wake-w-fieldh-mtt.html] completed successfully in [2.5002624] seconds, crawled [1] pages
+[2016-12-04 17:14:57,440] [35 ] [INFO ] - Crawl for domain [http://www.davidsonwildcats.com/roster.aspx?path=fhockey] completed successfully in [2.5005269] seconds, crawled [1] pages
+[2016-12-04 17:14:58,346] [36 ] [INFO ] - Reported [16] completed site crawls
+[2016-12-04 17:14:58,346] [36 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 17:14:58,346] [36 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 17:14:59,919] [22 ] [INFO ] - Crawl for domain [http://www.virginiasports.com/sports/w-fieldh/mtt/va-w-fieldh-mtt.html] completed successfully in [2.5004707] seconds, crawled [1] pages
+[2016-12-04 17:14:59,964] [21 ] [INFO ] - Crawl for domain [http://www.goheels.com/SportSelect.dbml?SPSID=668169&SPID=12961] completed successfully in [2.5006788] seconds, crawled [1] pages
+[2016-12-04 17:14:59,964] [35 ] [INFO ] - Crawl for domain [http://www.bceagles.com/sports/w-fieldh/mtt/bc-w-fieldh-mtt.html] completed successfully in [2.5006449] seconds, crawled [1] pages
+[2016-12-04 17:15:02,341] [24 ] [INFO ] - Engine is still running...
+[2016-12-04 17:15:02,420] [22 ] [INFO ] - Crawl for domain [http://www.goduke.com/SportSelect.dbml?DB_LANG=C&DB_OEM_ID=4200&SPID=2029&SPSID=25945] completed successfully in [2.5006034] seconds, crawled [1] pages
+[2016-12-04 17:15:02,466] [21 ] [INFO ] - Crawl for domain [http://cuse.com/roster.aspx?path=fhockey] completed successfully in [2.500535] seconds, crawled [1] pages
+[2016-12-04 17:15:02,466] [35 ] [INFO ] - Crawl for domain [http://www.gocards.com/sports/w-fieldh/mtt/lou-w-fieldh-mtt.html] completed successfully in [2.5005678] seconds, crawled [1] pages
+[2016-12-04 17:15:04,922] [22 ] [INFO ] - Crawl for domain [http://www.owlsports.com/roster.aspx?path=fhockey] completed successfully in [2.5006855] seconds, crawled [1] pages
+[2016-12-04 17:15:04,968] [21 ] [INFO ] - Crawl for domain [http://www.uconnhuskies.com/sports/w-fieldh/mtt/conn-w-fieldh-mtt.html] completed successfully in [2.5001022] seconds, crawled [1] pages
+[2016-12-04 17:15:04,969] [35 ] [INFO ] - Crawl for domain [http://www.friars.com/sports/w-fieldh/mtt/prov-w-fieldh-mtt.html] completed successfully in [2.5005634] seconds, crawled [1] pages
+[2016-12-04 17:15:07,341] [24 ] [INFO ] - Engine is still running...
+[2016-12-04 17:15:07,426] [22 ] [INFO ] - Crawl for domain [http://www.villanova.com/sports/w-fieldh/mtt/nova-w-fieldh-mtt.html] completed successfully in [2.502716] seconds, crawled [1] pages
+[2016-12-04 17:15:07,470] [21 ] [INFO ] - Crawl for domain [http://www.guhoyas.com/sports/w-fieldh/mtt/gu-w-fieldh-mtt.html] completed successfully in [2.5010766] seconds, crawled [1] pages
+[2016-12-04 17:15:07,470] [35 ] [INFO ] - Crawl for domain [http://www.odusports.com/SportSelect.dbml?DB_OEM_ID=31100&SPID=127312&SPSID=750424] completed successfully in [2.5003363] seconds, crawled [1] pages
+[2016-12-04 17:15:09,929] [22 ] [INFO ] - Crawl for domain [http://www.umterps.com/SportSelect.dbml?&DB_OEM_ID=29700&SPID=120737&SPSID=751910] completed successfully in [2.5008173] seconds, crawled [1] pages
+[2016-12-04 17:15:09,973] [21 ] [INFO ] - Crawl for domain [http://www.scarletknights.com/fieldhockey/roster/roster.asp] completed successfully in [2.5005587] seconds, crawled [1] pages
+[2016-12-04 17:15:09,974] [35 ] [INFO ] - Crawl for domain [http://www.gopsusports.com/sports/w-fieldh/mtt/psu-w-fieldh-mtt.html] completed successfully in [2.5005394] seconds, crawled [1] pages
+[2016-12-04 17:15:12,341] [24 ] [INFO ] - Engine is still running...
+[2016-12-04 17:15:12,430] [22 ] [INFO ] - Crawl for domain [http://www.nusports.com/sports/w-fieldh/mtt/nw-w-fieldh-mtt.html] completed successfully in [2.50018] seconds, crawled [1] pages
+[2016-12-04 17:15:12,475] [21 ] [INFO ] - Crawl for domain [http://www.hawkeyesports.com/sports/w-fieldh/mtt/iowa-w-fieldh-mtt.html] completed successfully in [2.500566] seconds, crawled [1] pages
+[2016-12-04 17:15:12,476] [35 ] [INFO ] - Crawl for domain [http://www.ohiostatebuckeyes.com/sports/w-fieldh/mtt/osu-w-fieldh-mtt.html] completed successfully in [2.500163] seconds, crawled [1] pages
+[2016-12-04 17:15:14,932] [22 ] [INFO ] - Crawl for domain [http://www.msuspartans.com/sports/w-fieldh/mtt/msu-w-fieldh-mtt.html] completed successfully in [2.5005365] seconds, crawled [1] pages
+[2016-12-04 17:15:14,977] [21 ] [INFO ] - Crawl for domain [http://www.mgoblue.com/sports/w-fieldh/mtt/mich-w-fieldh-mtt.html] completed successfully in [2.5008863] seconds, crawled [1] pages
+[2016-12-04 17:15:17,341] [24 ] [INFO ] - Engine is still running...
+[2016-12-04 17:15:17,433] [22 ] [INFO ] - Crawl for domain [http://www.gonu.com/roster.aspx?path=fhockey] completed successfully in [2.5006598] seconds, crawled [1] pages
+[2016-12-04 17:15:17,489] [21 ] [INFO ] - Crawl for domain [http://www.drexeldragons.com/roster.aspx?path=fhock&] completed successfully in [2.5032552] seconds, crawled [1] pages
+[2016-12-04 17:15:19,937] [22 ] [INFO ] - Crawl for domain [http://www.tribeathletics.com/SportSelect.dbml?SPID=83401&SPSID=608673] completed successfully in [2.5005909] seconds, crawled [1] pages
+[2016-12-04 17:15:19,993] [21 ] [INFO ] - Crawl for domain [http://www.gohofstra.com/SportSelect.dbml?DB_OEM_ID=22200&SPID=13581&SPSID=109570] completed successfully in [2.5004962] seconds, crawled [1] pages
+[2016-12-04 17:15:22,342] [24 ] [INFO ] - Engine is still running...
+[2016-12-04 17:15:22,439] [22 ] [INFO ] - Crawl for domain [http://www.bluehens.com/SportSelect.dbml?DB_OEM_ID=29100&SPID=109910&SPSID=852614] completed successfully in [2.5006043] seconds, crawled [1] pages
+[2016-12-04 17:15:22,495] [21 ] [INFO ] - Crawl for domain [http://www.towsontigers.com/roster.aspx?path=fhockey] completed successfully in [2.5001616] seconds, crawled [1] pages
+[2016-12-04 17:15:23,351] [36 ] [INFO ] - Reported [26] completed site crawls
+[2016-12-04 17:15:23,351] [36 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 17:15:23,351] [36 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 17:15:24,940] [22 ] [INFO ] - Crawl for domain [http://www.jmusports.com/roster.aspx?path=fhockey] completed successfully in [2.5006122] seconds, crawled [1] pages
+[2016-12-04 17:15:24,996] [21 ] [INFO ] - Crawl for domain [http://www.goprincetontigers.com/SportSelect.dbml?SPID=4274&SPSID=46912] completed successfully in [2.500538] seconds, crawled [1] pages
+[2016-12-04 17:15:27,342] [24 ] [INFO ] - Engine is still running...
+[2016-12-04 17:15:27,442] [22 ] [INFO ] - Crawl for domain [http://www.brownbears.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5003802] seconds, crawled [1] pages
+[2016-12-04 17:15:27,497] [21 ] [INFO ] - Crawl for domain [http://www.yalebulldogs.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5001239] seconds, crawled [1] pages
+[2016-12-04 17:15:29,943] [22 ] [INFO ] - Crawl for domain [http://www.gocrimson.com/sports/fh/2014-15/roster] completed successfully in [2.5005461] seconds, crawled [1] pages
+[2016-12-04 17:15:29,999] [21 ] [INFO ] - Crawl for domain [http://www.dartmouthsports.com/SportSelect.dbml?DB_OEM_ID=11600&SPID=4732&SPSID=48955] completed successfully in [2.5005646] seconds, crawled [1] pages
+[2016-12-04 17:15:32,342] [24 ] [INFO ] - Engine is still running...
+[2016-12-04 17:15:32,446] [22 ] [INFO ] - Crawl for domain [http://www.gocolumbialions.com/SportSelect.dbml?DB_OEM_ID=9600&SPID=4050&SPSID=45285] completed successfully in [2.5004573] seconds, crawled [1] pages
+[2016-12-04 17:15:32,501] [21 ] [INFO ] - Crawl for domain [http://www.pennathletics.com/SportSelect.dbml?SPID=609&SPSID=10583] completed successfully in [2.5001703] seconds, crawled [1] pages
+[2016-12-04 17:15:34,947] [22 ] [INFO ] - Crawl for domain [http://www.cornellbigred.com/roster.aspx?path=fhockey&] completed successfully in [2.5005876] seconds, crawled [1] pages
+[2016-12-04 17:15:35,002] [21 ] [INFO ] - Crawl for domain [http://www.gobroncs.com/SportSelect.dbml?SPID=11865&SPSID=96680] completed successfully in [2.5002302] seconds, crawled [1] pages
+[2016-12-04 17:15:37,343] [24 ] [INFO ] - Engine is still running...
+[2016-12-04 17:15:37,449] [22 ] [INFO ] - Crawl for domain [http://www.quinnipiacbobcats.com/sports/fh/2014-15/roster] completed successfully in [2.500642] seconds, crawled [1] pages
+[2016-12-04 17:15:37,504] [21 ] [INFO ] - Crawl for domain [http://www.bryantbulldogs.com/sports/fh/2014-15/roster] completed successfully in [2.5005646] seconds, crawled [1] pages
+[2016-12-04 17:15:39,951] [22 ] [INFO ] - Crawl for domain [http://www.sienasaints.com/sports/w-fieldh/mtt/sien-w-fieldh-mtt.html] completed successfully in [2.500535] seconds, crawled [1] pages
+[2016-12-04 17:15:40,006] [21 ] [INFO ] - Crawl for domain [http://www.monmouthhawks.com/SportSelect.dbml?SPSID=67812&SPID=7663] completed successfully in [2.5005023] seconds, crawled [1] pages
+[2016-12-04 17:15:42,343] [24 ] [INFO ] - Engine is still running...
+[2016-12-04 17:15:42,452] [22 ] [INFO ] - Crawl for domain [http://sacredheartpioneers.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5005245] seconds, crawled [1] pages
+[2016-12-04 17:15:42,507] [21 ] [INFO ] - Crawl for domain [http://www.muredhawks.com/SportSelect.dbml?SPID=108398&SPSID=668518] completed successfully in [2.5005885] seconds, crawled [1] pages
+[2016-12-04 17:15:44,956] [22 ] [INFO ] - Crawl for domain [http://www.cmuchippewas.com/sports/w-fieldh/mtt/cmu-w-fieldh-mtt.html] completed successfully in [2.5005061] seconds, crawled [1] pages
+[2016-12-04 17:15:45,010] [21 ] [INFO ] - Crawl for domain [http://www.missouristatebears.com/sports/w-fieldh/mtt/mosu-w-fieldh-mtt.html] completed successfully in [2.5008007] seconds, crawled [1] pages
+[2016-12-04 17:15:46,567] [35 ] [INFO ] - Crawl for domain [http://www.iuhoosiers.com/sports/w-fieldh/mtt/ind-w-fieldh-mtt.html] completed successfully in [34.0901608] seconds, crawled [245] pages
+[2016-12-04 17:15:47,343] [24 ] [INFO ] - Engine is still running...
+[2016-12-04 17:15:47,458] [22 ] [INFO ] - Crawl for domain [http://ballstatesports.com/SportSelect.dbml?DB_OEM_ID=14200&SPID=7632&SPSID=67654] completed successfully in [2.5005602] seconds, crawled [1] pages
+[2016-12-04 17:15:47,511] [21 ] [INFO ] - Crawl for domain [http://www.ohiobobcats.com/sports/w-fieldh/mtt/ohio-w-fieldh-mtt.html] completed successfully in [2.5005505] seconds, crawled [1] pages
+[2016-12-04 17:15:49,068] [35 ] [INFO ] - Crawl for domain [http://www.kentstatesports.com/roster.aspx?path=fhockey] completed successfully in [2.5005496] seconds, crawled [1] pages
+[2016-12-04 17:15:49,959] [22 ] [INFO ] - Crawl for domain [http://longwoodlancers.com/roster.aspx?path=fhockey] completed successfully in [2.500554] seconds, crawled [1] pages
+[2016-12-04 17:15:50,013] [21 ] [INFO ] - Crawl for domain [http://www.gostanford.com/SportSelect.dbml?DB_OEM_ID=30600&SPID=131108&SPSID=770512] completed successfully in [2.5011461] seconds, crawled [1] pages
+[2016-12-04 17:15:50,356] [36 ] [INFO ] - Reported [24] completed site crawls
+[2016-12-04 17:15:50,356] [36 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 17:15:50,356] [36 ] [INFO ] - Retrieved [3] sites to crawl
+[2016-12-04 17:15:50,356] [36 ] [INFO ] - ISiteToCrawlProvider [AbotX.Parallel.SiteToCrawlProvider] is reporting that it is complete. Will not make anymore requests for sites to crawl.
+[2016-12-04 17:15:51,356] [26 ] [INFO ] - All ISiteToCrawlProducer threads have completed
+[2016-12-04 17:15:51,570] [35 ] [INFO ] - Crawl for domain [http://www.calbears.com/SportSelect.dbml?DB_OEM_ID=30100&SPID=126512&SPSID=749424] completed successfully in [2.500566] seconds, crawled [1] pages
+[2016-12-04 17:15:52,344] [24 ] [INFO ] - Engine is still running...
+[2016-12-04 17:15:52,461] [22 ] [INFO ] - Crawl for domain [http://www.ucdavisaggies.com/sports/w-fieldh/mtt/ucda-w-fieldh-mtt.html] completed successfully in [2.5010473] seconds, crawled [1] pages
+[2016-12-04 17:15:52,516] [21 ] [INFO ] - Crawl for domain [http://www.pacifictigers.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.500929] seconds, crawled [1] pages
+[2016-12-04 17:15:54,072] [35 ] [INFO ] - Crawl for domain [http://www.appstatesports.com/SportSelect.dbml?DB_OEM_ID=21500&SPID=12810&SPSID=104457] completed successfully in [2.5005555] seconds, crawled [1] pages
+[2016-12-04 17:15:54,964] [22 ] [INFO ] - Crawl for domain [http://www.liberty.edu/flames/index.cfm?PID=10871&TeamID=18] completed successfully in [2.5011674] seconds, crawled [1] pages
+[2016-12-04 17:15:55,017] [21 ] [INFO ] - Crawl for domain [http://www.goterriers.com/sports/w-fieldh/mtt/bost-w-fieldh-mtt.html] completed successfully in [2.5005666] seconds, crawled [1] pages
+[2016-12-04 17:15:56,573] [35 ] [INFO ] - Crawl for domain [http://www.goleopards.com/sports/w-fieldh/mtt/lafa-w-fieldh-mtt.html] completed successfully in [2.5005415] seconds, crawled [1] pages
+[2016-12-04 17:15:57,344] [24 ] [INFO ] - Engine is still running...
+[2016-12-04 17:15:57,519] [21 ] [INFO ] - Crawl for domain [http://gocolgateraiders.com/roster.aspx?path=fhockey] completed successfully in [2.5005368] seconds, crawled [1] pages
+[2016-12-04 17:15:59,075] [35 ] [INFO ] - Crawl for domain [http://www.goholycross.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5002919] seconds, crawled [1] pages
+[2016-12-04 17:15:59,966] [22 ] [INFO ] - Crawl for domain [http://www.bucknellbison.com/SportSelect.dbml?DB_OEM_ID=32100&SPID=137639&SPSID=848820] completed successfully in [5.0012627] seconds, crawled [1] pages
+[2016-12-04 17:16:00,020] [21 ] [INFO ] - Crawl for domain [http://aueagles.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5005736] seconds, crawled [1] pages
+[2016-12-04 17:16:01,577] [35 ] [INFO ] - Crawl for domain [http://www.lehighsports.com/roster.aspx?path=fhockey] completed successfully in [2.5001201] seconds, crawled [1] pages
+[2016-12-04 17:16:01,578] [7  ] [INFO ] - All ISiteToCrawlConsumer threads have completed
+[2016-12-04 17:16:01,578] [7  ] [INFO ] - All crawls have completed
+[2016-12-04 17:18:10,307] [25 ] [INFO ] - Started [1] thread for reporting
+[2016-12-04 17:18:10,309] [32 ] [INFO ] - Engine is still running...
+[2016-12-04 17:18:10,310] [25 ] [INFO ] - Started [1] thread running ISiteToCrawlProducer of type [AbotX.Parallel.SiteToCrawlProducer]
+[2016-12-04 17:18:10,311] [38 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 17:18:10,311] [38 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 17:18:10,335] [25 ] [INFO ] - Started [3] threads running ISiteToCrawlConsumer of type [AbotX.Parallel.SiteToCrawlConsumer]
+[2016-12-04 17:18:12,813] [39 ] [INFO ] - Crawl for domain [http://unhwildcats.com/sports/fh/2014-15/roster] completed successfully in [2.5004854] seconds, crawled [1] pages
+[2016-12-04 17:18:12,835] [40 ] [INFO ] - Crawl for domain [http://www.goblackbears.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5212196] seconds, crawled [1] pages
+[2016-12-04 17:18:12,839] [41 ] [INFO ] - Crawl for domain [http://www.fairfieldstags.com/SportSelect.dbml?DB_OEM_ID=32500&SPID=137814&SPSID=893512] completed successfully in [2.5094874] seconds, crawled [1] pages
+[2016-12-04 17:18:15,310] [32 ] [INFO ] - Engine is still running...
+[2016-12-04 17:18:15,314] [39 ] [INFO ] - Crawl for domain [http://www.ualbanysports.com/SportSelect.dbml?&DB_OEM_ID=15800&SPID=7986&SPSID=70216] completed successfully in [2.500388] seconds, crawled [1] pages
+[2016-12-04 17:18:15,339] [40 ] [INFO ] - Crawl for domain [http://uvmathletics.com/roster.aspx?path=fhockey] completed successfully in [2.500576] seconds, crawled [1] pages
+[2016-12-04 17:18:15,343] [41 ] [INFO ] - Crawl for domain [http://www.goriverhawks.com/roster.aspx?path=fhockey] completed successfully in [2.5028405] seconds, crawled [1] pages
+[2016-12-04 17:18:17,816] [39 ] [INFO ] - Crawl for domain [http://www.sjuhawks.com/SportSelect.dbml?DB_OEM_ID=31200&SPID=127349&SPSID=820710] completed successfully in [2.5008822] seconds, crawled [1] pages
+[2016-12-04 17:18:17,847] [41 ] [INFO ] - Crawl for domain [http://www.umassathletics.com/sports/w-fieldh/mtt/umas-w-fieldh-mtt.html] completed successfully in [2.501211] seconds, crawled [1] pages
+[2016-12-04 17:18:20,310] [32 ] [INFO ] - Engine is still running...
+[2016-12-04 17:18:20,320] [39 ] [INFO ] - Crawl for domain [http://www.slubillikens.com/SportSelect.dbml?&DB_OEM_ID=27200&SPID=95895&SPSID=640267] completed successfully in [2.5005219] seconds, crawled [1] pages
+[2016-12-04 17:18:20,342] [40 ] [INFO ] - Crawl for domain [http://www.richmondspiders.com/SportSelect.dbml?DB_OEM_ID=26800&SPID=94295&SPSID=635148] completed successfully in [5.00122] seconds, crawled [1] pages
+[2016-12-04 17:18:20,349] [41 ] [INFO ] - Crawl for domain [http://www.goexplorers.com/roster.aspx?path=fhockey] completed successfully in [2.5010164] seconds, crawled [1] pages
+[2016-12-04 17:18:22,822] [39 ] [INFO ] - Crawl for domain [http://www.golhu.com/roster.aspx?path=fhockey] completed successfully in [2.5010435] seconds, crawled [1] pages
+[2016-12-04 17:18:22,844] [40 ] [INFO ] - Crawl for domain [http://www.vcuathletics.com/sports/fh/2014-15/roster] completed successfully in [2.5006683] seconds, crawled [1] pages
+[2016-12-04 17:18:22,850] [41 ] [INFO ] - Crawl for domain [http://www.sfuathletics.com/roster.aspx?path=fhockey] completed successfully in [2.500557] seconds, crawled [1] pages
+[2016-12-04 17:18:25,311] [32 ] [INFO ] - Engine is still running...
+[2016-12-04 17:18:25,324] [39 ] [INFO ] - Crawl for domain [http://www.davidsonwildcats.com/roster.aspx?path=fhockey] completed successfully in [2.5006961] seconds, crawled [1] pages
+[2016-12-04 17:18:25,346] [40 ] [INFO ] - Crawl for domain [http://www.wakeforestsports.com/sports/w-fieldh/mtt/wake-w-fieldh-mtt.html] completed successfully in [2.5002732] seconds, crawled [1] pages
+[2016-12-04 17:18:25,352] [41 ] [INFO ] - Crawl for domain [http://www.virginiasports.com/sports/w-fieldh/mtt/va-w-fieldh-mtt.html] completed successfully in [2.5005491] seconds, crawled [1] pages
+[2016-12-04 17:18:26,316] [38 ] [INFO ] - Reported [17] completed site crawls
+[2016-12-04 17:18:26,316] [38 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 17:18:26,316] [38 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 17:18:27,826] [39 ] [INFO ] - Crawl for domain [http://www.goheels.com/SportSelect.dbml?SPSID=668169&SPID=12961] completed successfully in [2.5005894] seconds, crawled [1] pages
+[2016-12-04 17:18:27,848] [40 ] [INFO ] - Crawl for domain [http://www.bceagles.com/sports/w-fieldh/mtt/bc-w-fieldh-mtt.html] completed successfully in [2.5010678] seconds, crawled [1] pages
+[2016-12-04 17:18:27,854] [41 ] [INFO ] - Crawl for domain [http://www.goduke.com/SportSelect.dbml?DB_LANG=C&DB_OEM_ID=4200&SPID=2029&SPSID=25945] completed successfully in [2.5004821] seconds, crawled [1] pages
+[2016-12-04 17:18:30,311] [32 ] [INFO ] - Engine is still running...
+[2016-12-04 17:18:30,328] [39 ] [INFO ] - Crawl for domain [http://cuse.com/roster.aspx?path=fhockey] completed successfully in [2.500497] seconds, crawled [1] pages
+[2016-12-04 17:18:30,350] [40 ] [INFO ] - Crawl for domain [http://www.gocards.com/sports/w-fieldh/mtt/lou-w-fieldh-mtt.html] completed successfully in [2.500493] seconds, crawled [1] pages
+[2016-12-04 17:18:30,355] [41 ] [INFO ] - Crawl for domain [http://www.owlsports.com/roster.aspx?path=fhockey] completed successfully in [2.5001896] seconds, crawled [1] pages
+[2016-12-04 17:18:32,831] [39 ] [INFO ] - Crawl for domain [http://www.uconnhuskies.com/sports/w-fieldh/mtt/conn-w-fieldh-mtt.html] completed successfully in [2.5005549] seconds, crawled [1] pages
+[2016-12-04 17:18:32,853] [40 ] [INFO ] - Crawl for domain [http://www.friars.com/sports/w-fieldh/mtt/prov-w-fieldh-mtt.html] completed successfully in [2.5014503] seconds, crawled [1] pages
+[2016-12-04 17:18:32,857] [41 ] [INFO ] - Crawl for domain [http://www.villanova.com/sports/w-fieldh/mtt/nova-w-fieldh-mtt.html] completed successfully in [2.500379] seconds, crawled [1] pages
+[2016-12-04 17:18:35,312] [32 ] [INFO ] - Engine is still running...
+[2016-12-04 17:18:35,334] [39 ] [INFO ] - Crawl for domain [http://www.guhoyas.com/sports/w-fieldh/mtt/gu-w-fieldh-mtt.html] completed successfully in [2.5001464] seconds, crawled [1] pages
+[2016-12-04 17:18:35,356] [40 ] [INFO ] - Crawl for domain [http://www.odusports.com/SportSelect.dbml?DB_OEM_ID=31100&SPID=127312&SPSID=750424] completed successfully in [2.5011075] seconds, crawled [1] pages
+[2016-12-04 17:18:35,358] [41 ] [INFO ] - Crawl for domain [http://www.umterps.com/SportSelect.dbml?&DB_OEM_ID=29700&SPID=120737&SPSID=751910] completed successfully in [2.5001008] seconds, crawled [1] pages
+[2016-12-04 17:18:37,836] [39 ] [INFO ] - Crawl for domain [http://www.scarletknights.com/fieldhockey/roster/roster.asp] completed successfully in [2.500353] seconds, crawled [1] pages
+[2016-12-04 17:18:37,858] [40 ] [INFO ] - Crawl for domain [http://www.gopsusports.com/sports/w-fieldh/mtt/psu-w-fieldh-mtt.html] completed successfully in [2.50058] seconds, crawled [1] pages
+[2016-12-04 17:18:37,860] [41 ] [INFO ] - Crawl for domain [http://www.nusports.com/sports/w-fieldh/mtt/nw-w-fieldh-mtt.html] completed successfully in [2.50022] seconds, crawled [1] pages
+[2016-12-04 17:18:40,312] [32 ] [INFO ] - Engine is still running...
+[2016-12-04 17:18:40,337] [39 ] [INFO ] - Crawl for domain [http://www.hawkeyesports.com/sports/w-fieldh/mtt/iowa-w-fieldh-mtt.html] completed successfully in [2.5004643] seconds, crawled [1] pages
+[2016-12-04 17:18:40,360] [40 ] [INFO ] - Crawl for domain [http://www.ohiostatebuckeyes.com/sports/w-fieldh/mtt/osu-w-fieldh-mtt.html] completed successfully in [2.5010932] seconds, crawled [1] pages
+[2016-12-04 17:18:40,361] [41 ] [INFO ] - Crawl for domain [http://www.msuspartans.com/sports/w-fieldh/mtt/msu-w-fieldh-mtt.html] completed successfully in [2.5002399] seconds, crawled [1] pages
+[2016-12-04 17:18:42,839] [39 ] [INFO ] - Crawl for domain [http://www.mgoblue.com/sports/w-fieldh/mtt/mich-w-fieldh-mtt.html] completed successfully in [2.5005517] seconds, crawled [1] pages
+[2016-12-04 17:18:42,863] [41 ] [INFO ] - Crawl for domain [http://www.gonu.com/roster.aspx?path=fhockey] completed successfully in [2.5002112] seconds, crawled [1] pages
+[2016-12-04 17:18:45,312] [32 ] [INFO ] - Engine is still running...
+[2016-12-04 17:18:45,341] [39 ] [INFO ] - Crawl for domain [http://www.drexeldragons.com/roster.aspx?path=fhock&] completed successfully in [2.5005704] seconds, crawled [1] pages
+[2016-12-04 17:18:45,376] [41 ] [INFO ] - Crawl for domain [http://www.tribeathletics.com/SportSelect.dbml?SPID=83401&SPSID=608673] completed successfully in [2.5002074] seconds, crawled [1] pages
+[2016-12-04 17:18:47,842] [39 ] [INFO ] - Crawl for domain [http://www.gohofstra.com/SportSelect.dbml?DB_OEM_ID=22200&SPID=13581&SPSID=109570] completed successfully in [2.5001747] seconds, crawled [1] pages
+[2016-12-04 17:18:47,877] [41 ] [INFO ] - Crawl for domain [http://www.bluehens.com/SportSelect.dbml?DB_OEM_ID=29100&SPID=109910&SPSID=852614] completed successfully in [2.5005146] seconds, crawled [1] pages
+[2016-12-04 17:18:48,347] [38 ] [INFO ] - Reported [24] completed site crawls
+[2016-12-04 17:18:48,347] [38 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 17:18:48,347] [38 ] [INFO ] - Retrieved [25] sites to crawl
+[2016-12-04 17:18:50,312] [32 ] [INFO ] - Engine is still running...
+[2016-12-04 17:18:50,343] [39 ] [INFO ] - Crawl for domain [http://www.towsontigers.com/roster.aspx?path=fhockey] completed successfully in [2.5001268] seconds, crawled [1] pages
+[2016-12-04 17:18:50,379] [41 ] [INFO ] - Crawl for domain [http://www.jmusports.com/roster.aspx?path=fhockey] completed successfully in [2.5001101] seconds, crawled [1] pages
+[2016-12-04 17:18:52,867] [39 ] [INFO ] - Crawl for domain [http://www.goprincetontigers.com/SportSelect.dbml?SPID=4274&SPSID=46912] completed successfully in [2.5001984] seconds, crawled [1] pages
+[2016-12-04 17:18:52,880] [41 ] [INFO ] - Crawl for domain [http://www.brownbears.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5006072] seconds, crawled [1] pages
+[2016-12-04 17:18:55,313] [32 ] [INFO ] - Engine is still running...
+[2016-12-04 17:18:55,369] [39 ] [INFO ] - Crawl for domain [http://www.yalebulldogs.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.501047] seconds, crawled [1] pages
+[2016-12-04 17:18:55,387] [41 ] [INFO ] - Crawl for domain [http://www.gocrimson.com/sports/fh/2014-15/roster] completed successfully in [2.5005415] seconds, crawled [1] pages
+[2016-12-04 17:18:57,871] [39 ] [INFO ] - Crawl for domain [http://www.dartmouthsports.com/SportSelect.dbml?DB_OEM_ID=11600&SPID=4732&SPSID=48955] completed successfully in [2.5005155] seconds, crawled [1] pages
+[2016-12-04 17:18:57,889] [41 ] [INFO ] - Crawl for domain [http://www.gocolumbialions.com/SportSelect.dbml?DB_OEM_ID=9600&SPID=4050&SPSID=45285] completed successfully in [2.5010669] seconds, crawled [1] pages
+[2016-12-04 17:19:00,313] [32 ] [INFO ] - Engine is still running...
+[2016-12-04 17:19:00,372] [39 ] [INFO ] - Crawl for domain [http://www.pennathletics.com/SportSelect.dbml?SPID=609&SPSID=10583] completed successfully in [2.5005312] seconds, crawled [1] pages
+[2016-12-04 17:19:00,391] [41 ] [INFO ] - Crawl for domain [http://www.cornellbigred.com/roster.aspx?path=fhockey&] completed successfully in [2.5005669] seconds, crawled [1] pages
+[2016-12-04 17:19:01,296] [40 ] [INFO ] - Crawl for domain [http://www.iuhoosiers.com/sports/w-fieldh/mtt/ind-w-fieldh-mtt.html] completed successfully in [20.9344216] seconds, crawled [245] pages
+[2016-12-04 17:19:02,875] [39 ] [INFO ] - Crawl for domain [http://www.gobroncs.com/SportSelect.dbml?SPID=11865&SPSID=96680] completed successfully in [2.5007323] seconds, crawled [1] pages
+[2016-12-04 17:19:02,893] [41 ] [INFO ] - Crawl for domain [http://www.quinnipiacbobcats.com/sports/fh/2014-15/roster] completed successfully in [2.5002542] seconds, crawled [1] pages
+[2016-12-04 17:19:03,797] [40 ] [INFO ] - Crawl for domain [http://www.bryantbulldogs.com/sports/fh/2014-15/roster] completed successfully in [2.5001417] seconds, crawled [1] pages
+[2016-12-04 17:19:05,313] [32 ] [INFO ] - Engine is still running...
+[2016-12-04 17:19:05,377] [39 ] [INFO ] - Crawl for domain [http://www.sienasaints.com/sports/w-fieldh/mtt/sien-w-fieldh-mtt.html] completed successfully in [2.5004339] seconds, crawled [1] pages
+[2016-12-04 17:19:05,395] [41 ] [INFO ] - Crawl for domain [http://www.monmouthhawks.com/SportSelect.dbml?SPSID=67812&SPID=7663] completed successfully in [2.5002314] seconds, crawled [1] pages
+[2016-12-04 17:19:06,300] [40 ] [INFO ] - Crawl for domain [http://sacredheartpioneers.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.501787] seconds, crawled [1] pages
+[2016-12-04 17:19:07,879] [39 ] [INFO ] - Crawl for domain [http://www.muredhawks.com/SportSelect.dbml?SPID=108398&SPSID=668518] completed successfully in [2.5009798] seconds, crawled [1] pages
+[2016-12-04 17:19:07,897] [41 ] [INFO ] - Crawl for domain [http://www.cmuchippewas.com/sports/w-fieldh/mtt/cmu-w-fieldh-mtt.html] completed successfully in [2.5010447] seconds, crawled [1] pages
+[2016-12-04 17:19:08,802] [40 ] [INFO ] - Crawl for domain [http://www.missouristatebears.com/sports/w-fieldh/mtt/mosu-w-fieldh-mtt.html] completed successfully in [2.500438] seconds, crawled [1] pages
+[2016-12-04 17:19:10,314] [32 ] [INFO ] - Engine is still running...
+[2016-12-04 17:19:10,383] [39 ] [INFO ] - Crawl for domain [http://ballstatesports.com/SportSelect.dbml?DB_OEM_ID=14200&SPID=7632&SPSID=67654] completed successfully in [2.5004462] seconds, crawled [1] pages
+[2016-12-04 17:19:10,399] [41 ] [INFO ] - Crawl for domain [http://www.ohiobobcats.com/sports/w-fieldh/mtt/ohio-w-fieldh-mtt.html] completed successfully in [2.5005467] seconds, crawled [1] pages
+[2016-12-04 17:19:11,304] [40 ] [INFO ] - Crawl for domain [http://www.kentstatesports.com/roster.aspx?path=fhockey] completed successfully in [2.5001578] seconds, crawled [1] pages
+[2016-12-04 17:19:12,885] [39 ] [INFO ] - Crawl for domain [http://longwoodlancers.com/roster.aspx?path=fhockey] completed successfully in [2.5005885] seconds, crawled [1] pages
+[2016-12-04 17:19:12,901] [41 ] [INFO ] - Crawl for domain [http://www.gostanford.com/SportSelect.dbml?DB_OEM_ID=30600&SPID=131108&SPSID=770512] completed successfully in [2.500509] seconds, crawled [1] pages
+[2016-12-04 17:19:13,373] [38 ] [INFO ] - Reported [25] completed site crawls
+[2016-12-04 17:19:13,373] [38 ] [INFO ] - Retrieving up to [25] sites to crawl
+[2016-12-04 17:19:13,373] [38 ] [INFO ] - Retrieved [3] sites to crawl
+[2016-12-04 17:19:13,373] [38 ] [INFO ] - ISiteToCrawlProvider [AbotX.Parallel.SiteToCrawlProvider] is reporting that it is complete. Will not make anymore requests for sites to crawl.
+[2016-12-04 17:19:13,805] [40 ] [INFO ] - Crawl for domain [http://www.calbears.com/SportSelect.dbml?DB_OEM_ID=30100&SPID=126512&SPSID=749424] completed successfully in [2.500109] seconds, crawled [1] pages
+[2016-12-04 17:19:14,373] [13 ] [INFO ] - All ISiteToCrawlProducer threads have completed
+[2016-12-04 17:19:15,314] [32 ] [INFO ] - Engine is still running...
+[2016-12-04 17:19:15,387] [39 ] [INFO ] - Crawl for domain [http://www.ucdavisaggies.com/sports/w-fieldh/mtt/ucda-w-fieldh-mtt.html] completed successfully in [2.5005999] seconds, crawled [1] pages
+[2016-12-04 17:19:15,403] [41 ] [INFO ] - Crawl for domain [http://www.pacifictigers.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5002641] seconds, crawled [1] pages
+[2016-12-04 17:19:16,307] [40 ] [INFO ] - Crawl for domain [http://www.appstatesports.com/SportSelect.dbml?DB_OEM_ID=21500&SPID=12810&SPSID=104457] completed successfully in [2.5003334] seconds, crawled [1] pages
+[2016-12-04 17:19:17,889] [39 ] [INFO ] - Crawl for domain [http://www.liberty.edu/flames/index.cfm?PID=10871&TeamID=18] completed successfully in [2.5006081] seconds, crawled [1] pages
+[2016-12-04 17:19:17,904] [41 ] [INFO ] - Crawl for domain [http://www.goterriers.com/sports/w-fieldh/mtt/bost-w-fieldh-mtt.html] completed successfully in [2.5006096] seconds, crawled [1] pages
+[2016-12-04 17:19:18,808] [40 ] [INFO ] - Crawl for domain [http://www.goleopards.com/sports/w-fieldh/mtt/lafa-w-fieldh-mtt.html] completed successfully in [2.5004924] seconds, crawled [1] pages
+[2016-12-04 17:19:20,314] [32 ] [INFO ] - Engine is still running...
+[2016-12-04 17:19:20,390] [39 ] [INFO ] - Crawl for domain [http://www.bucknellbison.com/SportSelect.dbml?DB_OEM_ID=32100&SPID=137639&SPSID=848820] completed successfully in [2.5005587] seconds, crawled [1] pages
+[2016-12-04 17:19:20,406] [41 ] [INFO ] - Crawl for domain [http://gocolgateraiders.com/roster.aspx?path=fhockey] completed successfully in [2.50059] seconds, crawled [1] pages
+[2016-12-04 17:19:21,311] [40 ] [INFO ] - Crawl for domain [http://www.goholycross.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5004731] seconds, crawled [1] pages
+[2016-12-04 17:19:22,892] [39 ] [INFO ] - Crawl for domain [http://aueagles.com/sports/w-fieldh/2014-15/roster] completed successfully in [2.5006899] seconds, crawled [1] pages
+[2016-12-04 17:19:22,908] [41 ] [INFO ] - Crawl for domain [http://www.lehighsports.com/roster.aspx?path=fhockey] completed successfully in [2.5004228] seconds, crawled [1] pages
+[2016-12-04 17:19:22,940] [7  ] [INFO ] - All ISiteToCrawlConsumer threads have completed
+[2016-12-04 17:19:22,941] [7  ] [INFO ] - All crawls have completed

@@ -20,9 +20,10 @@ namespace Spider.Repository
 
         public static Regex NameColumnRegex => new Regex(@"^\s*(Full\s+)?Name\s*$", RegexOptions.Compiled | RegexOptions.IgnoreCase);
 
-        public static Regex MajorRegex => new Regex(@"<td\b[^>]*>\s*major:?\s*</td>", RegexOptions.Compiled | RegexOptions.IgnoreCase | RegexOptions.Singleline);
+        public static Regex ClassColumnRegex => new Regex(@"^\s*(YR.?|CL.?)\s*$", RegexOptions.Compiled | RegexOptions.IgnoreCase);
 
-        public static Regex MajorMinorRegex => new Regex(@">\s*major(/minor)?:?\s*(<[^>]+>)*(?<major>[^<]+)\s*<", RegexOptions.Compiled | RegexOptions.IgnoreCase | RegexOptions.Singleline);
+        public static Regex PositionColumnRegex => new Regex(@"^\s*(POS.?)\s*$", RegexOptions.Compiled | RegexOptions.IgnoreCase);
 
+        public static Regex MajorColumnRegex => new Regex(@"^\s*(MAJOR.?)\s*$", RegexOptions.Compiled | RegexOptions.IgnoreCase);
     }
 }
