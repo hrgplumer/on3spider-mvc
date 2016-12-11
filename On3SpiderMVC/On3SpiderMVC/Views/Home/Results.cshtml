@@ -36,27 +36,28 @@
 
             foreach (var result in Model.ResultsList)
             {
-                <p>
+                <div style="margin-top: 15px; font-size: 16px;">
                     <a href="@result.Url" target="_blank">@result.School</a>
-                </p>
+                </div>
 
 
                 if (result.Results?.Players != null && result.Results.Players.Any())
                 {
+                    <div style="font-size: 16px;">@result.Results.Players.Count() Players found.</div>
                     <table data-toggle="table"
                            data-query-params="queryParams"
                            data-pagination="true"
                            data-search="true"
                            data-height="300">
                         <thead>
-                            <tr>
-                                <th data-field="name">Name</th>
-                                <th data-field="height">Height</th>
-                                <th data-field="weight">Weight</th>
-                                <th data-field="position">Position</th>
-                                <th data-field="class">Class</th>
-                                <th data-field="major">Major</th>
-                            </tr>
+                        <tr>
+                            <th data-field="name">Name</th>
+                            <th data-field="height">Height</th>
+                            <th data-field="weight">Weight</th>
+                            <th data-field="position">Position</th>
+                            <th data-field="class">Class</th>
+                            <th data-field="major">Major</th>
+                        </tr>
                         </thead>
                         <tbody>
                         @foreach (var player in result.Results.Players.Where(player => player != null))
@@ -73,6 +74,10 @@
                         </tbody>
                     </table>
 
+                }
+                else
+                {
+                    <div style="color: red">NO PLAYERS FOUND</div>
                 }
             }
         }

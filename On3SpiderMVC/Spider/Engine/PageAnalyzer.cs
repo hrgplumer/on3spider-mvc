@@ -19,7 +19,7 @@ namespace Spider.Engine
     {
         private readonly IEnumerable<CrawledPage> _pages;
         private readonly String _category;
-        private readonly Dictionary<string, ISheetRow> _urlDictionary; 
+        private readonly Dictionary<string, ISheetRow> _urlDictionary;
 
         public PageAnalyzer(IEnumerable<CrawledPage> pages, string category, Dictionary<string, ISheetRow> urlDict)
         {
@@ -145,8 +145,24 @@ namespace Spider.Engine
                         foreach (var row in dataRows)
                         {
                             var rowCells = row.SelectNodes("./td");
+
                             if (rowCells == null || rowCells.Count != numColsInTable)
                             {
+                                /* Check if the first row of this table has hidden column for headshots. This is fairly common, but throws off our counts.
+                                Need to increment our column counts as a result.
+                                */
+                                //if (rowCells != null && rowCells.Any() &&
+                                //    rowCells[0].Attributes["class"].Value == "headshot")
+                                //{
+                                //    playerNumberCellIndex++;
+                                //    playerNameIndex++;
+                                //    classColumnIndex++;
+                                //    positionColumnIndex++;
+                                //    majorColumnIndex++;
+                                //}
+                                //else {
+                                //    continue;
+                                //}
                                 continue;
                             }
 
@@ -196,13 +212,19 @@ namespace Spider.Engine
                                 playerMajor = majorCell.InnerText.Trim();
                             }
 
-                            playerList.Add(new Player()
+                            var newPlayer = new Player()
                             {
                                 FirstLast = playerName,
                                 Class = playerClass,
                                 Position = playerPosition,
                                 Major = playerMajor
-                            });
+                            };
+
+                            // Check we don't already have this player. Some pages have massive duplicates that must be accounted for
+                            if (!playerList.Exists(p => Player.Equals(p, newPlayer)))
+                            {
+                                playerList.Add(newPlayer);
+                            }
                         }
                     }
                 }
