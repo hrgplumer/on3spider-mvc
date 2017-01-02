@@ -78,19 +78,22 @@ namespace Spider.Engine
         private async Task<IList<ISheetRow>> ProcessCrawledPagesAsync()
         {
             var stack = new Stack<CrawledPage>();
+            var pageResults = new ConcurrentBag<ISheetRow>();
+
             while (!_allCrawlsCompleted)
             {
                 CrawledPage page = null;
                 if (_queue.TryDequeue(out page))
                 {
                     if (page == null) continue;
+
                     Trace.WriteLine($"Dequeued page {page.Uri.AbsoluteUri}: queue has {_queue.Count()} elements remaining");
 
                     // add dequeued page to stack
                     stack.Push(page);
 
-                    // if we've reached the threshold of pages we want to process in a single thread,
-                    // create the thread and process it
+                    /* if we've reached the threshold of pages we want to process in a single thread,
+                     create the thread and process it */
                     if (stack.Count == PageAnalyzeThreshold)
                     {
                         var stackItems = stack.ToArray();
@@ -98,14 +101,16 @@ namespace Spider.Engine
                         Trace.WriteLine("cleared stack");
                         var results = await ProcessPage(stackItems);
 
-                        Trace.WriteLine("All crawls completed. Shutting down...");
-                        return results;
+                        // add results to thread-safe bag
+                        foreach (var result in results)
+                        {
+                            pageResults.Add(result);
+                        }
                     }
                 }
             }
 
-            // if we make it here without returning, something went wrong.
-            return null;
+            return pageResults.ToList();
         }
 
         /// <summary>
@@ -150,7 +155,7 @@ namespace Spider.Engine
             args.Crawler.PageCrawlCompleted += Crawler_PageCrawlCompleted;
         }
 
-        public async void Crawler_PageCrawlCompleted(object sender, PageCrawlCompletedArgs args)
+        public void Crawler_PageCrawlCompleted(object sender, PageCrawlCompletedArgs args)
         {
             var crawledPage = args.CrawledPage;
 

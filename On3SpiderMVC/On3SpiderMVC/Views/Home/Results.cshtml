@@ -30,11 +30,11 @@
         }
         else
         {
-            <h1>URLs crawled: @Model.ResultsList.Count</h1>
+            <h1>URLs crawled: @Model.ResultsList.Count(r => r.Results?.Players != null && r.Results.Players.Any())</h1>
 
             <h3>Results</h3>
 
-            foreach (var result in Model.ResultsList)
+            foreach (var result in Model.ResultsList.OrderBy(r => r.School))
             {
                 <div style="margin-top: 15px; font-size: 16px;">
                     <a href="@result.Url" target="_blank">@result.School</a>
