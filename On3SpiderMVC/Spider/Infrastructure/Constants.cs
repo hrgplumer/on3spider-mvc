@@ -8,6 +8,8 @@ namespace Spider.Infrastructure
 {
     public static class Constants
     {
+        public const string PageAnalyzeThresholdSettingName = "PageAnalyzeThreshold";
+
         public static class FileCategory
         {
             public const string Roster = "Roster";

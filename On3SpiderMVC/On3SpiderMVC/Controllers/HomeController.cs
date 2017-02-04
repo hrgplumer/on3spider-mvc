@@ -13,6 +13,7 @@ using Spider.Interface;
 using System.Threading.Tasks;
 using Spider.Engine;
 using Abot.Poco;
+using On3SpiderMVC.Infrastructure.Compare;
 using On3SpiderMVC.ViewModels.Home;
 using Spider.Infrastructure.Excel;
 
@@ -84,10 +85,15 @@ namespace On3SpiderMVC.Controllers
                         // Start the crawling engine on a new thread
                         var crawlResults = await Task.Run(() => StartCrawlingEngineAsync(urlInfoDict, category));
 
+                        /* Crawl results will have many duplicates due to the web crawler returning multiples. Need to 
+                           trim these out by ensuring the final list contains only 1 object for each URL.
+                        */
+                        var trimmedResults = crawlResults.Distinct(new SheetRowComparer()).ToList();
+
                         return View("Results", new ResultsViewModel()
                         {
                             Error = "Success",
-                            ResultsList = crawlResults
+                            ResultsList = trimmedResults
                         });
                     }
                 }

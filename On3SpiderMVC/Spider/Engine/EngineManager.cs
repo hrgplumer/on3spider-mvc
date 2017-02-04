@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Diagnostics;
 using System.Linq;
 using System.Net;
@@ -10,6 +11,7 @@ using System.Threading.Tasks;
 using Abot.Crawler;
 using Abot.Poco;
 using AbotX.Parallel;
+using Spider.Infrastructure;
 using Spider.Interface;
 
 namespace Spider.Engine
@@ -25,7 +27,7 @@ namespace Spider.Engine
         private readonly Dictionary<string, ISheetRow> _urlDictionary;
 
         // this should be moved out to App.config
-        private const int PageAnalyzeThreshold = 20;
+        private readonly int PageAnalyzeThreshold;
 
         /// <summary>
         /// Volatile flag used by the page crawling thread to signal that it is finished processing.
@@ -53,6 +55,25 @@ namespace Spider.Engine
             _category = category;
             _urlDictionary = urlDict;
             _queue = queue;
+
+            // Set page analyze threshold to value in app.config, OR the URL count if URL count is less
+            try
+            {
+                var threshold = Convert.ToInt32(ConfigurationManager.AppSettings[Constants.PageAnalyzeThresholdSettingName]);
+                PageAnalyzeThreshold = _urlDictionary.Count < threshold ? _urlDictionary.Count : threshold;
+            }
+            catch (FormatException ex)
+            {
+                throw new Exception("Could not parse PageAnalyzeThreshold setting in app.config. Make sure this setting exists.", ex);
+            }
+            catch (OverflowException ex)
+            {
+                throw new Exception("PageAnalyzeThreshold setting in app.config caused integer overflow. Lower this setting to Int32 range.", ex);
+            }
+            catch (ConfigurationErrorsException ex)
+            {
+                throw new Exception("Configuration error encountered when retrieving PageAnalyzeThreshold setting in app.config. Check this setting.", ex);
+            }
 
             RegisterCrawlerEvents();
         }
@@ -94,7 +115,7 @@ namespace Spider.Engine
 
                     /* if we've reached the threshold of pages we want to process in a single thread,
                      create the thread and process it */
-                    if (stack.Count == PageAnalyzeThreshold)
+                    if (stack.Count >= PageAnalyzeThreshold)
                     {
                         var stackItems = stack.ToArray();
                         stack.Clear();
