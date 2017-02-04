@@ -30,7 +30,9 @@
         }
         else
         {
-            <h1>URLs crawled: @Model.ResultsList.Count(r => r.Results?.Players != null && r.Results.Players.Any())</h1>
+            <h1>URLs crawled: @Model.ResultsList.Count</h1>
+
+            <h3>Results found for @Model.ResultsList.Count(r => r.Results?.Players != null && r.Results.Players.Any()) schools</h3>
 
             <h3>Results</h3>
 

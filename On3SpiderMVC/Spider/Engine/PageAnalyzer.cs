@@ -144,29 +144,50 @@ namespace Spider.Engine
                     {
                         foreach (var row in dataRows)
                         {
+                            // keep cell index counts for each loop iteration -- will change if headshot column exists
+                            //var tempPlayerNumberCellIndex = playerNumberCellIndex;
+                            var tempPlayerNameIndex = playerNameIndex;
+                            var tempClassColumnIndex = classColumnIndex;
+                            var tempPositionColumnIndex = positionColumnIndex;
+                            var tempMajorColumnIndex = majorColumnIndex;
+
                             var rowCells = row.SelectNodes("./td");
 
                             if (rowCells == null || rowCells.Count != numColsInTable)
                             {
-                                /* Check if the first row of this table has hidden column for headshots. This is fairly common, but throws off our counts.
-                                Need to increment our column counts as a result.
+                                /* Check if the first column of this row is a hidden column for headshots. This is fairly common, but throws off our counts.
+                                Need to increment our column counts if so.
                                 */
-                                //if (rowCells != null && rowCells.Any() &&
-                                //    rowCells[0].Attributes["class"].Value == "headshot")
-                                //{
-                                //    playerNumberCellIndex++;
-                                //    playerNameIndex++;
-                                //    classColumnIndex++;
-                                //    positionColumnIndex++;
-                                //    majorColumnIndex++;
-                                //}
-                                //else {
-                                //    continue;
-                                //}
-                                continue;
+                                if (rowCells != null && rowCells.Any() &&
+                                    rowCells[0].Attributes["class"] != null &&
+                                    rowCells[0].Attributes["class"].Value == "headshot")
+                                {
+                                    // Only increment these values if > 0; if they are < 0 it means they don't exist as a column
+
+                                    tempPlayerNameIndex = tempPlayerNameIndex < 0
+                                        ? tempPlayerNameIndex
+                                        : tempPlayerNameIndex + 1;
+
+                                    tempClassColumnIndex = tempClassColumnIndex < 0
+                                        ? tempClassColumnIndex
+                                        : tempClassColumnIndex + 1;
+
+                                    tempPositionColumnIndex = tempPositionColumnIndex < 0 
+                                        ? tempPositionColumnIndex
+                                        : tempPositionColumnIndex + 1;
+
+                                    tempMajorColumnIndex = tempMajorColumnIndex < 0 
+                                        ? tempMajorColumnIndex 
+                                        : tempMajorColumnIndex + 1;
+                                }
+                                else {
+                                    continue;
+                                }
+
+                                //continue;
                             }
 
-                            var playerCell = rowCells[playerNameIndex];
+                            var playerCell = rowCells[tempPlayerNameIndex];
                             var playerUrlTag = playerCell.SelectSingleNode("a") ?? playerCell.SelectSingleNode(".//a");
 
                             if (playerUrlTag == null)
@@ -191,24 +212,24 @@ namespace Spider.Engine
                             // find out more info about player here (position? height/weight? class?)
                             // get player year/class (freshman, sophomore, etc)
                             var playerClass = String.Empty;
-                            if (classColumnIndex > 0)
+                            if (tempClassColumnIndex > 0)
                             {
-                                var classCell = rowCells[classColumnIndex];
+                                var classCell = rowCells[tempClassColumnIndex];
                                 playerClass = classCell.InnerText.Trim();
                             }
 
                             // get player position
                             var playerPosition = String.Empty;
-                            if (positionColumnIndex > 0)
+                            if (tempPositionColumnIndex > 0)
                             {
-                                var positionCell = rowCells[positionColumnIndex];
+                                var positionCell = rowCells[tempPositionColumnIndex];
                                 playerPosition = positionCell.InnerText.Trim();
                             }
 
                             var playerMajor = String.Empty;
-                            if (majorColumnIndex > 0)
+                            if (tempMajorColumnIndex > 0)
                             {
-                                var majorCell = rowCells[majorColumnIndex];
+                                var majorCell = rowCells[tempMajorColumnIndex];
                                 playerMajor = majorCell.InnerText.Trim();
                             }
 
