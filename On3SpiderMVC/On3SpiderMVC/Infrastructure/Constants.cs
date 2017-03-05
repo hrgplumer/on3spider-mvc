@@ -11,10 +11,10 @@ namespace On3SpiderMVC.Infrastructure
         public static string UploadFileLocation => ConfigurationManager.AppSettings["UploadFileLocation"];
 
         public static IEnumerable<string> FileCategories => new List<string> {
-            String.Empty,
+            //String.Empty,
             "Roster",
-            "Schedule",
-            "Homepage"
+            //"Schedule",
+            //"Homepage"
         };
     }
 }

@@ -101,7 +101,7 @@ namespace Spider.Engine
             var stack = new Stack<CrawledPage>();
             var pageResults = new ConcurrentBag<ISheetRow>();
 
-            while (!_allCrawlsCompleted)
+            while (!_allCrawlsCompleted || !_queue.IsEmpty())
             {
                 CrawledPage page = null;
                 if (_queue.TryDequeue(out page))
@@ -162,7 +162,7 @@ namespace Spider.Engine
         public void Crawler_AllCrawlsCompleted(object sender, AllCrawlsCompletedArgs args)
         {
             _allCrawlsCompleted = true;
-            Trace.WriteLine("Completed crawling all sites");
+            Trace.WriteLine($"Completed crawling all sites, queue has {_queue.Count()} elements remaining");
         }
 
         public void Crawler_SiteCrawlCompleted(object sender, SiteCrawlCompletedArgs args)
